@@ -1,0 +1,8 @@
+\changetocdepth {1}
+\select@language {danish}
+\contentsline {chapter}{\chapternumberline {1}Problemanalyse}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Patientgruppe}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Smerte}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Smerte typer}{3}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Problemet ved kronisk smerte og operationer}{3}{subsection.1.2.2}
+\contentsline {chapter}{\chapternumberline {2}Syntese}{5}{chapter.2}
