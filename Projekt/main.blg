@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: unsrtnat.bst
+Database file #1: kilder.bib
+Warning--I didn't find a database entry for "ugeskrift2011"
+Warning--I didn't find a database entry for "skou2016"
+Warning--I didn't find a database entry for "1"
+Warning--I didn't find a database entry for "Martini"
+Warning--I didn't find a database entry for "skou2015"
+Warning--empty journal in sygdom
+Warning--empty publisher in schroder
+Warning--empty publisher in brostrom2012
+Warning--empty journal in aarsrapport2016
+Warning--empty year in aarsrapport2016
+Warning--empty year in aarsrapport2016
+Warning--empty publisher in Carmon
+Warning--empty year in Carmon
+Warning--empty year in Carmon
+Warning--empty publisher in Wals2009
+Warning--empty journal in Parks2012
+Warning--empty publisher in Yarnitsky2006
+Warning--empty publisher in Robinson2008
+You've used 24 entries,
+            2481 wiz_defined-function locations,
+            738 strings with 10135 characters,
+and the built_in function-call counts, 9382 in all, are:
+= -- 751
+> -- 578
+< -- 12
++ -- 223
+- -- 174
+* -- 792
+:= -- 1580
+add.period$ -- 101
+call.type$ -- 24
+change.case$ -- 42
+chr.to.int$ -- 23
+cite$ -- 37
+duplicate$ -- 433
+empty$ -- 793
+format.name$ -- 204
+if$ -- 1922
+int.to.chr$ -- 2
+int.to.str$ -- 25
+missing$ -- 26
+newline$ -- 157
+num.names$ -- 72
+pop$ -- 210
+preamble$ -- 1
+purify$ -- 24
+quote$ -- 0
+skip$ -- 247
+stack$ -- 0
+substring$ -- 292
+swap$ -- 48
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 150
+warning$ -- 13
+while$ -- 69
+width$ -- 0
+write$ -- 356
+(There were 18 warnings)
