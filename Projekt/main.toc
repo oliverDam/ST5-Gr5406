@@ -1,26 +1,28 @@
 \changetocdepth {1}
 \select@language {danish}
 \contentsline {chapter}{\chapternumberline {1}Introduktion}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Indledning}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Initierende problemstilling}{2}{section.1.2}
 \contentsline {chapter}{\chapternumberline {2}Problemanalyse}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Patientgruppe}{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}Behandling}{6}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Ikke-kiurgisk behandling}{6}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Kirurgisk behandling}{6}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.2}Kirurgisk behandling}{7}{subsection.2.2.2}
 \contentsline {subsubsection}{Osteotomi}{7}{section*.5}
-\contentsline {subsubsection}{Alloplastik}{7}{section*.6}
-\contentsline {paragraph}{Succeskriterier}{8}{section*.8}
-\contentsline {section}{\numberline {2.3}Smerte}{8}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Smertes anatomi eller fysiologi}{8}{subsection.2.3.1}
+\contentsline {subsubsection}{Alloplastik}{8}{section*.6}
+\contentsline {paragraph}{Succeskriterier}{9}{section*.8}
+\contentsline {section}{\numberline {2.3}Smerte}{10}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Smertes anatomi eller fysiologi}{10}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}Smertetyper}{11}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Akut smerte}{12}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Kronisk smerte}{14}{subsection.2.3.4}
+\contentsline {subsubsection}{Akut smerte}{12}{section*.12}
+\contentsline {subsubsection}{Kronisk smerte}{13}{section*.14}
 \contentsline {section}{\numberline {2.4}Klinisk udv\IeC {\ae }lgelse af patienter}{14}{section.2.4}
-\contentsline {section}{\numberline {2.5}Teknologier til vurdering af smerte}{17}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}fMRI}{17}{subsection.2.5.1}
-\contentsline {subsubsection}{Anvendelse til detektion af smerte}{17}{section*.12}
+\contentsline {section}{\numberline {2.5}Teknologier til vurdering af smerte}{16}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Functional Magnetic Resonance Imaging}{17}{subsection.2.5.1}
+\contentsline {subsubsection}{Anvendelse til detektion af smerte}{17}{section*.15}
 \contentsline {subsection}{\numberline {2.5.2}Quantitative sensory testing}{18}{subsection.2.5.2}
-\contentsline {subsubsection}{Anvendelse til detektion af smerte}{18}{section*.14}
+\contentsline {subsubsection}{Anvendelse til detektion af smerte}{18}{section*.17}
 \contentsline {subsection}{\numberline {2.5.3}Elektrofysiologiske unders\IeC {\o }gelsesmetoder}{19}{subsection.2.5.3}
-\contentsline {subsubsection}{Anvendelse til detektion af smerte}{19}{section*.15}
-\contentsline {chapter}{\chapternumberline {3}Syntese}{21}{chapter.3}
-\contentsline {chapter}{Litteratur}{23}{section*.18}
+\contentsline {subsubsection}{Anvendelse til detektion af smerte}{19}{section*.18}
+\contentsline {section}{\numberline {2.6}Projektafgr\IeC {\ae }nsning}{20}{section.2.6}
+\contentsline {chapter}{Litteratur}{21}{section*.21}

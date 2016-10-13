@@ -1,4 +1,4 @@
-\begin{thebibliography}{37}
+\begin{thebibliography}{43}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -47,6 +47,12 @@ Ole {Simonsen, Anne Birgitte; J{\o}rgensen, Anette; Laursen, Mogens Berg;
 Anders Odgaard and Gentofte Hospital.
 \newblock {Dansk Kn{\ae}alloplastikregister, {\{}$\backslash$AA{\}}rsrapport
   2016}.
+
+\bibitem[DKR(2011)]{aarsrapport2011}
+DKR.
+\newblock \emph{{Dansk Kn{\ae}alloplastik Register}}.
+\newblock 2011.
+\newblock ISBN 9788799336432.
 
 \bibitem[Lind(2016{\natexlab{a}})]{Lind2016b}
 Martin Lind.
@@ -127,6 +133,33 @@ A.~{Von Keudell}, S.~Sodha, J.~Collins, T.~Minas, W.~Fitz, and A.~H. Gomoll.
 \bibitem[ado()]{adobe}
 {Adobe Stock}.
 \newblock URL \url{https://stock.adobe.com/dk/}.
+
+\bibitem[Juhl et~al.(2014)Juhl, Christensen, Roos, Zhang, and
+  Lund]{Syssorenskou}
+C.~Juhl, R.~Christensen, E.~M. Roos, W.~Zhang, and H.~Lund.
+\newblock {Impact of exercise type and dose on pain and disability in knee
+  osteoarthritis: A systematic review and meta-regression analysis of
+  randomized controlled trials}.
+\newblock \emph{Arthritis and Rheumatology}, 66\penalty0 (3):\penalty0
+  622--636, 2014.
+\newblock ISSN 23265205.
+\newblock \doi{10.1002/art.38290}.
+
+\bibitem[Skou(2016)]{sorenskou}
+S{\o}ren~T. Skou.
+\newblock {No Title}.
+\newblock \emph{ugeskrift for l{\ae}ger}, 178:\penalty0 1139, 2016.
+
+\bibitem[Skou et~al.(2015)Skou, E.M., M.B., M.S., L., and O.]{newEngland}
+S{\o}ren~T. Skou, Roos E.M., Laursen M.B., Rathleff M.S., Arendt-Nielsen L.,
+  and Simonsen O.
+\newblock {A Randomized, Controlled Trial of Total Knee Replacement}.
+\newblock \emph{New England Journal of Medicine}, 373\penalty0 (17):\penalty0
+  1597--1606, 2015.
+\newblock ISSN 1533-4406.
+\newblock \doi{10.1056/NEJMoa1505467}.
+\newblock URL
+  \url{http://www.nejm.org/doi/pdf/10.1056/NEJMoa1505467$\backslash$nhttp://ovidsp.ovid.com/ovidweb.cgi?T=JS{\&}PAGE=reference{\&}D=emed13{\&}NEWS=N{\&}AN=2015469720$\backslash$nhttp://ovidsp.ovid.com/ovidweb.cgi?T=JS{\&}PAGE=reference{\&}D=emed13{\&}NEWS=N{\&}AN=26488691}.
 
 \bibitem[for referenceprogrammer(2004)]{Osteotomi_og_TKA}
 Styregruppen for referenceprogrammer.
@@ -224,6 +257,16 @@ Paul~R. Fortin, Ann~E. Clarke, Lawrence Joseph, Matthew~H. Liang, Michael
 \newblock ISSN 00043591.
 \newblock \doi{10.1002/1529-0131(199908)42:8<1722::AID-ANR22>3.0.CO;2-R}.
 
+\bibitem[{Street Jr.}(2002)]{street2002}
+Richard~L {Street Jr.}
+\newblock {Gender differences in health care provider{\&}{\#}x2013;patient
+  communication: are they due to style, stereotypes, or accommodation?}
+\newblock \emph{Patient Education and Counseling}, 48\penalty0 (3):\penalty0
+  201--206, 2002.
+\newblock ISSN 0738-3991.
+\newblock \doi{10.1016/S0738-3991(02)00171-4}.
+\newblock URL \url{http://dx.doi.org/10.1016/S0738-3991(02)00171-4}.
+
 \bibitem[Wright et~al.(1995)Wright, Coyte, Hawker, Bombardier, Cooke, Heck,
   Dittus, and Freund]{wright1995}
 J.~G. Wright, P.~Coyte, G.~Hawker, C.~Bombardier, D.~Cooke, D.~Heck, R.~Dittus,
@@ -277,6 +320,17 @@ David Yarnitsky and Michal Granot.
 \newblock \doi{10.1016/S0072-9752(06)80031-X}.
 \newblock URL
   \url{http://www.ncbi.nlm.nih.gov/pubmed/18808849$\backslash$nhttp://linkinghub.elsevier.com/retrieve/pii/S007297520680031X}.
+
+\bibitem[Rolke et~al.(2006)Rolke, Magerl, Campbell, Schalber, Caspari,
+  Birklein, and Treede]{Rolke2006}
+R.~Rolke, W.~Magerl, K.~Andrews Campbell, C.~Schalber, S.~Caspari, F.~Birklein,
+  and R.~D. Treede.
+\newblock {Quantitative sensory testing: A comprehensive protocol for clinical
+  trials}.
+\newblock \emph{European Journal of Pain}, 10\penalty0 (1):\penalty0 77--88,
+  2006.
+\newblock ISSN 10903801.
+\newblock \doi{10.1016/j.ejpain.2005.02.003}.
 
 \bibitem[Martinez et~al.(2007)Martinez, Fletcher, Bouhassira, Sessler, and
   Chauvin]{Martinez2007}
