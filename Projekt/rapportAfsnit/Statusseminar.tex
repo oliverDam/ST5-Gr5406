@@ -1,3 +1,8 @@
+\input{../preambleNy.tex}
+\raggedbottom
+\input{../macros.tex}
+\begin{document}
+
 \chapter{Statusseminar}
 
 
@@ -21,11 +26,12 @@ Der opstilles derfor en initierende problemstilling:
 
 \subsection*{Initierende problemstilling}
 \begin{center}
-	\textit{Hvorfor oplever 11 til 25\% af TKA-patienter kroniske postoperative smerter?}
+	\textit{Hvorfor får nogle knæartrose patienter kroniske postoperative smerter efter en total knæalloplastik?}
 \end{center}
 
 
 \section{Problemanalyse}
+\textit{måske der skal være noget tekst her inden det hele starter?}
 
 \subsection{Patientmålgruppe}
 
@@ -35,7 +41,7 @@ En patients symptomer kan medføre igangsættelsen af et behandlingsforløb. Et 
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=1\textwidth]{figures/bProblemanalyse/flowchart_behandlingsforloeb.png}
+	\includegraphics[width=1\textwidth]{../figures/bProblemanalyse/flowchart_behandlingsforloeb.png}
 	\caption{På figuren ses et flowchart indeholdende de forskellige behandlingsmetoder der forekommer igennem et patientforløb med knæartrose.}
 	\label{fig:flow_behandlingsfaser}
 \end{figure}\vspace{-.25cm}
@@ -51,7 +57,7 @@ Alloplastik er et operativt indgreb der har til formål helt eller delvist at ud
 
 \begin{figure}[H] 
 	\begin{center}
-		\includegraphics[width=0.7\textwidth]{figures/tka_implant}
+		\includegraphics[width=0.7\textwidth]{../figures/tka_implant}
 	\end{center}
 	\caption{Komponenterne til en total knæalloplastik, består af et femural og tibia implantat ofte bestående af en titaniumlegering. Patella- og tibiaindsatsen er lavet af polyethylen, hvilket er med til at mindske friktionen og efterligne knæledes naturlige bevægelse.\cite{1}} 
 	\label{fig:tka_implant} 
@@ -61,22 +67,45 @@ Efter en vellykket operation burde patienter ikke oplever smerter, dette er imid
 
 \subsection{Smerte}
 
+Smerte er defineret som: “\textit{An unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage.}” af The International Association for the Study of Pain (IASP) \citep{Giangregorio1997}, \citep{Carmon}.\\
+Smerter registreres af noiceptorer i kroppen. De fleste smertereceptorer er frie neuronender som forgrener sig ud i hele kroppen, og ligger frit i væv. De dækker således et stort område og kan reagere på forskellige typer stimuli som vævet bliver udsat for. Typen af stimuli bliver bestemt afhængig af hvilke nociceptorer som aktiveres. Forskellige nociceptorer besidder forskellige typer af natrium-/kaliumporte, som aktiveres ved temperaturændring, trykforandring og kemisk foranding, som ses på figur \ref{neuronport}.
+
+Der findes flere måder at opdele og kategorisere smerte på, men generelt kan det opdeles i to overordnede kategorier; akut og kronisk. Efter TKA-operationer oplever patienter akut smerte, men denne fortager sig hurtigt hvis alt forløber som forventet. Problemet opstår når patienterne får kroniske postoperative smerter. Kronisk smerte er af IASP defineret som at være smerteperception som varer længere end det generelt ville forventes, oftest sættes denne grænse ved tre måneder \citep{Carmon}. Kronisk smerte kan skyldes fejl i nervesystemet på baggrund af akutte nociceptiske eller neuropatiske skader. Efter den akutte smerte har fortages sig, fortsætter smerteperceptionen, tilsyneladende uden grund. Patienten kan så opleve konstante smerte, periodiske smerte, smerte ved bevægelse eller opbyggende smerter som kulminere i det uudholdelige. Kronisk smerte kan også være af psykogen oprindelse. Psykogene smerter er en imaginær perception af smerte, og derved besværlig at præcisere, idet der ikke er og muligvis aldrig har været en fysisk årsag til smerten. Hos en person med psykogene smerter er hjernen fuldt overbevidst om, at den oplever fysiske, nociceptiske eller neuropatiske, smerter og lider deraf. Smerten er udelukkende psykisk hos personen, men er af den grund ikke mindre virkelig, grundet smertes subjektive natur. \citep{Giangregorio1997}
+
+\subsection{Klinisk udvælgelse af patienter til TKA-operation}
+
+
+Patienter som tilbydes en TKA udvælges på baggrund af en læge eller kirurgs observationer og erfaringer.
+Hermed afhænger udvælgelsen af patienter til en TKA operation af klinikere, hvormed patienter kan opleve forskellige anbefalinger og behandlingsmuligheder ved forskellige klinikere. Sundhedsstyrrelsen har udarbejdet nationale retningslinjer samt en række indikationer som kan få klinikeren til at fravælge en patient til en operation. Disse indikationer er eksempelvis infektioner i knogler eller leddet, hvis patienten ingen smerter har i leddet eller hvis patienten har en kort forventet levetid. 
+%En anden indikator, som kan få en kliniker til at fravælge at operere patienten, er hvis patienten har urealistiske forventninger til operationen.
+Et studie af \cite{skou2016} har fundet en uoverenstemmelse mellem hvilke faktorer kirurgerne fandt vigtigst for patientens egnethed til TKA og hvilke faktorer de samme kirurger udvalgte patienter ud fra. Denne uoverensstemmelse viser hvor kompleks udvælgelsesprocessen for en TKA er, samt vanskelighederne ved at bestemme hvilke faktorer der har størst betydning for en klinikers beslutningsprocess. Udfra resultaterne fra studiet af \cite{skou2016} antydes det at klinikerne anvender både bevidste og ubevidste faktorer til bestemmelse af patienters egnethed til en TKA. Desuden er det fundet at klinikerne har svært ved at vurdere patienter, hvis ikke der er klare indikationer som gør patienten enten egnet eller uegnet til en TKA-operation. 
+I de tilfælde hvor der ikke er klare indikationer på at patienten vil have gavn af en TKA, ville en teknologisk metode der kunne hjælpe klinikeren med at vurdere patienten. Ved anvendelse af en sådan teknologisk metode vil det ligeledes være muligt at inddrage andre faktorer i udvælgelsen af patienter til TKA, samt undgå mulige ubevidste bias hos kilnikeren. 
+
+\subsection{Teknologier til vurdering af smerte}
+For at understøtte klinikerens vurdering af de enkelte patienter vedrørende henstilling til TKA, kan det overvejes, hvorvidt det vil være hensigtsmæssigt at tilføje en ekstra undersøgelse til patientens udredningsforløb forud for beslutningstagen. Relevante undersøgelser indebære objektive målinger af neural aktivitet i forskellige situationer, samt vurdering af patienternes individuelle respons på forskellige typer af stimuli. Der følger flere teknologier hvilke objektivt kunne undersøge patienters perception af smerte og reaktion på stimuli, men der fokuseres her udelukkende på quantitative sensory testing (QST) for korthedens skyld. 
+
+QST er en metode til undersøgelse af det sensoriske nervesystems funktion. Metoden kan anvendes til undersøgelse af forskellige egenskaber, herunder smertegrænser. QST eksponerer patienten for forskellig sensorisk sensation, ved tests, der involverer varme og kulde, vibration og tryk. Patienten rangere sin opfattelse af smerten på en VAS (Visual Analog Scale) hvor smerten rangeres mellem 1 (mindst smerte) til 10 (værst tænkelige smerte). Dermed er det muligt at identificere patientens perception af smerte.
+QST bliver i forskningsregi anvendt til undersøgelse af patienter der får udført TKA. I et studie af \citep{Martinez2007} undersøges 20 patienter med artrose i knæet før og efter en TKA. Formålet hermed var at identificere faktorer, der har indvirkning på udviklingen af postoperative smerter. QST blev udført henholdsvis før operationen og efterfølgende en og fire dage samt en og fire måneder efter operationen. Parametrene der blev undersøgt i QST'en var tærskelværdier for temperatur, mekanisk smerte og hvordan de enkelte patienter responderede på en eksponering for temperaturer over tærskelværdierne. Studiet fandt, at der forekommer en sammenhæng mellem periodiske smerter efter operationen og de patienter, der oplever hyperalgesi under eksponering for varme. \citep{Martinez2007} Der skal imidlertid tages højde for, at der er flere fejlkilder forbundet med QST, da nøjagtigheden i høj grad afhænger af både patientens og undersøgerens præcision under udførelsen af de enkelte tests. Det må således forventes, at der kan forekomme variationer mellem enkelte QST udført på den samme patient. \citep{Yarnitsky2006}
+
+
+\subsection{Problemafgrænsning}
+
+\textit{tekst} \\
+\textit{tekst} \\
+\textit{tekst} \\
+
+\subsection*{Problemformulering}
+
+\begin{center}
+	\textit{Hvilke konsekvenser er der forbundet med en implementering af QST som supplement til klinikerens vurdering af patienten til indstilling til TKA, på de ortopædkirurgiske afdelinger i Region Nordjylland?}
+\end{center}
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+\end{document}
 
 
 
