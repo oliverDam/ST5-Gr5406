@@ -4,6 +4,8 @@ The top-level auxiliary file: Statusseminar.aux
 The style file: unsrtnat.bst
 Database file #1: ../kilder.bib
 Warning--I didn't find a database entry for "1"
+Warning--I didn't find a database entry for "HTAcore"
+Warning--I didn't find a database entry for "mtvhaandbog2007"
 Warning--empty publisher in schroder
 Warning--empty journal in sygdom
 Warning--empty journal in aarsrapport2016
@@ -13,45 +15,45 @@ Warning--empty publisher in brostrom2012
 Warning--empty publisher in Carmon
 Warning--empty year in Carmon
 Warning--empty year in Carmon
-You've used 16 entries,
+You've used 15 entries,
             2481 wiz_defined-function locations,
-            662 strings with 7915 characters,
-and the built_in function-call counts, 5680 in all, are:
-= -- 473
-> -- 276
-< -- 10
-+ -- 115
-- -- 82
-* -- 435
-:= -- 931
-add.period$ -- 61
-call.type$ -- 16
-change.case$ -- 29
-chr.to.int$ -- 15
-cite$ -- 25
-duplicate$ -- 282
-empty$ -- 528
-format.name$ -- 100
-if$ -- 1180
+            657 strings with 7800 characters,
+and the built_in function-call counts, 5347 in all, are:
+= -- 441
+> -- 269
+< -- 9
++ -- 111
+- -- 80
+* -- 412
+:= -- 880
+add.period$ -- 58
+call.type$ -- 15
+change.case$ -- 27
+chr.to.int$ -- 14
+cite$ -- 24
+duplicate$ -- 263
+empty$ -- 492
+format.name$ -- 97
+if$ -- 1109
 int.to.chr$ -- 2
-int.to.str$ -- 17
-missing$ -- 15
-newline$ -- 101
-num.names$ -- 48
-pop$ -- 149
+int.to.str$ -- 16
+missing$ -- 14
+newline$ -- 96
+num.names$ -- 45
+pop$ -- 142
 preamble$ -- 1
-purify$ -- 16
+purify$ -- 15
 quote$ -- 0
-skip$ -- 166
+skip$ -- 155
 stack$ -- 0
-substring$ -- 191
-swap$ -- 32
+substring$ -- 170
+swap$ -- 30
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 103
+type$ -- 96
 warning$ -- 9
-while$ -- 45
+while$ -- 41
 width$ -- 0
-write$ -- 227
-(There were 10 warnings)
+write$ -- 214
+(There were 12 warnings)

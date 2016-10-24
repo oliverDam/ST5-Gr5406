@@ -1,4 +1,4 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{15}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -82,12 +82,6 @@ Martin Lind.
 \newblock {Artrose, Kn{\ae}}, 2016{\natexlab{b}}.
 \newblock URL
   \url{https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/artrose-knae/}.
-
-\bibitem[for referenceprogrammer(2004)]{Osteotomi_og_TKA}
-Styregruppen for referenceprogrammer.
-\newblock {DOS Referenceprogram}.
-\newblock \emph{Dansk Ortop{\ae}dkirurgisk Selskab}, ortopaedi.\penalty0
-  (4):\penalty0 1--162, 2004.
 
 \bibitem[Giangregorio et~al.(1997)Giangregorio, Papaioannou, Cranney, Zytaruk,
   and Adachi]{Giangregorio1997}

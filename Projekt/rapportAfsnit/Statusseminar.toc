@@ -1,0 +1,12 @@
+\changetocdepth {1}
+\select@language {danish}
+\contentsline {chapter}{\chapternumberline {1}Introduktion}{2}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}Problemanalyse - udsnit}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Patientm\IeC {\r a}lgruppe}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Kirurgisk behandling}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Smerte}{4}{section.2.3}
+\contentsline {section}{\numberline {2.4}Klinisk udv\IeC {\ae }lgelse af patienter til TKA-operation}{4}{section.2.4}
+\contentsline {section}{\numberline {2.5}Teknologier til vurdering af smerte}{5}{section.2.5}
+\contentsline {section}{\numberline {2.6}Problemafgr\IeC {\ae }nsning}{5}{section.2.6}
+\contentsline {section}{\numberline {2.7}Fremtidig metode}{6}{section.2.7}
+\contentsline {chapter}{Litteratur}{8}{section*.7}
