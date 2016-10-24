@@ -1,0 +1,372 @@
+\begin{thebibliography}{43}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Flachs et~al.(2015)Flachs, Eriksen, and Koch]{sygdom}
+Esben~Maulengracht Flachs, Louise Eriksen, and Mette~Bjerrum Koch.
+\newblock {Sygdomsbyrden i danmark}.
+\newblock 2015.
+
+\bibitem[Schroder(2012)]{schroder}
+Torben Schroder.
+\newblock \emph{{Basisbog i medicin og kirugi 5. udgave}}.
+\newblock 2012.
+
+\bibitem[Beswick et~al.(2012)Beswick, Wylde, Gooberman-Hill, Blom, and
+  Dieppe]{bezwick2012}
+Andrew~David Beswick, Vikki Wylde, Rachael Gooberman-Hill, Ashley Blom, and
+  Paul Dieppe.
+\newblock {What proportion of patients report long-term pain after total hip or
+  knee replacement for osteoarthritis? A systematic review of prospective
+  studies in unselected patients.}
+\newblock \emph{BMJ open}, 2\penalty0 (1):\penalty0 e000435, 2012.
+\newblock ISSN 1471-2474.
+\newblock \doi{10.1186/s12891-015-0469-6}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3289991{\&}tool=pmcentrez{\&}rendertype=abstract}.
+
+\bibitem[Brostr{\o}m(2012)]{brostrom2012}
+S{\o}ren Brostr{\o}m.
+\newblock \emph{{Kn{\ae}artrose - nationale kliniske retningslinjer og faglige
+  visitationsretningslinjer}}.
+\newblock 2012.
+\newblock ISBN 978-87-7104-442-3.
+
+\bibitem[{Simonsen, Anne Birgitte; J{\o}rgensen, Anette; Laursen, Mogens Berg;
+  J{\o}rgensen, Mogens Brouw; Rasmussen, Sten; Simonsen}(2011)]{ugeskrift2011}
+Ole {Simonsen, Anne Birgitte; J{\o}rgensen, Anette; Laursen, Mogens Berg;
+  J{\o}rgensen, Mogens Brouw; Rasmussen, Sten; Simonsen}.
+\newblock {Klinisk, radiologisk og artroskopisk graduering af kn{\ae}artrose}.
+\newblock \emph{ugeskrift for l{\ae}ger}, 173:\penalty0 956--958, 2011.
+\newblock \doi{0041-5782}.
+
+\bibitem[Odgaard and Hospital()]{aarsrapport2016}
+Anders Odgaard and Gentofte Hospital.
+\newblock {Dansk Kn{\ae}alloplastikregister, {\{}$\backslash$AA{\}}rsrapport
+  2016}.
+
+\bibitem[DKR(2011)]{aarsrapport2011}
+DKR.
+\newblock \emph{{Dansk Kn{\ae}alloplastik Register}}.
+\newblock 2011.
+\newblock ISBN 9788799336432.
+
+\bibitem[Lind(2016{\natexlab{a}})]{Lind2016b}
+Martin Lind.
+\newblock {Artrose, Kn{\ae}}, 2016{\natexlab{a}}.
+\newblock URL
+  \url{https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/artrose-knae/}.
+
+\bibitem[Vestergaard(2014)]{Vestergaard2014}
+Henrik Vestergaard.
+\newblock {Overv{\ae}gt og fedme}, 2014.
+\newblock URL
+  \url{https://www.sundhed.dk/borger/patienthaandbogen/hormoner-og-stofskifte/sygdomme/overvaegt-og-kost/overvaegt-og-fedme/}.
+
+\bibitem[Vestergaard(2016)]{Vestergaard2016}
+Henrik Vestergaard.
+\newblock {Overv{\ae}gt (L{\ae}geh{\aa}ndbogen)}, 2016.
+\newblock URL
+  \url{https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/endokrinologi/tilstande-og-sygdomme/overvaegt/overvaegt/}.
+
+\bibitem[Lind(2016{\natexlab{b}})]{Lind2016}
+Martin Lind.
+\newblock {Slidgigt i kn{\ae}et (Kn{\ae}artrose)}, 2016{\natexlab{b}}.
+\newblock URL
+  \url{https://www.sundhed.dk/borger/patienthaandbogen/knogler-muskler-og-led/sygdomme/knae/slidgigt-i-knaeet-knaeartrose/}.
+
+\bibitem[Skou et~al.(2016)Skou, Roos, Laursen, Rathleff, Arendt-Nielsen,
+  Simonsen, and Rasmussen]{skou2016}
+S{\o}ren~T. Skou, Ewa~M. Roos, Mogens~B. Laursen, Michael~S. Rathleff, Lars
+  Arendt-Nielsen, Ole Simonsen, and Sten Rasmussen.
+\newblock {Criteria used when deciding on eligibility for total knee
+  arthroplasty - Between thinking and doing}.
+\newblock \emph{Knee}, 23\penalty0 (2):\penalty0 300--305, 2016.
+\newblock ISSN 18735800.
+\newblock \doi{10.1016/j.knee.2015.08.012}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.knee.2015.08.012}.
+
+\bibitem[Petersen et~al.(2015)Petersen, Simonsen, Laursen, Nielsen, Rasmussen,
+  and Arendt-Nielsen]{Petersen2015}
+Kristian~K Petersen, Ole Simonsen, Mogens~B Laursen, Thomas~a Nielsen, Sten
+  Rasmussen, and Lars Arendt-Nielsen.
+\newblock {Chronic postoperative pain after primary and revision total knee
+  arthroplasty.}
+\newblock \emph{The Clinical journal of pain}, 31\penalty0 (1):\penalty0 1--6,
+  2015.
+\newblock ISSN 1536-5409.
+\newblock \doi{10.1097/AJP.0000000000000146}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/25485953}.
+
+\bibitem[Bourne et~al.(2010)Bourne, Chesworth, Davis, Mahomed, and
+  Charron]{Bourne2010}
+Robert~B. Bourne, Bert~M. Chesworth, Aileen~M. Davis, Nizar~N. Mahomed, and
+  K.~D~J Charron.
+\newblock {Patient satisfaction after total knee arthroplasty: Who is satisfied
+  and who is not?}
+\newblock \emph{Clinical Orthopaedics and Related Research}, 468\penalty0
+  (1):\penalty0 57--63, 2010.
+\newblock ISSN 0009921X.
+\newblock \doi{10.1007/s11999-009-1119-9}.
+
+\bibitem[Jacobs et~al.(2014)Jacobs, Christensen, and Karthikeyan]{Jacobs2014}
+Cale~A. Jacobs, Christian~P. Christensen, and Tharun Karthikeyan.
+\newblock {Patient and Intraoperative Factors Influencing Satisfaction Two to
+  Five Years After Primary Total Knee Arthroplasty}.
+\newblock \emph{Journal of Arthroplasty}, 29\penalty0 (8):\penalty0 1576--1579,
+  2014.
+\newblock ISSN 15328406.
+\newblock \doi{10.1016/j.arth.2014.03.022}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.arth.2014.01.008}.
+
+\bibitem[Sakellariou et~al.(2016)Sakellariou, Poultsides, Ma, Bae, Liu, and
+  Sculco]{Sakellariou2016}
+V~I Sakellariou, L~A Poultsides, Y~Ma, J~Bae, S~Liu, and T~P Sculco.
+\newblock {Risk Assessment for Chronic Pain and Patient Satisfaction After
+  Total Knee Arthroplasty}.
+\newblock \emph{Orthopedics}, 39\penalty0 (1):\penalty0 55--62, 2016.
+\newblock ISSN 0147-7447.
+\newblock \doi{10.3928/01477447-20151228-06}.
+\newblock URL \url{{\textless}Go to ISI{\textgreater}://WOS:000377409200010}.
+
+\bibitem[{Von Keudell} et~al.(2014){Von Keudell}, Sodha, Collins, Minas, Fitz,
+  and Gomoll]{Keudell2013}
+A.~{Von Keudell}, S.~Sodha, J.~Collins, T.~Minas, W.~Fitz, and A.~H. Gomoll.
+\newblock {Patient satisfaction after primary total and unicompartmental knee
+  arthroplasty: An age-dependent analysis}.
+\newblock \emph{Knee}, 21\penalty0 (1):\penalty0 180--184, 2014.
+\newblock ISSN 09680160.
+\newblock \doi{10.1016/j.knee.2013.08.004}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.knee.2013.08.004}.
+
+\bibitem[ado()]{adobe}
+{Adobe Stock}.
+\newblock URL \url{https://stock.adobe.com/dk/}.
+
+\bibitem[Juhl et~al.(2014)Juhl, Christensen, Roos, Zhang, and
+  Lund]{Syssorenskou}
+C.~Juhl, R.~Christensen, E.~M. Roos, W.~Zhang, and H.~Lund.
+\newblock {Impact of exercise type and dose on pain and disability in knee
+  osteoarthritis: A systematic review and meta-regression analysis of
+  randomized controlled trials}.
+\newblock \emph{Arthritis and Rheumatology}, 66\penalty0 (3):\penalty0
+  622--636, 2014.
+\newblock ISSN 23265205.
+\newblock \doi{10.1002/art.38290}.
+
+\bibitem[Skou(2016)]{sorenskou}
+S{\o}ren~T. Skou.
+\newblock {No Title}.
+\newblock \emph{ugeskrift for l{\ae}ger}, 178:\penalty0 1139, 2016.
+
+\bibitem[Skou et~al.(2015)Skou, E.M., M.B., M.S., L., and O.]{newEngland}
+S{\o}ren~T. Skou, Roos E.M., Laursen M.B., Rathleff M.S., Arendt-Nielsen L.,
+  and Simonsen O.
+\newblock {A Randomized, Controlled Trial of Total Knee Replacement}.
+\newblock \emph{New England Journal of Medicine}, 373\penalty0 (17):\penalty0
+  1597--1606, 2015.
+\newblock ISSN 1533-4406.
+\newblock \doi{10.1056/NEJMoa1505467}.
+\newblock URL
+  \url{http://www.nejm.org/doi/pdf/10.1056/NEJMoa1505467$\backslash$nhttp://ovidsp.ovid.com/ovidweb.cgi?T=JS{\&}PAGE=reference{\&}D=emed13{\&}NEWS=N{\&}AN=2015469720$\backslash$nhttp://ovidsp.ovid.com/ovidweb.cgi?T=JS{\&}PAGE=reference{\&}D=emed13{\&}NEWS=N{\&}AN=26488691}.
+
+\bibitem[for referenceprogrammer(2004)]{Osteotomi_og_TKA}
+Styregruppen for referenceprogrammer.
+\newblock {DOS Referenceprogram}.
+\newblock \emph{Dansk Ortop{\ae}dkirurgisk Selskab}, ortopaedi.\penalty0
+  (4):\penalty0 1--162, 2004.
+
+\bibitem[Sanna et~al.(2013)Sanna, Sanna, Caputo, Piu, and Salvi]{Sanna2013}
+Marco Sanna, Cristina Sanna, Francesco Caputo, Giuseppe Piu, and Massimiliano
+  Salvi.
+\newblock {Surgical approaches in total knee arthroplasty.}
+\newblock \emph{Joints}, 1\penalty0 (2):\penalty0 34--44, 2013.
+\newblock ISSN 2282-4324.
+\newblock \doi{10.11138/jts/2013.1.2.034}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=4295696{\&}tool=pmcentrez{\&}rendertype=abstract}.
+
+\bibitem[Surgery and Rehabilitation()]{tka-technique}
+The Stone Clinic~Orthopedic Surgery and {\&}~Rehabilitation.
+\newblock {Total knee replacement surgical technique}.
+\newblock URL \url{http://www.stoneclinic.com/tkrillustration}.
+
+\bibitem[Giangregorio et~al.(1997)Giangregorio, Papaioannou, Cranney, Zytaruk,
+  and Adachi]{Giangregorio1997}
+L.~Giangregorio, A.~Papaioannou, A.~Cranney, N.~Zytaruk, and J.~D. Adachi.
+\newblock {Fragility Fractures and the Osteoporosis Care Gap: An International
+  Phenomenon}.
+\newblock \emph{Seminars in Arthritis and Rheumatism}, 27\penalty0
+  (1):\penalty0 293--305, 1997.
+\newblock ISSN 00490172.
+\newblock \doi{10.1016/j.semarthrit.2005.11.001}.
+
+\bibitem[Carmon()]{Carmon}
+Amiram Carmon.
+\newblock \emph{{Classification of chronic pain}}.
+\newblock ISBN 0931092051.
+
+\bibitem[Arendt-Nielsen et~al.(2010)Arendt-Nielsen, Nie, Laursen, Laursen,
+  Madeleine, Simonsen, and Graven-Nielsen]{Arendt-Nielsen2010}
+Lars Arendt-Nielsen, Hongling Nie, Mogens~B. Laursen, Birgitte~S. Laursen,
+  Pascal Madeleine, Ole~H. Simonsen, and Thomas Graven-Nielsen.
+\newblock {Sensitization in patients with painful knee osteoarthritis}.
+\newblock \emph{Pain}, 149\penalty0 (3):\penalty0 573--581, 2010.
+\newblock ISSN 03043959.
+\newblock \doi{10.1016/j.pain.2010.04.003}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.pain.2010.04.003}.
+
+\bibitem[{Martini FH, Nath JL}(2012)]{Martini}
+Bartholomwe~EF {Martini FH, Nath JL}.
+\newblock \emph{{Fundamental of Anatomy and Physiology}}.
+\newblock Pearson, 9th edition, 2012.
+\newblock ISBN 9780321709332.
+\newblock \doi{10.1017/CBO9781107415324.004}.
+
+\bibitem[{Gonzalez S{\'{a}}enz de Tejada} et~al.(2010){Gonzalez S{\'{a}}enz de
+  Tejada}, Escobar, Herrera, Garc{\'{i}}a, Aizpuru, and Saraqueta]{tejada2010}
+Marta {Gonzalez S{\'{a}}enz de Tejada}, Antonio Escobar, Carmen Herrera, Lidia
+  Garc{\'{i}}a, Felipe Aizpuru, and Cristina Saraqueta.
+\newblock {Patient expectations and health-related quality of life.}
+\newblock \emph{Value in Health}, 13\penalty0 (4):\penalty0 447--454, 2010.
+\newblock ISSN 1369-7625.
+\newblock \doi{10.1111/j.1524-4733.2009.00685.x}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20088892}.
+
+\bibitem[Borkhoff et~al.(2008)Borkhoff, Hawker, Kreder, Glazier, Mahomed, and
+  Wright]{borkhoff2008}
+Cornelia~M. Borkhoff, Gillian~A. Hawker, Hans~J. Kreder, Richard~H. Glazier,
+  Nizar~N. Mahomed, and James~G. Wright.
+\newblock {The effect of patients' sex on physicians' recommendations for total
+  knee arthroplasty}.
+\newblock \emph{Cmaj}, 178\penalty0 (6):\penalty0 681--687, 2008.
+\newblock ISSN 08203946.
+\newblock \doi{10.1503/cmaj.071168}.
+
+\bibitem[Fortin et~al.(1999)Fortin, Clarke, Joseph, Liang, Tanzer, Ferland,
+  Phillips, Partridge, B{\'{e}}lisle, Fossel, Mahomed, Sledge, and
+  Katz]{fortin1999}
+Paul~R. Fortin, Ann~E. Clarke, Lawrence Joseph, Matthew~H. Liang, Michael
+  Tanzer, Diane Ferland, Charlotte Phillips, Alison~J. Partridge, Patrick
+  B{\'{e}}lisle, Anne~H. Fossel, Nizar Mahomed, Clement~B. Sledge, and
+  Jeffrey~N. Katz.
+\newblock {Outcomes of total hip and knee replacement: Preoperative functional
+  status predicts outcomes at six months after surgery}.
+\newblock \emph{Arthritis and Rheumatism}, 42\penalty0 (8):\penalty0
+  1722--1728, 1999.
+\newblock ISSN 00043591.
+\newblock \doi{10.1002/1529-0131(199908)42:8<1722::AID-ANR22>3.0.CO;2-R}.
+
+\bibitem[{Street Jr.}(2002)]{street2002}
+Richard~L {Street Jr.}
+\newblock {Gender differences in health care provider{\&}{\#}x2013;patient
+  communication: are they due to style, stereotypes, or accommodation?}
+\newblock \emph{Patient Education and Counseling}, 48\penalty0 (3):\penalty0
+  201--206, 2002.
+\newblock ISSN 0738-3991.
+\newblock \doi{10.1016/S0738-3991(02)00171-4}.
+\newblock URL \url{http://dx.doi.org/10.1016/S0738-3991(02)00171-4}.
+
+\bibitem[Wright et~al.(1995)Wright, Coyte, Hawker, Bombardier, Cooke, Heck,
+  Dittus, and Freund]{wright1995}
+J.~G. Wright, P.~Coyte, G.~Hawker, C.~Bombardier, D.~Cooke, D.~Heck, R.~Dittus,
+  and D.~Freund.
+\newblock {Variation in orthopedic surgeons' perceptions of the indications for
+  and outcomes of knee replacement}.
+\newblock \emph{Cmaj}, 152\penalty0 (5):\penalty0 687--697, 1995.
+\newblock ISSN 08203946.
+
+\bibitem[Dy et~al.(2014)Dy, Lyman, Boutin-Foster, Felix, Kang, and
+  Parks]{dy2014}
+Christopher~J. Dy, Stephen Lyman, Carla Boutin-Foster, Karla Felix, Yoon Kang,
+  and Michael~L. Parks.
+\newblock {Do Patient Race and Sex Change Surgeon Recommendations for TKA?}
+\newblock \emph{Clinical Orthopaedics and Related Research}, 473\penalty0
+  (2):\penalty0 410--417, 2014.
+\newblock ISSN 15281132.
+\newblock \doi{10.1007/s11999-014-4003-1}.
+
+\bibitem[Walz(2009)]{Wals2009}
+Wolfgang Walz.
+\newblock \emph{{fMRI techniques and protocols, Chapter 1}}.
+\newblock 2009.
+\newblock ISBN 9781603279185.
+
+\bibitem[Parks et~al.(2012)Parks, Geha, Baliki, Katz, Schnitzer, and
+  Apkarian]{Parks2012}
+Elle~L Parks, Paul~Y Geha, Marwan~N Baliki, Jeffrey Katz, Thomas~J Schnitzer,
+  and A~Vania Apkarian.
+\newblock {NIH Public Access}.
+\newblock 15\penalty0 (8):\penalty0 1--18, 2012.
+\newblock \doi{10.1016/j.ejpain.2010.12.007.Brain}.
+
+\bibitem[Hiramatsu et~al.(2014)Hiramatsu, Nakanishi, Yoshimura, Yoshino,
+  Adachi, Okamoto, Yamawaki, and Ochi]{Hiramatsu2014}
+Takeshi Hiramatsu, Kazuyoshi Nakanishi, Shinpei Yoshimura, Atsuo Yoshino, Nobuo
+  Adachi, Yasumasa Okamoto, Shigeto Yamawaki, and Mitsuo Ochi.
+\newblock {The dorsolateral prefrontal network is involved in pain perception
+  in knee osteoarthritis patients}.
+\newblock \emph{Neuroscience Letters}, 581:\penalty0 109--114, 2014.
+\newblock ISSN 18727972.
+\newblock \doi{10.1016/j.neulet.2014.08.027}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.neulet.2014.08.027}.
+
+\bibitem[Yarnitsky and Granot(2006)]{Yarnitsky2006}
+David Yarnitsky and Michal Granot.
+\newblock \emph{{Handbook of Clinical Neurology, Chapter: Quantitative Sensory
+  Testing}}, volume~81.
+\newblock 2006.
+\newblock ISBN 9780444519016.
+\newblock \doi{10.1016/S0072-9752(06)80031-X}.
+\newblock URL
+  \url{http://www.ncbi.nlm.nih.gov/pubmed/18808849$\backslash$nhttp://linkinghub.elsevier.com/retrieve/pii/S007297520680031X}.
+
+\bibitem[Rolke et~al.(2006)Rolke, Magerl, Campbell, Schalber, Caspari,
+  Birklein, and Treede]{Rolke2006}
+R.~Rolke, W.~Magerl, K.~Andrews Campbell, C.~Schalber, S.~Caspari, F.~Birklein,
+  and R.~D. Treede.
+\newblock {Quantitative sensory testing: A comprehensive protocol for clinical
+  trials}.
+\newblock \emph{European Journal of Pain}, 10\penalty0 (1):\penalty0 77--88,
+  2006.
+\newblock ISSN 10903801.
+\newblock \doi{10.1016/j.ejpain.2005.02.003}.
+
+\bibitem[Martinez et~al.(2007)Martinez, Fletcher, Bouhassira, Sessler, and
+  Chauvin]{Martinez2007}
+Val{\'{e}}ria Martinez, Dominique Fletcher, Didier Bouhassira, Daniel~I.
+  Sessler, and Marcel Chauvin.
+\newblock {The evolution of primary hyperalgesia in orthopedic surgery:
+  Quantitative sensory testing and clinical evaluation before and after total
+  knee arthroplasty}.
+\newblock \emph{Anesthesia and Analgesia}, 105\penalty0 (3):\penalty0 815--821,
+  2007.
+\newblock ISSN 00032999.
+\newblock \doi{10.1213/01.ane.0000278091.29062.63}.
+
+\bibitem[Robinson and Snyder-Mackler(2008)]{Robinson2008}
+Andrew~J. Robinson and Lynn Snyder-Mackler.
+\newblock \emph{{Clinical Electrophysiology}}.
+\newblock 2008.
+
+\bibitem[Brown et~al.(2013)Brown, El-Deredy, and Jones]{Brown2013}
+Christopher~A. Brown, Wael El-Deredy, and Anthony K.~P. Jones.
+\newblock {When the brain expects pain: common neural responses to pain
+  anticipation are related to clinical pain and distress in fibromyalgia and
+  osteoarthritis}.
+\newblock \emph{European Journal of Neuroscience}, 2013.
+
+\bibitem[Green et~al.(1985)Green, Messick, Ricotta, Charlton, Satran, McBride,
+  and DeWeese]{Green1985}
+R~M Green, W~J Messick, J~J Ricotta, M~H Charlton, R~Satran, M~M McBride, and
+  J~a DeWeese.
+\newblock {Benefits, shortcomings, and costs of EEG monitoring.}
+\newblock \emph{Annals of surgery}, 201\penalty0 (6):\penalty0 785--92, 1985.
+\newblock ISSN 0003-4932.
+\newblock \doi{10.1097/00000658-198506000-00017}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/24682651}.
+
+\end{thebibliography}

@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  24 OCT 2016 15:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  24 OCT 2016 14:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Statusseminar.tex
-(./Statusseminar.tex
+**main.tex
+(./main.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
-(../preambleNy.tex
+(./preambleNy.tex
 (/usr/local/texlive/2014/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2013/05/30 v3.7b configurable book, report, article docu
 ment class
@@ -1609,11 +1609,11 @@ Headheight and headsep: 13.6pt and 19.8738pt
 Footskip: 27.46295pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 7pt and 57.13188pt
-Sidecapsep and sidecapwidth: 7pt and 49pt
-Sidebarhsep and sidebarwidth: 7pt and 49pt
+Sidecapsep and sidecapwidth: 7pt and 101pt
+Sidebarhsep and sidebarwidth: 7pt and 101pt
 Sidebarvsep and sidebartopsep: 13.6pt and 0pt
 Sidebarheight: 594.32022pt
-Sidefoothsep and sidefootwidth: 7pt and 49pt
+Sidefoothsep and sidefootwidth: 7pt and 101pt
 Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 ******************************************************
 
@@ -1768,30 +1768,33 @@ Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/03/04 1.5c listings language file
 ))
-(../macros.tex) (./Statusseminar.aux)
-\openout1 = `Statusseminar.aux'.
+(./macros.tex) (./main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 4.
+LaTeX Warning: Label `fig:tka_implant' multiply defined.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 13.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1807,22 +1810,22 @@ LaTeX Font Info:    ... okay on input line 4.
 \makeMPintoPDFobject=\count358
 \everyMPtoPDFconversion=\toks55
 )
-LaTeX Info: Redefining \Ref on input line 4.
+LaTeX Info: Redefining \Ref on input line 13.
 \AtBeginShipoutBox=\box101
 \c@lstlisting=\count359
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 4.
+LaTeX Info: Redefining \selectfont on input line 13.
 \symgns@font=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 4.
-Package gensymb Info: Math companion symbols declared on input line 4.
-LaTeX Info: Redefining \degree on input line 4.
-LaTeX Info: Redefining \celsius on input line 4.
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 13.
+Package gensymb Info: Math companion symbols declared on input line 13.
+LaTeX Info: Redefining \degree on input line 13.
+LaTeX Info: Redefining \celsius on input line 13.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 4.
-LaTeX Info: Redefining \ohm on input line 4.
-Package gensymb Info: Using \textohm for \ohm on input line 4.
-Package gensymb Info: Using \textmu for \micro on input line 4.
+erthousand on input line 13.
+LaTeX Info: Redefining \ohm on input line 13.
+Package gensymb Info: Using \textohm for \ohm on input line 13.
+Package gensymb Info: Using \textmu for \micro on input line 13.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -1838,136 +1841,532 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 4.
-Package hyperref Info: Link coloring ON on input line 4.
-LaTeX Info: Redefining \ref on input line 4.
-LaTeX Info: Redefining \pageref on input line 4.
-LaTeX Info: Redefining \nameref on input line 4.
- (./Statusseminar.out) (./Statusseminar.out)
+(lastpage)             ! on input line 13.
+Package hyperref Info: Link coloring ON on input line 13.
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
+ (./main.out) (./main.out)
 \@outlinefile=\write4
-\openout4 = `Statusseminar.out'.
+\openout4 = `main.out'.
 
-LaTeX Info: Redefining \Ref on input line 4.
+LaTeX Info: Redefining \Ref on input line 13.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \c__siunitx_mathsf_int=\count360
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+LaTeX Font Info:    Try loading font information for U+msa on input line 13.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+LaTeX Font Info:    Try loading font information for U+msb on input line 13.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
+LaTeX Font Info:    Try loading font information for U+stmry on input line 13.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 \c__siunitx_mathtt_int=\count361
-
-(../rapportAfsnit/pFormaliteter/Forside.tex)
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 6.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 6.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 6.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 6.
+(babel)             in language  on input line 22.
  [1
 
 
+
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1pbk.fd)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1pbk.fd) (./main.toc)
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 9.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 9.
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--16
-
- []
-
-
-Underfull \hbox (badness 1681) in paragraph at lines 17--27
-\T1/cmr/m/n/10.95 Ifølge sundhedsstyrelsens vurdering er knæalloplastik effekti
-v til at mindske smerte,
- []
-
-
-Underfull \hbox (badness 2213) in paragraph at lines 17--27
-\T1/cmr/m/n/10.95 øge funktion og derved bedre livskvalitet, og idet TKA-operat
-ionen er den sidste
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-
- []
-
+(babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 37.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 37.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 36.
+
 [2
+
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 37.
+ (./rapportAfsnit/bInitierende/indledning.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 11.
+ [1
 
 
 ]
-<../figures/bProblemanalyse/flowchart_behandlingsforloeb.png, id=56, 594.22pt x
- 112.42pt>
-File: ../figures/bProblemanalyse/flowchart_behandlingsforloeb.png Graphic file 
-(type png)
- <use ../figures/bProblemanalyse/flowchart_behandlingsforloeb.png>
-Package pdftex.def Info: ../figures/bProblemanalyse/flowchart_behandlingsforloe
-b.png used on input line 47.
-(pdftex.def)             Requested size: 396.89731pt x 75.09114pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 12.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 12.
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 39.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 39.
+ [2]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 39.
 
-Underfull \hbox (badness 2050) in paragraph at lines 59--61
-\T1/cmr/m/n/10.95 Kirurgiske behandlingsmetoder indebære osteotomi og knæallopl
-astik. Osteotomi har
+(./rapportAfsnit/cProblemanalyse/patientmaalgruppe.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+
+
+Package natbib Warning: Citation `definitionfedme1999' on page 3 undefined on i
+nput line 6.
+
+
+<figures/bProblemanalyse/flowchart_behandlingsforloeb.png, id=113, 594.22pt x 1
+12.42pt>
+File: figures/bProblemanalyse/flowchart_behandlingsforloeb.png Graphic file (ty
+pe png)
+ <use figures/bProblemanalyse/flowchart_behandlingsforloeb.png>
+Package pdftex.def Info: figures/bProblemanalyse/flowchart_behandlingsforloeb.p
+ng used on input line 13.
+(pdftex.def)             Requested size: 441.0pt x 83.43651pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 17.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 17.
+
+[3
+
+]
+Underfull \hbox (badness 1394) in paragraph at lines 43--43
+[]\T1/cmr/bx/it/10.95 Tabel 2.1: |\T1/cmr/m/it/10.95 I tabellen ses [[]] sammen
+ligning af flere studiers resultater vedrørende
  []
 
-<../figures/tka_implant.jpg, id=59, 546.54187pt x 292.09125pt>
-File: ../figures/tka_implant.jpg Graphic file (type jpg)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 46.
+[4 <./figures/bProblemanalyse/flowchart_behandlingsforloeb.png>]
 
-<use ../figures/tka_implant.jpg>
-Package pdftex.def Info: ../figures/tka_implant.jpg used on input line 64.
-(pdftex.def)             Requested size: 220.5pt x 117.84169pt.
-
-
-Package natbib Warning: Citation `1' on page 3 undefined on input line 66.
-
-
-Package natbib Warning: Citation `1' on page 3 undefined on input line 66.
+Package natbib Warning: Citation `skallariou2016' on page 5 undefined on input 
+line 47.
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 57.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 57.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 57.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 69.
-[3 <../figures/bProblemanalyse/flowchart_behandlingsforloeb.png>]
+(babel)             in language  on input line 57.
+[5]) (./rapportAfsnit/cProblemanalyse/behandling.tex
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 87.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 87.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 87.
- [4 <../figures/tka_implant.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
+(babel)             in language  on input line 1.
+Package epstopdf Info: Source file: <figures/bProblemanalyse/Artose_knae.eps>
+(epstopdf)                    date: 2016-10-11 11:32:52
+(epstopdf)                    size: 20961486 bytes
+(epstopdf)             Output file: <figures/bProblemanalyse/Artose_knae-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2016-10-11 11:32:52
+(epstopdf)                    size: 2660118 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/bProblemanalyse/Ar
+tose_knae-eps-converted-to.pdf figures/bProblemanalyse/Artose_knae.eps>
+(epstopdf)             \includegraphics on input line 8.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/bProblemanalyse/Artose_knae-eps-converted-to.pdf, id=179, 725.71124pt 
+x 432.61626pt>
+File: figures/bProblemanalyse/Artose_knae-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use figures/bProblemanalyse/Artose_knae-eps-converted-to.pdf>
+Package pdftex.def Info: figures/bProblemanalyse/Artose_knae-eps-converted-to.p
+df used on input line 8.
+(pdftex.def)             Requested size: 352.80135pt x 210.32033pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
 
  []
 
-(./Statusseminar.bbl
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 18.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 18.
+[6 <./figures/bProblemanalyse/Artose_knae-eps-converted-to.pdf>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 36.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 36.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 36.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 36.
+ [7]
+<figures/tka_implant.jpg, id=3527, 546.54187pt x 292.09125pt>
+File: figures/tka_implant.jpg Graphic file (type jpg)
+
+<use figures/tka_implant.jpg>
+Package pdftex.def Info: figures/tka_implant.jpg used on input line 42.
+(pdftex.def)             Requested size: 308.69865pt x 164.97836pt.
+
+
+Package natbib Warning: Citation `1' on page 8 undefined on input line 44.
+
+
+Package natbib Warning: Citation `1' on page 8 undefined on input line 44.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 49.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 49.
+[8 <./figures/tka_implant.jpg>]
+
+LaTeX Warning: Reference `patient_utilfreds' on page 9 undefined on input line 
+80.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 83.
+[9]
+
+Package natbib Warning: Citation `Lewis2015' on page 10 undefined on input line
+ 88.
+
+
+Package natbib Warning: Citation `Lewis2015' on page 10 undefined on input line
+ 88.
+
+
+Package natbib Warning: Citation `Lewis2015' on page 10 undefined on input line
+ 88.
+
+
+Package natbib Warning: Citation `Lewis2015' on page 10 undefined on input line
+ 88.
+
+) (./rapportAfsnit/cProblemanalyse/smerte.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+
+
+Package natbib Warning: Citation `smerter' on page 10 undefined on input line 3
+2.
+
+
+Package natbib Warning: Citation `smerter' on page 10 undefined on input line 3
+5.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 36.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 36.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 36.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 36.
+[10]
+
+Package natbib Warning: Citation `smerter' on page 11 undefined on input line 3
+7.
+
+
+Overfull \hbox (48.28185pt too wide) in paragraph at lines 37--38
+[]\T1/cmr/m/n/10.95 Til smer-te-be-hand-ling be-nyt-tes blandt an-det serotonin
+-plus-noradrenalin-genoptagelseshæmmere(SNRI).
+ []
+
+
+Package natbib Warning: Citation `cindys268' on page 11 undefined on input line
+ 39.
+
+
+Package natbib Warning: Citation `smerter' on page 11 undefined on input line 4
+2.
+
+
+LaTeX Warning: Reference `xxx' on page 11 undefined on input line 42.
+
+
+Package natbib Warning: Citation `Petersen2016' on page 11 undefined on input l
+ine 42.
+
+
+Package natbib Warning: Citation `smerter' on page 11 undefined on input line 4
+2.
+
+
+Package natbib Warning: Citation `smerter' on page 11 undefined on input line 4
+3.
+
+
+Package natbib Warning: Citation `Petersen2016' on page 11 undefined on input l
+ine 43.
+
+
+Package natbib Warning: Citation `nature' on page 11 undefined on input line 45
+.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 46.
+[11]
+
+Package natbib Warning: Citation `lars' on page 12 undefined on input line 48.
+
+
+Package natbib Warning: Citation `Petersen2016' on page 12 undefined on input l
+ine 48.
+
+
+Package natbib Warning: Citation `widespread' on page 12 undefined on input lin
+e 48.
+
+
+Package natbib Warning: Citation `Petersen2016' on page 12 undefined on input l
+ine 48.
+
+
+Package natbib Warning: Citation `Petersen2016' on page 12 undefined on input l
+ine 48.
+
+
+Package natbib Warning: Citation `graven2012' on page 12 undefined on input lin
+e 48.
+
+
+Package natbib Warning: Citation `Petersen2016' on page 12 undefined on input l
+ine 48.
+
+
+Package natbib Warning: Citation `Petersen2016' on page 12 undefined on input l
+ine 49.
+
+
+Package natbib Warning: Citation `Giangragorio1997' on page 12 undefined on inp
+ut line 62.
+
+<figures/smertediagram.png, id=3578, 525.965pt x 365.365pt>
+File: figures/smertediagram.png Graphic file (type png)
+
+<use figures/smertediagram.png>
+Package pdftex.def Info: figures/smertediagram.png used on input line 68.
+(pdftex.def)             Requested size: 420.77255pt x 292.29239pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 71.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 71.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 71.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 71.
+ [12]
+<figures/forskudtsmerte.png, id=3587, 424.58624pt x 524.96124pt>
+File: figures/forskudtsmerte.png Graphic file (type png)
+
+<use figures/forskudtsmerte.png>
+Package pdftex.def Info: figures/forskudtsmerte.png used on input line 79.
+(pdftex.def)             Requested size: 176.39731pt x 218.09515pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 84.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 84.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 84.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 84.
+ [13 <./figures/smertediagram.png>])
+(./rapportAfsnit/cProblemanalyse/Klinisk_udvaelgelse.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+ [14 <./figures/forskudtsmerte.png>]
+Underfull \hbox (badness 1924) in paragraph at lines 4--8
+\T1/cmr/m/n/10.95 og erfaringer. Hermed afhænger udvælgelsen af patienter til e
+n TKA operation af
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 4--8
+\T1/cmr/m/n/10.95 ved forskellige klinikere. I et forsøg på at standardisere be
+handlingen af knæartrose
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 4--8
+\T1/cmr/m/n/10.95 nationale kliniske retningslinjer. Disse retningslinjer bygge
+r hovedsageligt på lægeligt
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 9--11
+[]\T1/cmr/m/n/10.95 Flere studier har undersøgt hvilke ubevidste faktorer der k
+an påvirke en klinikers
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 11.
+[15]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 16.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 16.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 16.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 16.
+ [16]) (./rapportAfsnit/cProblemanalyse/metoder.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 5.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 5.
+ [17]
+
+Package natbib Warning: Citation `Glover2014' on page 18 undefined on input lin
+e 9.
+
+Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input 
+line 9.
+
+<figures/bProblemanalyse/fMRI_dorsolateral.jpg, id=3665, 360.1455pt x 169.23225
+pt>
+File: figures/bProblemanalyse/fMRI_dorsolateral.jpg Graphic file (type jpg)
+ <use figures/bProblemanalyse/fMRI_dorsolateral.jpg>
+Package pdftex.def Info: figures/bProblemanalyse/fMRI_dorsolateral.jpg used on 
+input line 19.
+(pdftex.def)             Requested size: 308.69865pt x 145.06435pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 24.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 24.
+ [18]
+
+Package natbib Warning: Citation `NociTech2016' on page 19 undefined on input l
+ine 26.
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 26--28
+\T1/cmr/m/n/10.95 Quantitative sensory testing (QST) er en metode til undersøge
+lse af det sensoriske
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 31.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 31.
+[19 <./figures/bProblemanalyse/fMRI_dorsolateral.jpg>]
+
+Package natbib Warning: Citation `Biosemi2016' on page 20 undefined on input li
+ne 33.
+
+
+Package natbib Warning: Citation `9' on page 20 undefined on input line 36.
+
+<figures/bProblemanalyse/EEG_ERP.jpg, id=3696, 598.6365pt x 381.8265pt>
+File: figures/bProblemanalyse/EEG_ERP.jpg Graphic file (type jpg)
+
+<use figures/bProblemanalyse/EEG_ERP.jpg>
+Package pdftex.def Info: figures/bProblemanalyse/EEG_ERP.jpg used on input line
+ 39.
+(pdftex.def)             Requested size: 308.69865pt x 196.89627pt.
+
+Underfull \hbox (badness 1127) in paragraph at lines 41--41
+[]\T1/cmr/bx/it/10.95 Figur 2.7: |\T1/cmr/m/it/10.95 Figuren illustrerer de gen
+nemsnitlige målinger for de tre forsøgsgrupper.
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 44.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 44.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 44.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 44.
+[20]) (./rapportAfsnit/cProblemanalyse/afgraensning.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1976,87 +2375,124 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [5]
+ [21 <./figures/bProblemanalyse/EEG_ERP.jpg>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 34.
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 46.
+ [22] (./main.bbl
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 29.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 101.
- [6
+(babel)             in language  on input line 103.
+ [23
 
-])
+
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 192.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 192.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 192.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 192.
+ [24]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 292.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 292.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 292.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 292.
+
+[25])
 
 Package natbib Warning: There were undefined citations.
 
 
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 121.
-[7]
+(babel)             in language  on input line 61.
+[26]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 61.
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 03813AF3045BCCD1C63A09898FF1E652;669.
 
 
-Package caption Warning: Unused \captionsetup[table] on input line 126.
-See the caption package documentation for explanation.
+LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
-(./Statusseminar.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 121.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 121.
-Package rerunfilecheck Info: File `Statusseminar.out' has not changed.
-(rerunfilecheck)             Checksum: 9653D7FCD0014B0596A8C1C60D6A41D6;94.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
  ) 
 Here is how much of TeX's memory you used:
- 26570 strings out of 493117
- 464911 string characters out of 6135434
- 811780 words of memory out of 5000000
- 29591 multiletter control sequences out of 15000+600000
- 23069 words of font info for 61 fonts, out of 8000000 for 9000
+ 26829 strings out of 493117
+ 469794 string characters out of 6135434
+ 813892 words of memory out of 5000000
+ 29738 multiletter control sequences out of 15000+600000
+ 20945 words of font info for 58 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 57i,12n,92p,10471b,916s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,17n,92p,10459b,962s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/
-2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/20
-14/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014
-/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf
--dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-d
-ist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2014/texmf-dis
-t/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/
-fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2014/texmf-dist/fo
-nts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
-1/urw/bookman/ubkl8a.pfb>
-Output written on Statusseminar.pdf (7 pages, 294287 bytes).
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{
+/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2014/texmf-dist/font
+s/type1/urw/bookman/ubkl8a.pfb>
+Output written on main.pdf (28 pages, 3160527 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 165 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
- 27 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3839 PDF objects out of 4296 (max. 8388607)
+ 2819 compressed objects within 29 object streams
+ 117 named destinations out of 1000 (max. 500000)
+ 124 words of extra memory for PDF output out of 10000 (max. 10000000)
 
