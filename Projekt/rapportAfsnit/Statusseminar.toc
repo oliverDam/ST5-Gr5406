@@ -8,5 +8,6 @@
 \contentsline {section}{\numberline {2.4}Klinisk udv\IeC {\ae }lgelse af patienter til TKA-operation}{4}{section.2.4}
 \contentsline {section}{\numberline {2.5}Teknologier til vurdering af smerte}{5}{section.2.5}
 \contentsline {section}{\numberline {2.6}Problemafgr\IeC {\ae }nsning}{5}{section.2.6}
-\contentsline {section}{\numberline {2.7}Fremtidig metode}{6}{section.2.7}
-\contentsline {chapter}{Litteratur}{8}{section*.7}
+\contentsline {chapter}{\chapternumberline {3}Fremtidig metode}{7}{chapter.3}
+\contentsline {chapter}{\chapternumberline {4}Projekt tidsplan}{9}{chapter.4}
+\contentsline {chapter}{Litteratur}{10}{section*.8}
