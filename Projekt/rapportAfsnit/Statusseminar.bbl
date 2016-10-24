@@ -1,0 +1,130 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Schroder(2012)]{schroder}
+Torben Schroder.
+\newblock \emph{{Basisbog i medicin og kirugi 5. udgave}}.
+\newblock 2012.
+
+\bibitem[Flachs et~al.(2015)Flachs, Eriksen, and Koch]{sygdom}
+Esben~Maulengracht Flachs, Louise Eriksen, and Mette~Bjerrum Koch.
+\newblock {Sygdomsbyrden i danmark}.
+\newblock 2015.
+
+\bibitem[Odgaard and Hospital()]{aarsrapport2016}
+Anders Odgaard and Gentofte Hospital.
+\newblock {Dansk Kn{\ae}alloplastikregister, {\{}$\backslash$AA{\}}rsrapport
+  2016}.
+
+\bibitem[Beswick et~al.(2012)Beswick, Wylde, Gooberman-Hill, Blom, and
+  Dieppe]{bezwick2012}
+Andrew~David Beswick, Vikki Wylde, Rachael Gooberman-Hill, Ashley Blom, and
+  Paul Dieppe.
+\newblock {What proportion of patients report long-term pain after total hip or
+  knee replacement for osteoarthritis? A systematic review of prospective
+  studies in unselected patients.}
+\newblock \emph{BMJ open}, 2\penalty0 (1):\penalty0 e000435, 2012.
+\newblock ISSN 1471-2474.
+\newblock \doi{10.1186/s12891-015-0469-6}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3289991{\&}tool=pmcentrez{\&}rendertype=abstract}.
+
+\bibitem[Brostr{\o}m(2012)]{brostrom2012}
+S{\o}ren Brostr{\o}m.
+\newblock \emph{{Kn{\ae}artrose - nationale kliniske retningslinjer og faglige
+  visitationsretningslinjer}}.
+\newblock 2012.
+\newblock ISBN 978-87-7104-442-3.
+
+\bibitem[{Simonsen, Anne Birgitte; J{\o}rgensen, Anette; Laursen, Mogens Berg;
+  J{\o}rgensen, Mogens Brouw; Rasmussen, Sten; Simonsen}(2011)]{ugeskrift2011}
+Ole {Simonsen, Anne Birgitte; J{\o}rgensen, Anette; Laursen, Mogens Berg;
+  J{\o}rgensen, Mogens Brouw; Rasmussen, Sten; Simonsen}.
+\newblock {Klinisk, radiologisk og artroskopisk graduering af kn{\ae}artrose}.
+\newblock \emph{ugeskrift for l{\ae}ger}, 173:\penalty0 956--958, 2011.
+\newblock \doi{0041-5782}.
+
+\bibitem[Bourne et~al.(2010)Bourne, Chesworth, Davis, Mahomed, and
+  Charron]{Bourne2010}
+Robert~B. Bourne, Bert~M. Chesworth, Aileen~M. Davis, Nizar~N. Mahomed, and
+  K.~D~J Charron.
+\newblock {Patient satisfaction after total knee arthroplasty: Who is satisfied
+  and who is not?}
+\newblock \emph{Clinical Orthopaedics and Related Research}, 468\penalty0
+  (1):\penalty0 57--63, 2010.
+\newblock ISSN 0009921X.
+\newblock \doi{10.1007/s11999-009-1119-9}.
+
+\bibitem[Vestergaard(2014)]{Vestergaard2014}
+Henrik Vestergaard.
+\newblock {Overv{\ae}gt og fedme}, 2014.
+\newblock URL
+  \url{https://www.sundhed.dk/borger/patienthaandbogen/hormoner-og-stofskifte/sygdomme/overvaegt-og-kost/overvaegt-og-fedme/}.
+
+\bibitem[Vestergaard(2016)]{Vestergaard2016}
+Henrik Vestergaard.
+\newblock {Overv{\ae}gt (L{\ae}geh{\aa}ndbogen)}, 2016.
+\newblock URL
+  \url{https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/endokrinologi/tilstande-og-sygdomme/overvaegt/overvaegt/}.
+
+\bibitem[Lind(2016{\natexlab{a}})]{Lind2016}
+Martin Lind.
+\newblock {Slidgigt i kn{\ae}et (Kn{\ae}artrose)}, 2016{\natexlab{a}}.
+\newblock URL
+  \url{https://www.sundhed.dk/borger/patienthaandbogen/knogler-muskler-og-led/sygdomme/knae/slidgigt-i-knaeet-knaeartrose/}.
+
+\bibitem[Lind(2016{\natexlab{b}})]{Lind2016b}
+Martin Lind.
+\newblock {Artrose, Kn{\ae}}, 2016{\natexlab{b}}.
+\newblock URL
+  \url{https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/artrose-knae/}.
+
+\bibitem[for referenceprogrammer(2004)]{Osteotomi_og_TKA}
+Styregruppen for referenceprogrammer.
+\newblock {DOS Referenceprogram}.
+\newblock \emph{Dansk Ortop{\ae}dkirurgisk Selskab}, ortopaedi.\penalty0
+  (4):\penalty0 1--162, 2004.
+
+\bibitem[Giangregorio et~al.(1997)Giangregorio, Papaioannou, Cranney, Zytaruk,
+  and Adachi]{Giangregorio1997}
+L.~Giangregorio, A.~Papaioannou, A.~Cranney, N.~Zytaruk, and J.~D. Adachi.
+\newblock {Fragility Fractures and the Osteoporosis Care Gap: An International
+  Phenomenon}.
+\newblock \emph{Seminars in Arthritis and Rheumatism}, 27\penalty0
+  (1):\penalty0 293--305, 1997.
+\newblock ISSN 00490172.
+\newblock \doi{10.1016/j.semarthrit.2005.11.001}.
+
+\bibitem[Carmon()]{Carmon}
+Amiram Carmon.
+\newblock \emph{{Classification of chronic pain}}.
+\newblock ISBN 0931092051.
+
+\bibitem[Skou et~al.(2016)Skou, Roos, Laursen, Rathleff, Arendt-Nielsen,
+  Simonsen, and Rasmussen]{skou2016}
+S{\o}ren~T. Skou, Ewa~M. Roos, Mogens~B. Laursen, Michael~S. Rathleff, Lars
+  Arendt-Nielsen, Ole Simonsen, and Sten Rasmussen.
+\newblock {Criteria used when deciding on eligibility for total knee
+  arthroplasty - Between thinking and doing}.
+\newblock \emph{Knee}, 23\penalty0 (2):\penalty0 300--305, 2016.
+\newblock ISSN 18735800.
+\newblock \doi{10.1016/j.knee.2015.08.012}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.knee.2015.08.012}.
+
+\bibitem[Martinez et~al.(2007)Martinez, Fletcher, Bouhassira, Sessler, and
+  Chauvin]{Martinez2007}
+Val{\'{e}}ria Martinez, Dominique Fletcher, Didier Bouhassira, Daniel~I.
+  Sessler, and Marcel Chauvin.
+\newblock {The evolution of primary hyperalgesia in orthopedic surgery:
+  Quantitative sensory testing and clinical evaluation before and after total
+  knee arthroplasty}.
+\newblock \emph{Anesthesia and Analgesia}, 105\penalty0 (3):\penalty0 815--821,
+  2007.
+\newblock ISSN 00032999.
+\newblock \doi{10.1213/01.ane.0000278091.29062.63}.
+
+\end{thebibliography}

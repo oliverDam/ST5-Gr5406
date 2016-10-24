@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Statusseminar.aux
+The style file: unsrtnat.bst
+Database file #1: ../kilder.bib
+Warning--I didn't find a database entry for "1"
+Warning--empty publisher in schroder
+Warning--empty journal in sygdom
+Warning--empty journal in aarsrapport2016
+Warning--empty year in aarsrapport2016
+Warning--empty year in aarsrapport2016
+Warning--empty publisher in brostrom2012
+Warning--empty publisher in Carmon
+Warning--empty year in Carmon
+Warning--empty year in Carmon
+You've used 16 entries,
+            2481 wiz_defined-function locations,
+            662 strings with 7915 characters,
+and the built_in function-call counts, 5680 in all, are:
+= -- 473
+> -- 276
+< -- 10
++ -- 115
+- -- 82
+* -- 435
+:= -- 931
+add.period$ -- 61
+call.type$ -- 16
+change.case$ -- 29
+chr.to.int$ -- 15
+cite$ -- 25
+duplicate$ -- 282
+empty$ -- 528
+format.name$ -- 100
+if$ -- 1180
+int.to.chr$ -- 2
+int.to.str$ -- 17
+missing$ -- 15
+newline$ -- 101
+num.names$ -- 48
+pop$ -- 149
+preamble$ -- 1
+purify$ -- 16
+quote$ -- 0
+skip$ -- 166
+stack$ -- 0
+substring$ -- 191
+swap$ -- 32
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 103
+warning$ -- 9
+while$ -- 45
+width$ -- 0
+write$ -- 227
+(There were 10 warnings)
