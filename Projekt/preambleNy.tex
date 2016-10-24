@@ -57,7 +57,8 @@
 \usepackage[danish]{varioref}				% Muliggoer bl.a. krydshenvisninger med sidetal (\vref)
 %\usepackage[numbers]{natbib}				% Udvidelse med naturvidenskabelige citationsmodeller
 \usepackage[sort&compress,square,comma,numbers]{natbib}
-\DeclareRobustCommand{\cites}[1]{\citeauthor{#1}~\cite{#1}}
+\DeclareRobustCommand{\citer}[1]{\citeauthor{#1},~\citeyear{#1}~\cite{#1}}
+											% citere i teksten: "Et studie af 'forfatter', 'år' [kilde#] viser..."
 %\usepackage{xr}							% Referencer til eksternt dokument med \externaldocument{<NAVN>}
 %\usepackage{glossaries}					% Terminologi- eller symbolliste (se mere i Daleifs Latex-bog)
 \usepackage{lastpage}					% Gør det mulig at refere til sidste side 
