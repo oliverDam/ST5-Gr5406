@@ -3,9 +3,11 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Statusseminar.aux
 The style file: unsrtnat.bst
 Database file #1: ../kilder.bib
-Warning--I didn't find a database entry for "1"
-Warning--I didn't find a database entry for "HTAcore"
-Warning--I didn't find a database entry for "mtvhaandbog2007"
+Repeated entry---line 347 of file ../kilder.bib
+ : @article{HTAcore
+ :                 ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Robodoc2016"
 Warning--empty publisher in schroder
 Warning--empty journal in sygdom
 Warning--empty journal in aarsrapport2016
@@ -13,47 +15,46 @@ Warning--empty year in aarsrapport2016
 Warning--empty year in aarsrapport2016
 Warning--empty publisher in brostrom2012
 Warning--empty publisher in Carmon
-Warning--empty year in Carmon
-Warning--empty year in Carmon
-You've used 15 entries,
+Warning--empty journal in HTAcore
+You've used 18 entries,
             2481 wiz_defined-function locations,
-            657 strings with 7800 characters,
-and the built_in function-call counts, 5347 in all, are:
-= -- 441
-> -- 269
-< -- 9
-+ -- 111
-- -- 80
-* -- 412
-:= -- 880
-add.period$ -- 58
-call.type$ -- 15
-change.case$ -- 27
-chr.to.int$ -- 14
-cite$ -- 24
-duplicate$ -- 263
-empty$ -- 492
-format.name$ -- 97
-if$ -- 1109
+            682 strings with 8511 characters,
+and the built_in function-call counts, 6616 in all, are:
+= -- 566
+> -- 318
+< -- 11
++ -- 131
+- -- 94
+* -- 505
+:= -- 1078
+add.period$ -- 72
+call.type$ -- 18
+change.case$ -- 33
+chr.to.int$ -- 17
+cite$ -- 26
+duplicate$ -- 327
+empty$ -- 606
+format.name$ -- 114
+if$ -- 1385
 int.to.chr$ -- 2
-int.to.str$ -- 16
-missing$ -- 14
-newline$ -- 96
-num.names$ -- 45
-pop$ -- 142
+int.to.str$ -- 19
+missing$ -- 17
+newline$ -- 116
+num.names$ -- 54
+pop$ -- 160
 preamble$ -- 1
-purify$ -- 15
+purify$ -- 18
 quote$ -- 0
-skip$ -- 155
+skip$ -- 197
 stack$ -- 0
-substring$ -- 170
-swap$ -- 30
-text.length$ -- 0
+substring$ -- 247
+swap$ -- 42
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 96
-warning$ -- 9
-while$ -- 41
+type$ -- 117
+warning$ -- 8
+while$ -- 54
 width$ -- 0
-write$ -- 214
-(There were 12 warnings)
+write$ -- 262
+(There was 1 error message)
