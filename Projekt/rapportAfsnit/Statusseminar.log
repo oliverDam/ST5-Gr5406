@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  25 OCT 2016 14:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  25 OCT 2016 14:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2050,13 +2050,13 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 125.
 
-<../figures/cMetode/Projekt_tidsplan.png, id=185, 549.05125pt x 1171.37625pt>
+<../figures/cMetode/Projekt_tidsplan.png, id=185, 568.1225pt x 1171.37625pt>
 File: ../figures/cMetode/Projekt_tidsplan.png Graphic file (type png)
 
 <use ../figures/cMetode/Projekt_tidsplan.png>
 Package pdftex.def Info: ../figures/cMetode/Projekt_tidsplan.png used on input 
 line 128.
-(pdftex.def)             Requested size: 264.60269pt x 564.52419pt.
+(pdftex.def)             Requested size: 264.60269pt x 545.57802pt.
  (./Statusseminar.bbl
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -2149,7 +2149,7 @@ st/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2014/texmf-dist
 onts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2014/texmf-dist/fon
 ts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
 /urw/bookman/ubkl8a.pfb>
-Output written on Statusseminar.pdf (11 pages, 374711 bytes).
+Output written on Statusseminar.pdf (11 pages, 377012 bytes).
 PDF statistics:
  282 PDF objects out of 1000 (max. 8388607)
  245 compressed objects within 3 object streams
