@@ -7,54 +7,54 @@ Repeated entry---line 347 of file ../kilder.bib
  : @article{HTAcore
  :                 ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Robodoc2016"
 Warning--empty publisher in schroder
 Warning--empty journal in sygdom
 Warning--empty journal in aarsrapport2016
 Warning--empty year in aarsrapport2016
 Warning--empty year in aarsrapport2016
 Warning--empty publisher in brostrom2012
+Warning--empty year in robodoc2016
 Warning--empty publisher in Carmon
 Warning--empty journal in HTAcore
-You've used 18 entries,
+You've used 19 entries,
             2481 wiz_defined-function locations,
-            682 strings with 8511 characters,
-and the built_in function-call counts, 6616 in all, are:
-= -- 566
-> -- 318
-< -- 11
-+ -- 131
-- -- 94
-* -- 505
-:= -- 1078
-add.period$ -- 72
-call.type$ -- 18
-change.case$ -- 33
-chr.to.int$ -- 17
-cite$ -- 26
-duplicate$ -- 327
-empty$ -- 606
-format.name$ -- 114
-if$ -- 1385
+            685 strings with 8610 characters,
+and the built_in function-call counts, 6850 in all, are:
+= -- 582
+> -- 325
+< -- 12
++ -- 135
+- -- 96
+* -- 514
+:= -- 1114
+add.period$ -- 75
+call.type$ -- 19
+change.case$ -- 35
+chr.to.int$ -- 18
+cite$ -- 28
+duplicate$ -- 341
+empty$ -- 635
+format.name$ -- 117
+if$ -- 1437
 int.to.chr$ -- 2
-int.to.str$ -- 19
+int.to.str$ -- 20
 missing$ -- 17
-newline$ -- 116
-num.names$ -- 54
-pop$ -- 160
+newline$ -- 121
+num.names$ -- 57
+pop$ -- 172
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 19
 quote$ -- 0
-skip$ -- 197
+skip$ -- 210
 stack$ -- 0
-substring$ -- 247
-swap$ -- 42
+substring$ -- 242
+swap$ -- 44
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 117
-warning$ -- 8
-while$ -- 54
+type$ -- 124
+warning$ -- 9
+while$ -- 55
 width$ -- 0
-write$ -- 262
+write$ -- 273
 (There was 1 error message)

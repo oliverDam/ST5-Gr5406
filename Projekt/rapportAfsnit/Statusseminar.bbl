@@ -1,4 +1,4 @@
-\begin{thebibliography}{18}
+\begin{thebibliography}{19}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -93,6 +93,11 @@ Cale~A. Jacobs, Christian~P. Christensen, and Tharun Karthikeyan.
 \newblock \doi{10.1016/j.arth.2014.03.022}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.arth.2014.01.008}.
 
+\bibitem[ROBODOC{\textregistered}()]{robodoc2016}
+ROBODOC{\textregistered}.
+\newblock {Prosthetic Implants}.
+\newblock URL \url{http://www.robodoc.com/patient{\_}about{\_}faqs.html}.
+
 \bibitem[Carmon(1994)]{Carmon}
 Amiram Carmon.
 \newblock \emph{{Classification of chronic pain}}.
@@ -132,11 +137,11 @@ Val{\'{e}}ria Martinez, Dominique Fletcher, Didier Bouhassira, Daniel~I.
 \newblock ISSN 00032999.
 \newblock \doi{10.1213/01.ane.0000278091.29062.63}.
 
-\bibitem[Ja et~al.(2015)Ja, Union, and Programme]{HTAcore}
+\bibitem[Ja et~al.(2016)Ja, Union, and Programme]{HTAcore}
 The~Eunethta Ja, European Union, and Health Programme.
-\newblock {EUnetHTA JA2 WP8 DELIVERABLE HTA Core Model {\textregistered} Online
-  User guide}.
-\newblock 2:\penalty0 1--27, 2015.
+\newblock {EUnetHTA Joint Action 2, Work Package 8. HTA Core Model
+  {\textregistered} version 3.0 (Pdf)}.
+\newblock 3.0:\penalty0 410, 2016.
 
 \bibitem[enhed for~medicinsk teknologivurdering(2007)]{mtvhaandbog2007}
 Sundhedsstyrelsens enhed for~medicinsk teknologivurdering.
