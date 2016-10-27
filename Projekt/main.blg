@@ -1,0 +1,81 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: unsrtnat.bst
+Database file #1: kilder.bib
+Repeated entry---line 675 of file kilder.bib
+ : @article{Rolke2006
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1048 of file kilder.bib
+ : @article{Arendt-Nielsen2015
+ :                            ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "skallariou2016"
+Warning--I didn't find a database entry for "1"
+Warning--I didn't find a database entry for "lars"
+Warning--I didn't find a database entry for "widespread"
+Warning--I didn't find a database entry for "Giangragorio1997"
+Warning--I didn't find a database entry for "9"
+Warning--empty journal in sygdom
+Warning--empty publisher in schroder
+Warning--empty publisher in brostrom2012
+Warning--empty journal in aarsrapport2016
+Warning--empty year in aarsrapport2016
+Warning--empty year in aarsrapport2016
+Warning--empty publisher in aarsrapport2011
+Warning--empty year in definitionfedme1999
+Warning--empty year in adobe
+Warning--empty year in tka-technique
+Warning--empty publisher in Carmon
+Warning--empty publisher in smerter
+Warning--empty publisher in cindys268
+Warning--empty year in cindys268
+Warning--empty year in cindys268
+Warning--can't use both author and editor fields in Martini
+Warning--empty publisher in Wals2009
+Warning--empty journal in Parks2012
+Warning--empty publisher in Yarnitsky2006
+Warning--empty publisher in Robinson2008
+You've used 53 entries,
+            2481 wiz_defined-function locations,
+            973 strings with 18252 characters,
+and the built_in function-call counts, 21940 in all, are:
+= -- 1785
+> -- 1398
+< -- 23
++ -- 533
+- -- 426
+* -- 1919
+:= -- 3703
+add.period$ -- 239
+call.type$ -- 53
+change.case$ -- 99
+chr.to.int$ -- 52
+cite$ -- 74
+duplicate$ -- 954
+empty$ -- 1809
+format.name$ -- 486
+if$ -- 4494
+int.to.chr$ -- 2
+int.to.str$ -- 54
+missing$ -- 53
+newline$ -- 353
+num.names$ -- 156
+pop$ -- 412
+preamble$ -- 1
+purify$ -- 53
+quote$ -- 0
+skip$ -- 555
+stack$ -- 0
+substring$ -- 803
+swap$ -- 107
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 341
+warning$ -- 20
+while$ -- 161
+width$ -- 0
+write$ -- 821
+(There were 2 error messages)
