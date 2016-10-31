@@ -3,79 +3,50 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: unsrtnat.bst
 Database file #1: kilder.bib
-Repeated entry---line 675 of file kilder.bib
- : @article{Rolke2006
- :                   ,
+Repeated entry---line 347 of file kilder.bib
+ : @article{HTAcore
+ :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1048 of file kilder.bib
- : @article{Arendt-Nielsen2015
- :                            ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "skallariou2016"
-Warning--I didn't find a database entry for "1"
-Warning--I didn't find a database entry for "lars"
-Warning--I didn't find a database entry for "widespread"
-Warning--I didn't find a database entry for "Giangragorio1997"
-Warning--I didn't find a database entry for "9"
-Warning--empty journal in sygdom
-Warning--empty publisher in schroder
-Warning--empty publisher in brostrom2012
-Warning--empty journal in aarsrapport2016
-Warning--empty year in aarsrapport2016
-Warning--empty year in aarsrapport2016
-Warning--empty publisher in aarsrapport2011
-Warning--empty year in definitionfedme1999
-Warning--empty year in adobe
-Warning--empty year in tka-technique
-Warning--empty publisher in Carmon
-Warning--empty publisher in smerter
-Warning--empty publisher in cindys268
-Warning--empty year in cindys268
-Warning--empty year in cindys268
-Warning--can't use both author and editor fields in Martini
-Warning--empty publisher in Wals2009
-Warning--empty journal in Parks2012
-Warning--empty publisher in Yarnitsky2006
-Warning--empty publisher in Robinson2008
-You've used 53 entries,
+Warning--empty journal in HTAcore
+You've used 1 entry,
             2481 wiz_defined-function locations,
-            973 strings with 18252 characters,
-and the built_in function-call counts, 21940 in all, are:
-= -- 1785
-> -- 1398
-< -- 23
-+ -- 533
-- -- 426
-* -- 1919
-:= -- 3703
-add.period$ -- 239
-call.type$ -- 53
-change.case$ -- 99
-chr.to.int$ -- 52
-cite$ -- 74
-duplicate$ -- 954
-empty$ -- 1809
-format.name$ -- 486
-if$ -- 4494
-int.to.chr$ -- 2
-int.to.str$ -- 54
-missing$ -- 53
-newline$ -- 353
-num.names$ -- 156
-pop$ -- 412
+            558 strings with 4593 characters,
+and the built_in function-call counts, 391 in all, are:
+= -- 27
+> -- 21
+< -- 0
++ -- 8
+- -- 6
+* -- 31
+:= -- 70
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 2
+chr.to.int$ -- 1
+cite$ -- 2
+duplicate$ -- 19
+empty$ -- 34
+format.name$ -- 7
+if$ -- 75
+int.to.chr$ -- 1
+int.to.str$ -- 2
+missing$ -- 1
+newline$ -- 13
+num.names$ -- 3
+pop$ -- 9
 preamble$ -- 1
-purify$ -- 53
+purify$ -- 1
 quote$ -- 0
-skip$ -- 555
+skip$ -- 11
 stack$ -- 0
-substring$ -- 803
-swap$ -- 107
-text.length$ -- 1
+substring$ -- 11
+swap$ -- 1
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 341
-warning$ -- 20
-while$ -- 161
+type$ -- 7
+warning$ -- 1
+while$ -- 3
 width$ -- 0
-write$ -- 821
-(There were 2 error messages)
+write$ -- 19
+(There was 1 error message)
