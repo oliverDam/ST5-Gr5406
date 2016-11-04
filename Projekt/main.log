@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  31 OCT 2016 13:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  4 NOV 2016 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1865,7 +1865,19 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 8.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 \c__siunitx_mathtt_int=\count361
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 17.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 17.
+ [1
 
+
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1pbk.fd) (./main.toc)
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 31.
@@ -1876,114 +1888,91 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 31.
 
+[2
+
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 41.
+ (./rapportAfsnit/dHTAanalyse/TEC.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 6.
+) (./rapportAfsnit/dHTAanalyse/SAF.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 6.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 6.
+
 [1
 
 
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 41.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 41.
-
-(./rapportAfsnit/dHTAanalyse/domaenemetoder.tex
+]) (./rapportAfsnit/dHTAanalyse/EFF.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 6.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 6.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 6.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
- [1
-
-
-]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 33.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 33.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 52.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 52.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 52.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 52.
- [2]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 53.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 53.
-
-Underfull \hbox (badness 2103) in paragraph at lines 71--72
-[]\T1/cmr/m/n/10.95 Hvilken effektiv behandlingsmulighed understøtter teknologi
-ens resultater? (hvis
- []
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 80.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 80.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 80.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 80.
-[3]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 81.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 81.
-
-Overfull \hbox (6.13924pt too wide) in paragraph at lines 88--89
-[]\T1/cmr/m/n/10.95 Hvad er ef-fek-ten ved at im-ple-men-te-re tek-no-lo-gi-en?
- (Cost^^Ueffektiveness=smerte+funktion) 
- []
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 99.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 99.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 99.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 99.
-[4])
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 43.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 43.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 43.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 43.
- [5] (./main.bbl
+(babel)             in language  on input line 6.
+ [2])
+(./rapportAfsnit/dHTAanalyse/ECO.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-) 
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 46.
+ [3] (./main.bbl
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 58.
-[6
+(babel)             in language  on input line 61.
+[4
 
 
 ]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 61.
 
 
 Package caption Warning: Unused \captionsetup[figure] on input line 125.
@@ -1996,20 +1985,20 @@ See the caption package documentation for explanation.
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
 (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F88C85E139C7CA393C58AB469DF0EA0F;430.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
+(rerunfilecheck)             Checksum: 5E0B5213B20FA2F348D1E2800404EF2C;486.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
  ) 
 Here is how much of TeX's memory you used:
- 26470 strings out of 493117
- 462453 string characters out of 6135434
- 809765 words of memory out of 5000000
- 29514 multiletter control sequences out of 15000+600000
+ 26488 strings out of 493117
+ 462849 string characters out of 6135434
+ 810765 words of memory out of 5000000
+ 29527 multiletter control sequences out of 15000+600000
  19930 words of font info for 56 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  57i,12n,92p,10459b,757s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2023,10 +2012,10 @@ e/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/
 /texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/t
 exmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2014/texmf-dis
 t/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on main.pdf (7 pages, 133789 bytes).
+Output written on main.pdf (6 pages, 123978 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
