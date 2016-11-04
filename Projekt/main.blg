@@ -3,50 +3,74 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: unsrtnat.bst
 Database file #1: kilder.bib
-Repeated entry---line 347 of file kilder.bib
- : @article{HTAcore
- :                 ,
+Repeated entry---line 675 of file kilder.bib
+ : @article{Rolke2006
+ :                   ,
 I'm skipping whatever remains of this entry
-Warning--empty journal in HTAcore
-You've used 1 entry,
+Repeated entry---line 1048 of file kilder.bib
+ : @article{Arendt-Nielsen2015
+ :                            ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Skallariou2016"
+Warning--I didn't find a database entry for "lars"
+Warning--I didn't find a database entry for "widespread"
+Warning--I didn't find a database entry for "9"
+Warning--empty publisher in brostrom2012
+Warning--empty publisher in schroder
+Warning--empty journal in sygdom
+Warning--empty journal in aarsrapport2016
+Warning--empty year in aarsrapport2016
+Warning--empty year in aarsrapport2016
+Warning--empty publisher in aarsrapport2011
+Warning--empty year in adobe
+Warning--empty year in robodoc2016
+Warning--empty year in tka-technique
+Warning--empty publisher in Carmon
+Warning--can't use both author and editor fields in Martini
+Warning--empty publisher in smerter
+Warning--empty publisher in Wals2009
+Warning--empty journal in Parks2012
+Warning--empty publisher in Yarnitsky2006
+Warning--empty publisher in Robinson2008
+You've used 47 entries,
             2481 wiz_defined-function locations,
-            558 strings with 4593 characters,
-and the built_in function-call counts, 391 in all, are:
-= -- 27
-> -- 21
-< -- 0
-+ -- 8
-- -- 6
-* -- 31
-:= -- 70
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 2
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 19
-empty$ -- 34
-format.name$ -- 7
-if$ -- 75
+            937 strings with 17044 characters,
+and the built_in function-call counts, 20129 in all, are:
+= -- 1616
+> -- 1356
+< -- 17
++ -- 508
+- -- 414
+* -- 1809
+:= -- 3424
+add.period$ -- 216
+call.type$ -- 47
+change.case$ -- 87
+chr.to.int$ -- 47
+cite$ -- 65
+duplicate$ -- 855
+empty$ -- 1614
+format.name$ -- 468
+if$ -- 4103
 int.to.chr$ -- 1
-int.to.str$ -- 2
-missing$ -- 1
-newline$ -- 13
-num.names$ -- 3
-pop$ -- 9
+int.to.str$ -- 48
+missing$ -- 49
+newline$ -- 318
+num.names$ -- 138
+pop$ -- 352
 preamble$ -- 1
-purify$ -- 1
+purify$ -- 47
 quote$ -- 0
-skip$ -- 11
+skip$ -- 492
 stack$ -- 0
-substring$ -- 11
-swap$ -- 1
-text.length$ -- 0
+substring$ -- 741
+swap$ -- 93
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 7
-warning$ -- 1
-while$ -- 3
+type$ -- 302
+warning$ -- 17
+while$ -- 145
 width$ -- 0
-write$ -- 19
-(There was 1 error message)
+write$ -- 738
+(There were 2 error messages)
