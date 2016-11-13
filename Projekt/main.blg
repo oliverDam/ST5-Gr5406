@@ -1,0 +1,104 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: unsrtnat.bst
+Database file #1: kilder.bib
+Repeated entry---line 82 of file kilder.bib
+ : @article{Arendt-Nielsen2015
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 727 of file kilder.bib
+ : @article{HTAcore
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 953 of file kilder.bib
+ : @article{Lunn2013
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1168 of file kilder.bib
+ : @article{Petersen2015
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1200 of file kilder.bib
+ : @article{Petersen2016
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1323 of file kilder.bib
+ : @article{Rolke2006
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1340 of file kilder.bib
+ : @article{rolke2006
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1864 of file kilder.bib
+ : @article{Wylde2015
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1920 of file kilder.bib
+ : @book{Yarnitsky2006
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "lars"
+Warning--I didn't find a database entry for "widespread"
+Warning--I didn't find a database entry for "Gigtforeningen2016"
+Warning--empty journal in HTAcore
+Warning--empty publisher in brostrom2012
+Warning--empty publisher in schroder
+Warning--empty journal in sygdom
+Warning--empty journal in aarsrapport2016
+Warning--empty year in aarsrapport2016
+Warning--empty year in aarsrapport2016
+Warning--empty publisher in aarsrapport2011
+Warning--empty year in adobe
+Warning--empty year in robodoc2016
+Warning--empty year in tka-technique
+Warning--empty publisher in Carmon
+Warning--can't use both author and editor fields in Martini
+Warning--empty publisher in smerter
+Warning--empty publisher in Wals2009
+Warning--empty journal in Parks2012
+Warning--empty publisher in Yarnitsky2006
+Warning--empty publisher in Robinson2008
+You've used 57 entries,
+            2481 wiz_defined-function locations,
+            1015 strings with 19457 characters,
+and the built_in function-call counts, 24197 in all, are:
+= -- 2004
+> -- 1530
+< -- 23
++ -- 579
+- -- 464
+* -- 2146
+:= -- 4082
+add.period$ -- 266
+call.type$ -- 57
+change.case$ -- 107
+chr.to.int$ -- 56
+cite$ -- 76
+duplicate$ -- 1050
+empty$ -- 1975
+format.name$ -- 532
+if$ -- 4966
+int.to.chr$ -- 2
+int.to.str$ -- 58
+missing$ -- 60
+newline$ -- 388
+num.names$ -- 168
+pop$ -- 410
+preamble$ -- 1
+purify$ -- 57
+quote$ -- 0
+skip$ -- 601
+stack$ -- 0
+substring$ -- 942
+swap$ -- 119
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 369
+warning$ -- 18
+while$ -- 182
+width$ -- 0
+write$ -- 907
+(There were 9 error messages)
