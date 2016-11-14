@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  13 NOV 2016 16:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  14 NOV 2016 15:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2340,38 +2340,38 @@ Package babel Info: Redefining danish shorthand "~
 
 ]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 29.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 29.
 
-Underfull \hbox (badness 1117) in paragraph at lines 27--28
+Underfull \hbox (badness 1117) in paragraph at lines 30--31
 \T1/cmr/m/n/10.95 kvantitativ vurdering af sensation. Vurderingselementerne omh
 andlede klassificering af
  []
 
 Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input 
-line 29.
+line 32.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 35.
 [21]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 40.
-
-Underfull \hbox (badness 1314) in paragraph at lines 41--43
-\T1/cmr/m/n/10.95 af præoperative QST-undersøgelser, som prædiktion vedrørende 
-omfanget af kroniske
+(babel)             in language  on input line 41.
+)
+Underfull \hbox (badness 1077) in paragraph at lines 42--43
+\T1/cmr/m/n/10.95 QST bliver i et knæartroseregi forsøgt benyttet til at skabe 
+en association imellem
  []
 
 Package babel Info: Redefining danish shorthand "|
@@ -2382,7 +2382,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 43.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 43.
-[22])
+[22]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 43.
 Package babel Info: Redefining danish shorthand "~
@@ -2430,7 +2430,23 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 10.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 10.
-[25])
+[25]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 54.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 54.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 54.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 54.
+ [26]
+
+Package natbib Warning: Citation `DST1' on page 27 undefined on input line 54.
+
+
+Package natbib Warning: Citation `DST2' on page 27 undefined on input line 54.
+
+)
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
@@ -2439,14 +2455,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 47.
- [26] (./main.bbl
+ [27] (./main.bbl
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 26.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmtt.fd
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 Package babel Info: Redefining danish shorthand "|
@@ -2457,7 +2472,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 104.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 104.
- [27
+ [28
 
 
 ]
@@ -2474,7 +2489,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 200.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 200.
-[28]
+[29]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 299.
 Package babel Info: Redefining danish shorthand "~
@@ -2483,17 +2498,17 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 299.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 299.
- [29]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 394.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 394.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 394.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 394.
  [30]
 Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 394.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 394.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 394.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 394.
+ [31]
+Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 497.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 497.
@@ -2501,7 +2516,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 497.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 497.
- [31])
+ [32])
 
 Package natbib Warning: There were undefined citations.
 
@@ -2515,7 +2530,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 62.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 62.
-[32]
+[33]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 62.
 Package babel Info: Redefining danish shorthand "~
@@ -2528,9 +2543,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 90382F9A1CF0F3F6F60411192814D1EC;1471.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 90382F9A1CF0F3F6F60411192814D1EC;1471
+(rerunfilecheck)             After:  CDD0F4B832B4B39B9287C30A29B8407E;1471.
 
 LaTeX Warning: There were undefined references.
 
@@ -2540,13 +2561,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
  ) 
 Here is how much of TeX's memory you used:
- 26924 strings out of 493117
- 471625 string characters out of 6135434
+ 26930 strings out of 493117
+ 471677 string characters out of 6135434
  814765 words of memory out of 5000000
- 29791 multiletter control sequences out of 15000+600000
+ 29793 multiletter control sequences out of 15000+600000
  21326 words of font info for 59 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 57i,17n,92p,10459b,1006s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,17n,92p,10459b,1002s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
 /usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texl
@@ -2561,10 +2582,10 @@ mf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf
 ist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2014/texmf-dis
 t/fonts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/
 type1/urw/bookman/ubkl8a.pfb>
-Output written on main.pdf (34 pages, 2891007 bytes).
+Output written on main.pdf (35 pages, 2898676 bytes).
 PDF statistics:
- 4053 PDF objects out of 4296 (max. 8388607)
- 3029 compressed objects within 31 object streams
- 146 named destinations out of 1000 (max. 500000)
+ 4067 PDF objects out of 4296 (max. 8388607)
+ 3042 compressed objects within 31 object streams
+ 150 named destinations out of 1000 (max. 500000)
  207 words of extra memory for PDF output out of 10000 (max. 10000000)
 
