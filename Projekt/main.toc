@@ -34,14 +34,23 @@
 \contentsline {section}{\numberline {3.4}Fokusomr\IeC {\r a}de for QST}{21}{section.3.4}
 \contentsline {section}{\numberline {3.5}Klinisk anvendelse af QST}{22}{section.3.5}
 \contentsline {section}{\numberline {3.6}Tilpasning af QST til kn\IeC {\ae }artrose}{22}{section.3.6}
-\contentsline {chapter}{\chapternumberline {4}Sikkerhed (SAF)}{24}{chapter.4}
-\contentsline {section}{\numberline {4.1}Sikkerhed (SAF)}{24}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Form\IeC {\r a}l}{24}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{24}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}Klinisk effektivitet (EFF)}{24}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Form\IeC {\r a}l}{24}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{25}{subsection.4.2.2}
-\contentsline {section}{\numberline {4.3}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{25}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Form\IeC {\r a}l}{25}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{25}{subsection.4.3.2}
-\contentsline {chapter}{Litteratur}{28}{section*.16}
+\contentsline {section}{\numberline {3.7}Her mangler virkem\IeC {\r a}de}{23}{section.3.7}
+\contentsline {section}{\numberline {3.8}Begr\IeC {\ae }nsende faktorer ved benyttelse af QST}{23}{section.3.8}
+\contentsline {section}{\numberline {3.9}Her mangler sammenligning}{24}{section.3.9}
+\contentsline {chapter}{\chapternumberline {4}Sikkerhed (SAF)}{25}{chapter.4}
+\contentsline {section}{\numberline {4.1}Sikkerhed (SAF)}{25}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Form\IeC {\r a}l}{25}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{25}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Metode}{25}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Sikkerhedsm\IeC {\ae }ssige risici for patienter}{26}{subsection.4.1.4}
+\contentsline {subsubsection}{Mekanisk trykp\IeC {\r a}virkning}{26}{section*.12}
+\contentsline {subsubsection}{Overholdelse af skadegr\IeC {\ae }nser}{27}{section*.13}
+\contentsline {subsection}{\numberline {4.1.5}Sikkerhedsforanstaltninger}{27}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Konklusion}{28}{subsection.4.1.6}
+\contentsline {section}{\numberline {4.2}Klinisk effektivitet (EFF)}{28}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Form\IeC {\r a}l}{28}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{28}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{29}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Form\IeC {\r a}l}{29}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{29}{subsection.4.3.2}
+\contentsline {chapter}{Litteratur}{31}{section*.18}

@@ -1,4 +1,4 @@
-\begin{thebibliography}{57}
+\begin{thebibliography}{64}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -503,5 +503,68 @@ Vikki Wylde.
   (1):\penalty0 255--257, 2015.
 \newblock ISSN 15281132.
 \newblock \doi{10.1007/s11999-014-4023-x}.
+
+\bibitem[Association;(2013)]{helsinki2013}
+World~Medical Association;.
+\newblock {WMA Declaration of Helsinki - Ethical Principles for Medical
+  Research Involving Human Subjects}.
+\newblock \emph{JAMA: The Journal of the American Medical Association},
+  \penalty0 (June 1964):\penalty0 1--8, 2013.
+\newblock ISSN 0019-5847.
+\newblock URL \url{http://www.wma.net/es/30publications/10policies/b3/}.
+
+\bibitem[Sundhedsstyrelsen(2016)]{nkr2016}
+Sundhedsstyrelsen.
+\newblock {Nationale Kliniske Retningslinjer}.
+\newblock pages 1--2, 2016.
+\newblock URL
+  \url{https://sundhedsstyrelsen.dk/da/sundhed/kvalitet-og-retningslinjer/{~}/media/382DCD3C38B54200823EB20DFF6DBD0D.ashx}.
+
+\bibitem[Sundhedsstyrelsen(2012)]{kommissorium2012}
+Sundhedsstyrelsen.
+\newblock {Kommissorium for udarbejdelse af nationale kliniske retningslinjer}.
+\newblock \penalty0 (4):\penalty0 1--4, 2012.
+\newblock URL
+  \url{https://sundhedsstyrelsen.dk/da/sundhed/kvalitet-og-retningslinjer/{~}/media/EA5CFD60216C4DAA9102C21DF6C121D1.ashx}.
+
+\bibitem[{N{\'{i}} Annaidh} et~al.(2012){N{\'{i}} Annaidh}, Bruy{\`{e}}re,
+  Destrade, Gilchrist, and Ott{\'{e}}nio]{aisling2012}
+Aisling {N{\'{i}} Annaidh}, Karine Bruy{\`{e}}re, Michel Destrade, Michael~D.
+  Gilchrist, and M{\'{e}}lanie Ott{\'{e}}nio.
+\newblock {Characterization of the anisotropic mechanical properties of excised
+  human skin}.
+\newblock \emph{Journal of the Mechanical Behavior of Biomedical Materials},
+  5\penalty0 (1):\penalty0 139--148, 2012.
+\newblock ISSN 17516161.
+\newblock \doi{10.1016/j.jmbbm.2011.08.016}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.jmbbm.2011.08.016}.
+
+\bibitem[Jussila et~al.(2005)Jussila, Lepp{\"{a}}niemi, Paronen, and
+  Kulom{\"{a}}ki]{jussila2005}
+Jorma Jussila, Ari Lepp{\"{a}}niemi, Mikael Paronen, and Erkki Kulom{\"{a}}ki.
+\newblock {Ballistic skin simulant}.
+\newblock \emph{Forensic Science International}, 150\penalty0 (1):\penalty0
+  63--71, 2005.
+\newblock ISSN 03790738.
+\newblock \doi{10.1016/j.forsciint.2004.06.039}.
+
+\bibitem[Sanders et~al.(1995)Sanders, Goldstein, and Leotta]{sanders1995}
+J~E Sanders, B~S Goldstein, and D~F Leotta.
+\newblock {Skin response to mechanical stress: adaptation rather than
+  breakdown--a review of the literature.}
+\newblock \emph{Journal of rehabilitation research and development},
+  32\penalty0 (3):\penalty0 214--226, 1995.
+\newblock ISSN 0748-7711.
+
+\bibitem[Shy et~al.(2003)Shy, Frohman, So, Arezzo, Cornblath, Giuliani,
+  Kincaid, Ochoa, Parry, and Weimer]{shy2003}
+M~E Shy, E~M Frohman, Y~T So, J~C Arezzo, D~R Cornblath, M~J Giuliani, J~C
+  Kincaid, J~L Ochoa, G~J Parry, and L~H Weimer.
+\newblock {Quantitative sensory testing: report of the Therapeutics and
+  Technology Assessment Subcommittee of the American Academy of Neurology}.
+\newblock \emph{Neurology}, 60\penalty0 (6):\penalty0 898--904, 2003.
+\newblock ISSN 1526-632X.
+\newblock \doi{10.1212/01.WNL.0000058546.16985.11}.
+\newblock URL \url{http://www.neurology.org/content/60/6/898.full.pdf}.
 
 \end{thebibliography}
