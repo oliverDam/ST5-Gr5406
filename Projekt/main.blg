@@ -1,132 +1,92 @@
 This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
-Case mismatch error between cite keys rolke2006 and Rolke2006
----line 365 of file main.aux
- : \citation{rolke2006
- :                    }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys rolke2006 and Rolke2006
----line 366 of file main.aux
- : \citation{rolke2006
- :                    }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys rolke2006 and Rolke2006
----line 367 of file main.aux
- : \citation{rolke2006
- :                    }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys rolke2006 and Rolke2006
----line 377 of file main.aux
- : \citation{rolke2006
- :                    }
-I'm skipping whatever remains of this command
 The style file: unsrtnat.bst
 Database file #1: kilder.bib
-Repeated entry---line 82 of file kilder.bib
+Repeated entry---line 100 of file kilder.bib
  : @article{Arendt-Nielsen2015
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 727 of file kilder.bib
+Repeated entry---line 599 of file kilder.bib
  : @article{HTAcore
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 953 of file kilder.bib
- : @article{Lunn2013
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1168 of file kilder.bib
- : @article{Petersen2015
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1200 of file kilder.bib
- : @article{Petersen2016
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1323 of file kilder.bib
- : @article{Rolke2006
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1340 of file kilder.bib
- : @article{rolke2006
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1864 of file kilder.bib
- : @article{Wylde2015
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1920 of file kilder.bib
+Repeated entry---line 699 of file kilder.bib
  : @book{Yarnitsky2006
  :                    ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "lars"
-Warning--I didn't find a database entry for "widespread"
-Warning--I didn't find a database entry for "Gigtforeningen2016"
-Warning--I didn't find a database entry for "Dyck1998"
-Warning--I didn't find a database entry for "Nielsen2015"
-Warning--I didn't find a database entry for "DST1"
-Warning--I didn't find a database entry for "DST2"
+Repeated entry---line 1324 of file kilder.bib
+ : @article{Lunn2013
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1409 of file kilder.bib
+ : @article{Petersen2016
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1426 of file kilder.bib
+ : @article{Wylde2015
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1460 of file kilder.bib
+ : @article{Petersen2015
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1631 of file kilder.bib
+ : @article{rolke2006
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1648 of file kilder.bib
+ : @article{Rolke2006
+ :                   ,
+I'm skipping whatever remains of this entry
 Warning--empty journal in HTAcore
-Warning--empty publisher in brostrom2012
-Warning--empty publisher in schroder
-Warning--empty journal in sygdom
-Warning--empty journal in aarsrapport2016
-Warning--empty year in aarsrapport2016
-Warning--empty year in aarsrapport2016
-Warning--empty publisher in aarsrapport2011
-Warning--empty year in adobe
-Warning--empty year in robodoc2016
-Warning--empty year in tka-technique
-Warning--empty publisher in Carmon
-Warning--can't use both author and editor fields in Martini
-Warning--empty publisher in smerter
-Warning--empty publisher in Wals2009
-Warning--empty journal in Parks2012
-Warning--empty publisher in Yarnitsky2006
-Warning--empty publisher in Robinson2008
+Warning--can't use both author and editor fields in Yarnitsky2006
+Warning--there's a number but no volume in Leary2016
+Warning--empty journal in Gronmo2012
+Warning--there's a number but no volume in Gronmo2012
 Warning--there's a number but no volume in helsinki2013
 Warning--empty journal in nkr2016
 Warning--empty journal in kommissorium2012
 Warning--there's a number but no volume in kommissorium2012
-You've used 64 entries,
+You've used 29 entries,
             2481 wiz_defined-function locations,
-            1077 strings with 21490 characters,
-and the built_in function-call counts, 27262 in all, are:
-= -- 2279
-> -- 1695
-< -- 27
-+ -- 643
-- -- 514
-* -- 2415
-:= -- 4588
-add.period$ -- 300
-call.type$ -- 64
-change.case$ -- 121
-chr.to.int$ -- 63
-cite$ -- 87
-duplicate$ -- 1188
-empty$ -- 2230
-format.name$ -- 589
-if$ -- 5601
-int.to.chr$ -- 2
-int.to.str$ -- 65
-missing$ -- 67
-newline$ -- 436
-num.names$ -- 189
-pop$ -- 454
+            807 strings with 13403 characters,
+and the built_in function-call counts, 13694 in all, are:
+= -- 1135
+> -- 939
+< -- 11
++ -- 346
+- -- 288
+* -- 1288
+:= -- 2348
+add.period$ -- 145
+call.type$ -- 29
+change.case$ -- 58
+chr.to.int$ -- 29
+cite$ -- 38
+duplicate$ -- 558
+empty$ -- 1043
+format.name$ -- 323
+if$ -- 2780
+int.to.chr$ -- 1
+int.to.str$ -- 30
+missing$ -- 30
+newline$ -- 211
+num.names$ -- 87
+pop$ -- 164
 preamble$ -- 1
-purify$ -- 64
+purify$ -- 29
 quote$ -- 0
-skip$ -- 676
+skip$ -- 309
 stack$ -- 0
-substring$ -- 1092
-swap$ -- 136
-text.length$ -- 3
+substring$ -- 594
+swap$ -- 65
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 418
-warning$ -- 22
-while$ -- 211
+type$ -- 200
+warning$ -- 9
+while$ -- 108
 width$ -- 0
-write$ -- 1022
-(There were 13 error messages)
+write$ -- 496
+(There were 9 error messages)
