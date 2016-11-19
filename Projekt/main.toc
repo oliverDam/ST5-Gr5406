@@ -32,21 +32,21 @@
 \contentsline {section}{\numberline {3.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{13}{section.3.2}
 \contentsline {section}{\numberline {3.3}Metode}{13}{section.3.3}
 \contentsline {section}{\numberline {3.4}Effekt og skade}{14}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Gavnlige effekter ved teknologien}{14}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.1}Gavnlige effekter ved QST}{14}{subsection.3.4.1}
 \contentsline {section}{\numberline {3.5}N\IeC {\o }jagtighed}{14}{section.3.5}
 \contentsline {subsection}{\numberline {3.5.1}Klinisk effekt}{14}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Repeterbarhed for QST}{17}{subsection.3.5.2}
-\contentsline {section}{\numberline {3.6}Delkonklusion}{18}{section.3.6}
-\contentsline {chapter}{\chapternumberline {4}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{20}{chapter.4}
-\contentsline {section}{\numberline {4.1}Form\IeC {\r a}l}{20}{section.4.1}
-\contentsline {section}{\numberline {4.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{20}{section.4.2}
-\contentsline {section}{\numberline {4.3}Metode}{20}{section.4.3}
-\contentsline {section}{\numberline {4.4}Teknologiens effekt ift omkostninger}{21}{section.4.4}
-\contentsline {subsubsection}{Omkostninger for implementering af Nocitech}{21}{section*.5}
-\contentsline {subsection}{\numberline {4.4.1}\IeC {\O }konomisk p\IeC {\r a}virkning}{22}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Kroniske Patienter}{22}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Cost-effectiveness}{22}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Ressourceudnyttelse}{23}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Hvordan vil implementeringen af teknologien p\IeC {\r a}virke regionens budget?}{23}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Repeterbarhed for QST}{16}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}Delkonklusion}{17}{section.3.6}
+\contentsline {chapter}{\chapternumberline {4}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Form\IeC {\r a}l}{19}{section.4.1}
+\contentsline {section}{\numberline {4.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{19}{section.4.2}
+\contentsline {section}{\numberline {4.3}Metode}{19}{section.4.3}
+\contentsline {section}{\numberline {4.4}Teknologiens effekt ift omkostninger}{20}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Omkostninger for implementering af Nocitech}{20}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}\IeC {\O }konomisk p\IeC {\r a}virkning}{21}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Omkostninger ved kroniske smertepatienter}{21}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Cost-effectiveness}{22}{subsection.4.4.4}
+\contentsline {section}{\numberline {4.5}Ressourceudnyttelse}{22}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Hvordan vil implementeringen af teknologien p\IeC {\r a}virke regionens budget?}{22}{subsection.4.5.1}
 \contentsline {section}{\numberline {4.6}Delkonklusion}{23}{section.4.6}
-\contentsline {chapter}{Litteratur}{25}{section*.7}
+\contentsline {chapter}{Litteratur}{24}{section*.6}
