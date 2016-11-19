@@ -1,28 +1,31 @@
-\begin{thebibliography}{32}
+\begin{thebibliography}{43}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Ja et~al.(2015)Ja, Union, and Programme]{HTAcore}
+\bibitem[Ja et~al.(2016)Ja, Union, and Programme]{HTAcore}
 The~Eunethta Ja, European Union, and Health Programme.
-\newblock {EUnetHTA JA2 WP8 DELIVERABLE HTA Core Model {\textregistered} Online
-  User guide}.
-\newblock 2:\penalty0 1--27, 2015.
+\newblock {EUnetHTA Joint Action 2, Work Package 8. HTA Core Model
+  {\textregistered} version 3.0 (Pdf)}.
+\newblock 3.0:\penalty0 410, 2016.
 
 \bibitem[Yarnitsky(1997)]{Yarnitsky1997}
 David Yarnitsky.
-\newblock {QUANTITATIVE SENSORY TESTING}.
+\newblock {Quantitative Sensory Testing}.
 \newblock \emph{MUSCLE {\&} NERVE}, 20\penalty0 (2):\penalty0 198--204, 1997.
 \newblock \doi{10.1002/(SICI)1097-4598(199702)20:2<198::AID-MUS10>3.0.CO;2-#}.
 
 \bibitem[Yarnitsky and Granot(2006)]{Yarnitsky2006}
 David Yarnitsky and Michal Granot.
-\newblock \emph{{Handbook of Clinical Neurology - Chapter 27 Quantitative
-  sensory testing}}.
+\newblock \emph{{Handbook of Clinical Neurology, Chapter: Quantitative Sensory
+  Testing}}, volume~81.
 \newblock PAIN, 81 edition, 2006.
 \newblock ISBN 978-0-444-51901-6.
+\newblock \doi{10.1016/S0072-9752(06)80031-X}.
+\newblock URL
+  \url{http://www.ncbi.nlm.nih.gov/pubmed/18808849$\backslash$nhttp://linkinghub.elsevier.com/retrieve/pii/S007297520680031X}.
 
 \bibitem[Dahl et~al.(2013)Dahl, Arendt-Nielsen, and {Staehelin
   Jensen}]{smerter}
@@ -43,7 +46,8 @@ M.~M{\"{u}}cke, H.~Cuhls, L.~Radbruch, R.~Baron, C.~Maier, T.~T{\"{o}}lle,
 \bibitem[Zaslansky and Yarnitsky(1998)]{Zaslansky1998}
 R~Zaslansky and D~Yarnitsky.
 \newblock {Clinical applications of quantitative sensory testing (QST)}.
-\newblock \emph{J Neurol Sci}, 153\penalty0 (2):\penalty0 215--238, 1998.
+\newblock \emph{Journal of Neurological Sciences}, 153\penalty0 (2):\penalty0
+  215--238, 1998.
 \newblock ISSN 0022-510X.
 \newblock \doi{S0022-510X(97)00293-1 [pii]}.
 \newblock URL
@@ -80,6 +84,16 @@ M~Cornelius, J~Walker, M~Pejsa, M~Hand, C~Campbell, J~Haythornthwaite,
 \newblock URL \url{Available from Elsevier in
   http://linker.worldcat.org/?rft.institution{\_}id=129788{\&}spage=S26{\&}pkgName=ckjournalathens{\&}issn=1526-5900{\&}linkclass=to{\_}article{\&}jKey=15265900{\&}issue=4+SUPPL.+1{\&}provider=elsevier{\&}date=2015-04{\&}aulast=Cornelius+M.{\&}atitle=Pre-surgical+Qu}.
 
+\bibitem[Mj{\"{o}}bo et~al.(2009)Mj{\"{o}}bo, Rudin, Nielsen, and
+  Werner]{Nielsen2009}
+H~N Mj\"{o}bo, A. Rudin, P~R Nielsen, and M~U Werner.
+\newblock {Postoperative pain prediction: A systematic review of preoperative
+  experimental pain studies}.
+\newblock \emph{Pain Practice}, 9\penalty0 (6):\penalty0 148--149, 2009.
+\newblock ISSN 1530-7085.
+\newblock URL
+  \url{http://www.embase.com/search/results?subaction=viewrecord{\&}from=export{\&}id=L70207406$\backslash$nhttp://dx.doi.org/10.1111/j.1533-2500.2009.00267.x$\backslash$nhttp://sfx.library.uu.nl/utrecht?sid=EMBASE{\&}issn=15307085{\&}id=doi:10.1111/j.1533-2500.2009.00267.x{\&}atitle=Postoperative+}.
+
 \bibitem[Suokas et~al.(2012)Suokas, Walsh, McWilliams, Condon, Moreton, Wylde,
   Arendt-Nielsen, and Zhang]{Suokas2012}
 A.~K. Suokas, D.~A. Walsh, D.~F. McWilliams, L.~Condon, B.~Moreton, V.~Wylde,
@@ -92,17 +106,27 @@ A.~K. Suokas, D.~A. Walsh, D.~F. McWilliams, L.~Condon, B.~Moreton, V.~Wylde,
 \newblock \doi{10.1016/j.joca.2012.06.009}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.joca.2012.06.009}.
 
-\bibitem[Petersen et~al.(2015)Petersen, Simonsen, Laursen, Nielsen, Rasmussen,
-  and Arendt-Nielsen]{Petersen2015}
-Kristian~K Petersen, Ole Simonsen, Mogens~B Laursen, Thomas~a Nielsen, Sten
-  Rasmussen, and Lars Arendt-Nielsen.
-\newblock {Chronic postoperative pain after primary and revision total knee
-  arthroplasty.}
-\newblock \emph{The Clinical journal of pain}, 31\penalty0 (1):\penalty0 1--6,
-  2015.
-\newblock ISSN 1536-5409.
-\newblock \doi{10.1097/AJP.0000000000000146}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/25485953}.
+\bibitem[Arendt-Nielsen et~al.(2015)Arendt-Nielsen, Skou, Nielsen, and
+  Petersen]{Arendt-Nielsen2015b}
+Lars Arendt-Nielsen, S{\o}ren~T. Skou, Thomas~A. Nielsen, and Kristian~K.
+  Petersen.
+\newblock {Altered Central Sensitization and Pain Modulation in the CNS in
+  Chronic Joint Pain}.
+\newblock \emph{Current Osteoporosis Reports}, 13\penalty0 (4):\penalty0
+  225--234, 2015.
+\newblock ISSN 15442241.
+\newblock \doi{10.1007/s11914-015-0276-x}.
+
+\bibitem[Petersen et~al.(2015)Petersen, Arendt-Nielsen, Simonsen, Wilder-Smith,
+  and Laursen]{Petersen2015}
+Kristian~Kj{\ae}r Petersen, Lars Arendt-Nielsen, Ole Simonsen, Oliver
+  Wilder-Smith, and Mogens~Berg Laursen.
+\newblock {Presurgical assessment of temporal summation of pain predicts the
+  development of chronic postoperative pain 12 months after total knee
+  replacement}.
+\newblock \emph{Pain}, 156\penalty0 (1):\penalty0 55--61, 2015.
+\newblock ISSN 18726623.
+\newblock \doi{10.1016/j.pain.0000000000000022}.
 
 \bibitem[Petersen et~al.(2016)Petersen, Graven-Nielsen, Simonsen, Laursen, and
   Arendt-Nielsen]{Petersen2016}
@@ -111,7 +135,7 @@ Kristian~Kj{\ae}r Petersen, Thomas Graven-Nielsen, Ole Simonsen, Mogens~Berg
 \newblock {Preoperative pain mechanisms assessed by cuff algometry are
   associated with chronic postoperative pain relief after total knee
   replacement}.
-\newblock \emph{Pain}, 157:\penalty0 1, 2016.
+\newblock \emph{Pain}, 157\penalty0 (7):\penalty0 1400--1406, 2016.
 \newblock ISSN 0304-3959.
 \newblock \doi{10.1097/j.pain.0000000000000531}.
 \newblock URL
@@ -128,6 +152,23 @@ Vikki Wylde, Adrian Sayers, Erik Lenguerrand, Rachael Gooberman-Hill, Mark
 \newblock \doi{10.1016/j.pain.0000000000000002}.
 \newblock URL
   \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=4280282{\&}tool=pmcentrez{\&}rendertype=abstract}.
+
+\bibitem[Wylde et~al.(2016)Wylde, Sayers, Odutola, Gooberman-Hill, Dieppe, and
+  Blom]{Wylde2016c}
+V.~Wylde, A.~Sayers, A.~Odutola, R.~Gooberman-Hill, P.~Dieppe, and A.W. Blom.
+\newblock {Central sensitization as a determinant of patients' benefit from
+  total hip and knee replacement}.
+\newblock \emph{European Journal of Pain}, pages 1--9, 2016.
+\newblock ISSN 10903801.
+\newblock \doi{10.1002/ejp.929}.
+\newblock URL \url{http://doi.wiley.com/10.1002/ejp.929}.
+
+\bibitem[Porta(2008)]{Porta2008}
+Miquel Porta.
+\newblock \emph{{A Dictionary of Epidemiology}}.
+\newblock Oxford University Press, 5 edition, 2008.
+\newblock URL
+  \url{http://www.oxfordreference.com/view/10.1093/acref/9780195314496.001.0001/acref-9780195314496-e-212}.
 
 \bibitem[PJ et~al.(1998)PJ, WR, H, M, J, M, JC, GA, and PC]{Dyck1998}
 Dyck PJ, Kennedy WR, Kesserwani H, Melanson M, Ochoa J, Shy M, Stevens JC,
@@ -164,9 +205,9 @@ Helen~O Leary, Keith~M Smart, Niamh~A Moloney, and Catherine~M Doody.
 \newblock ISSN 1533-2500.
 \newblock \doi{10.1111/papr.12484}.
 
-\bibitem[Kapitel(2012)]{Gronmo2012}
-Rr~Kapitel.
-\newblock {KVALTTATTvE oG KVANTITATIvE METoDER I}.
+\bibitem[Gr{\o}nmo(2012)]{Gronmo2012}
+S.~Gr{\o}nmo.
+\newblock {Kvalitative og kvantitative metoder I}.
 \newblock \penalty0 (1):\penalty0 85--91, 2012.
 
 \bibitem[Association;(2013)]{helsinki2013}
@@ -221,6 +262,26 @@ J~E Sanders, B~S Goldstein, and D~F Leotta.
   32\penalty0 (3):\penalty0 214--226, 1995.
 \newblock ISSN 0748-7711.
 
+\bibitem[Graven-Nielsen et~al.(2016)Graven-Nielsen, Izumi, Petersen, and
+  Arendt-Nielsen]{denheltnye2016}
+T.~Graven-Nielsen, M.~Izumi, K.~K. Petersen, and L.~Arendt-Nielsen.
+\newblock {European Journal of Pain USER-INDEPENDENT ASSESSMENT OF CONDITIONING
+  PAIN MODULATION BY}.
+\newblock \emph{EJP}, pages 1--10, 2016.
+\newblock ISSN 10903801.
+\newblock \doi{10.1002/ejp.958}.
+
+\bibitem[Rolke et~al.(2006)Rolke, Magerl, Campbell, Schalber, Caspari,
+  Birklein, and Treede]{Rolke2006b}
+R.~Rolke, W.~Magerl, K.~Andrews Campbell, C.~Schalber, S.~Caspari, F.~Birklein,
+  and R.~D. Treede.
+\newblock {Quantitative sensory testing: A comprehensive protocol for clinical
+  trials}.
+\newblock \emph{European Journal of Pain}, 10\penalty0 (1):\penalty0 77--88,
+  2006.
+\newblock ISSN 10903801.
+\newblock \doi{10.1016/j.ejpain.2005.02.003}.
+
 \bibitem[Shy et~al.(2003)Shy, Frohman, So, Arezzo, Cornblath, Giuliani,
   Kincaid, Ochoa, Parry, and Weimer]{shy2003}
 M~E Shy, E~M Frohman, Y~T So, J~C Arezzo, D~R Cornblath, M~J Giuliani, J~C
@@ -242,6 +303,28 @@ Thomas Graven-Nielsen, Henrik~Bjarke Vaegter, Sara Finocchietti, Gitte
 \newblock ISSN 1872-6623 (Electronic).
 \newblock \doi{10.1097/j.pain.0000000000000294}.
 
+\bibitem[Buvanendran et~al.(2010)Buvanendran, Kroin, {Della Valle}, Kari,
+  Moric, and Tuman]{Buvanendran2010}
+Asokumar Buvanendran, Jeffrey~S. Kroin, Craig~J. {Della Valle}, Maruti Kari,
+  Mario Moric, and Kenneth~J. Tuman.
+\newblock {Perioperative oral pregabalin reduces chronic pain after total knee
+  arthroplasty: A prospective, randomized, controlled trial}.
+\newblock \emph{Anesthesia and Analgesia}, 110\penalty0 (1):\penalty0 199--207,
+  2010.
+\newblock ISSN 00032999.
+\newblock \doi{10.1213/ANE.0b013e3181c4273a}.
+
+\bibitem[Kennedy et~al.(2016)Kennedy, Kemp, Ridout, Yarnitsky, and
+  Rice]{Kennedy2016}
+Donna~L. Kennedy, Harriet~I. Kemp, Deborah Ridout, David Yarnitsky, and
+  Andrew~SC Rice.
+\newblock {Reliability of Conditioned Pain Modulation}.
+\newblock \emph{Pain}, 157:\penalty0 1, 2016.
+\newblock ISSN 0304-3959.
+\newblock \doi{10.1097/j.pain.0000000000000689}.
+\newblock URL
+  \url{http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage{\&}an=00006396-900000000-99437}.
+
 \bibitem[Imai et~al.(2016)Imai, Petersen, M{\o}rch, and {Arendt
   Nielsen}]{Imai2016}
 Y.~Imai, K.~K. Petersen, C.~D. M{\o}rch, and L.~{Arendt Nielsen}.
@@ -255,9 +338,10 @@ Y.~Imai, K.~K. Petersen, C.~D. M{\o}rch, and L.~{Arendt Nielsen}.
 \newblock URL
   \url{https://www.tandfonline.com/doi/full/10.1080/08990220.2016.1229178}.
 
-\bibitem[Odgaard and Hospital()]{aarsrapport2016}
+\bibitem[Odgaard and Hospital(2016)]{aarsrapport2016}
 Anders Odgaard and Gentofte Hospital.
 \newblock {Dansk Kn{\ae}alloplastikregister, {\AA}rsrapport 2016}.
+\newblock 2016.
 
 \bibitem[DST()]{DST1}
 {DST.dk}.
@@ -286,8 +370,36 @@ D~C Turk.
 \newblock URL
   \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=12441829}.
 
-\bibitem[RnB(2017)]{RnBudget17}
-{Budgetaftale 2017 -}.
-\newblock 2017.
+\bibitem[Eriksen et~al.(2006)Eriksen, Sj{\o}gren, Bruera, Ekholm, and
+  Rasmussen]{Eriksen2006}
+J{\o}rgen Eriksen, Per Sj{\o}gren, Eduardo Bruera, Ola Ekholm, and Niels~K.
+  Rasmussen.
+\newblock {Critical issues on opioids in chronic non-cancer pain:. An
+  epidemiological study}.
+\newblock \emph{Pain}, 125\penalty0 (1-2):\penalty0 172--179, 2006.
+\newblock ISSN 03043959.
+\newblock \doi{10.1016/j.pain.2006.06.009}.
+
+\bibitem[Phillips(2009)]{Phillips2009}
+Ceri~J Phillips.
+\newblock {The Cost and Burden of Chronic Pain.}
+\newblock \emph{Reviews in pain}, 3\penalty0 (1):\penalty0 2--5, 2009.
+\newblock ISSN 2049-4637.
+\newblock \doi{10.1177/204946370900300102}.
+\newblock URL
+  \url{http://www.ncbi.nlm.nih.gov/pubmed/26526940$\backslash$nhttp://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4590036}.
+
+\bibitem[{Region Nordjylland}(2016)]{RnBudget17}
+{Region Nordjylland}.
+\newblock {Budgetaftale 2017 -}.
+\newblock 2016.
+
+\bibitem[Holmberg et~al.(2015)Holmberg, Poulsen, and Davidsen]{Holmberg2015}
+Teresa Holmberg, Mikala~Josefine Poulsen, and Michael Davidsen.
+\newblock \emph{{Muskel- og skeletlidelser i Danmark. N{\o}gletal 2015}}.
+\newblock 2015.
+\newblock ISBN 9788778993038.
+\newblock URL
+  \url{http://www.si-folkesundhed.dk/upload/rapport{\_}n{\oe}gletal{\_}gigtforeningen{\_}november.pdf}.
 
 \end{thebibliography}
