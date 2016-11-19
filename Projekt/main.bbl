@@ -1,4 +1,4 @@
-\begin{thebibliography}{43}
+\begin{thebibliography}{46}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -86,7 +86,7 @@ M~Cornelius, J~Walker, M~Pejsa, M~Hand, C~Campbell, J~Haythornthwaite,
 
 \bibitem[Mj{\"{o}}bo et~al.(2009)Mj{\"{o}}bo, Rudin, Nielsen, and
   Werner]{Nielsen2009}
-H~N Mj\"{o}bo, A. Rudin, P~R Nielsen, and M~U Werner.
+H~N Mj{\"{o}}bo, A. Rudin, P~R Nielsen, and M~U Werner.
 \newblock {Postoperative pain prediction: A systematic review of preoperative
   experimental pain studies}.
 \newblock \emph{Pain Practice}, 9\penalty0 (6):\penalty0 148--149, 2009.
@@ -303,6 +303,18 @@ Thomas Graven-Nielsen, Henrik~Bjarke Vaegter, Sara Finocchietti, Gitte
 \newblock ISSN 1872-6623 (Electronic).
 \newblock \doi{10.1097/j.pain.0000000000000294}.
 
+\bibitem[Lunn et~al.(2015)Lunn, Husted, Laursen, Hansen, and Kehlet]{Lunn2015a}
+Troels~Haxholdt Lunn, Henrik Husted, Mogens~Berg Laursen, Lars~Tambour Hansen,
+  and Henrik Kehlet.
+\newblock {Analgesic and sedative effects of perioperative gabapentin in total
+  knee arthroplasty A randomized, double-blind, placebo-controlled,
+  dose-finding study}.
+\newblock \emph{Pain}, 156:\penalty0 1, 2015.
+\newblock ISSN 0304-3959.
+\newblock \doi{10.1097/j.pain.0000000000000309}.
+\newblock URL
+  \url{http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage{\&}an=00006396-900000000-99759}.
+
 \bibitem[Buvanendran et~al.(2010)Buvanendran, Kroin, {Della Valle}, Kari,
   Moric, and Tuman]{Buvanendran2010}
 Asokumar Buvanendran, Jeffrey~S. Kroin, Craig~J. {Della Valle}, Maruti Kari,
@@ -313,6 +325,15 @@ Asokumar Buvanendran, Jeffrey~S. Kroin, Craig~J. {Della Valle}, Maruti Kari,
   2010.
 \newblock ISSN 00032999.
 \newblock \doi{10.1213/ANE.0b013e3181c4273a}.
+
+\bibitem[Wylde(2015)]{Wylde2015}
+Vikki Wylde.
+\newblock {CORR Insights: Abnormal Quantitative Sensory Testing is Associated
+  With Persistent Pain One Year After TKA}.
+\newblock \emph{Clinical Orthopaedics and Related Research}, 473\penalty0
+  (1):\penalty0 255--257, 2015.
+\newblock ISSN 15281132.
+\newblock \doi{10.1007/s11999-014-4023-x}.
 
 \bibitem[Kennedy et~al.(2016)Kennedy, Kemp, Ridout, Yarnitsky, and
   Rice]{Kennedy2016}
@@ -345,6 +366,11 @@ Anders Odgaard and Gentofte Hospital.
 
 \bibitem[DST()]{DST1}
 {DST.dk}.
+\newblock URL
+  \url{http://www.statistikbanken.dk/statbank5a/SelectVarVal/saveselections.asp}.
+
+\bibitem[DTS()]{DTS2}
+{DTS.dk}.
 \newblock URL
   \url{http://www.statistikbanken.dk/statbank5a/SelectVarVal/saveselections.asp}.
 
