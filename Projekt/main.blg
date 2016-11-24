@@ -3,9 +3,28 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: unsrtnat.bst
 Database file #1: kilder.bib
-Warning--empty journal in HTAcore
-Warning--can't use both author and editor fields in Yarnitsky2006
+Warning--I didn't find a database entry for "lars"
+Warning--I didn't find a database entry for "widespread"
+Warning--I didn't find a database entry for "Vaegter2016"
+Warning--I didn't find a database entry for "Veagter2016"
+Warning--I didn't find a database entry for "DST2"
+Warning--I didn't find a database entry for "Takst2016"
+Warning--empty publisher in brostrom2012
+Warning--empty publisher in schroder
+Warning--empty journal in sygdom
+Warning--empty journal in aarsrapport2016
+Warning--empty publisher in aarsrapport2011
+Warning--empty year in adobe
+Warning--empty year in robodoc2016
+Warning--empty year in tka-technique
+Warning--empty publisher in Carmon
+Warning--can't use both author and editor fields in Martini
 Warning--empty publisher in smerter
+Warning--empty publisher in Wals2009
+Warning--empty journal in Parks2012
+Warning--can't use both author and editor fields in Yarnitsky2006
+Warning--empty publisher in Robinson2008
+Warning--empty journal in HTAcore
 Warning--can't use both author and editor fields in Porta2008
 Warning--there's a number but no volume in Leary2016
 Warning--empty journal in Gronmo2012
@@ -14,50 +33,48 @@ Warning--there's a number but no volume in helsinki2013
 Warning--empty journal in nkr2016
 Warning--empty journal in kommissorium2012
 Warning--there's a number but no volume in kommissorium2012
-Warning--empty journal in aarsrapport2016
 Warning--empty year in DST1
-Warning--empty year in DTS2
 Warning--empty journal in RnBudget17
 Warning--empty publisher in Holmberg2015
-You've used 46 entries,
+You've used 83 entries,
             2481 wiz_defined-function locations,
-            929 strings with 17666 characters,
-and the built_in function-call counts, 19987 in all, are:
-= -- 1713
-> -- 1216
-< -- 19
-+ -- 460
-- -- 368
-* -- 1789
-:= -- 3356
-add.period$ -- 226
-call.type$ -- 46
-change.case$ -- 91
-chr.to.int$ -- 46
-cite$ -- 64
-duplicate$ -- 879
-empty$ -- 1614
-format.name$ -- 420
-if$ -- 4124
-int.to.chr$ -- 1
-int.to.str$ -- 47
-missing$ -- 48
-newline$ -- 326
-num.names$ -- 132
-pop$ -- 288
+            1219 strings with 26847 characters,
+and the built_in function-call counts, 35183 in all, are:
+= -- 2943
+> -- 2193
+< -- 34
++ -- 834
+- -- 666
+* -- 3112
+:= -- 5926
+add.period$ -- 390
+call.type$ -- 83
+change.case$ -- 159
+chr.to.int$ -- 81
+cite$ -- 112
+duplicate$ -- 1545
+empty$ -- 2871
+format.name$ -- 757
+if$ -- 7236
+int.to.chr$ -- 3
+int.to.str$ -- 84
+missing$ -- 86
+newline$ -- 564
+num.names$ -- 243
+pop$ -- 580
 preamble$ -- 1
-purify$ -- 46
+purify$ -- 83
 quote$ -- 0
-skip$ -- 501
+skip$ -- 882
 stack$ -- 0
-substring$ -- 802
-swap$ -- 109
+substring$ -- 1352
+swap$ -- 186
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 310
-warning$ -- 16
-while$ -- 157
+type$ -- 545
+warning$ -- 27
+while$ -- 271
 width$ -- 0
-write$ -- 767
-(There were 16 warnings)
+write$ -- 1329
+(There were 33 warnings)
