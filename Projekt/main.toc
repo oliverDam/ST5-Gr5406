@@ -1,52 +1,47 @@
 \changetocdepth {2}
 \select@language {danish}
-\contentsline {section}{\numberline {0.1}Problemafgr\IeC {\ae }nsning}{1}{section.0.1}
-\contentsline {subsection}{\numberline {0.1.1}Problemformulering}{1}{subsection.0.1.1}
-\contentsline {chapter}{\chapternumberline {1}Beskrivelse og tekniske karakteristika for teknologien (TEC)}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}Form\IeC {\r a}l}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{2}{section.1.2}
-\contentsline {section}{\numberline {1.3}Metode}{2}{section.1.3}
-\contentsline {section}{\numberline {1.4}Teknologiens egenskaber}{3}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Fokusomr\IeC {\r a}de for QST}{3}{subsection.1.4.1}
-\contentsline {subsubsection}{Klinisk anvendelse af QST}{4}{section*.1}
-\contentsline {subsubsection}{Tilpasning af QST til kn\IeC {\ae }artrose}{4}{section*.2}
-\contentsline {subsection}{\numberline {1.4.2}Unders\IeC {\o }gelse af PPT, TSP og CPM}{5}{subsection.1.4.2}
-\contentsline {section}{\numberline {1.5}Teknologiens begr\IeC {\ae }nsninger}{6}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Begr\IeC {\ae }nsende faktorer ved benyttelse af QST}{6}{subsection.1.5.1}
-\contentsline {section}{\numberline {1.6}Sammenligning med nuv\IeC {\ae }rende metoder}{7}{section.1.6}
-\contentsline {subsection}{\numberline {1.6.1}Samarbejde mellem QST og klinisk vurdering}{7}{subsection.1.6.1}
-\contentsline {section}{\numberline {1.7}Delkonklusion}{8}{section.1.7}
-\contentsline {chapter}{\chapternumberline {2}Sikkerhed (SAF)}{9}{chapter.2}
-\contentsline {section}{\numberline {2.1}Form\IeC {\r a}l}{9}{section.2.1}
-\contentsline {section}{\numberline {2.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{9}{section.2.2}
-\contentsline {section}{\numberline {2.3}Metode}{9}{section.2.3}
-\contentsline {section}{\numberline {2.4}Patientsikkerhed}{10}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Sikkerhedsm\IeC {\ae }ssige risici for patienter}{10}{subsection.2.4.1}
-\contentsline {subsubsection}{Mekanisk trykp\IeC {\r a}virkning}{11}{section*.3}
-\contentsline {subsubsection}{Overholdelse af skadegr\IeC {\ae }nser}{11}{section*.4}
-\contentsline {section}{\numberline {2.5}Sikkerhedsforanstaltninger}{12}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Sikkerhedsforanstaltninger ved anvendelse af QST}{12}{subsection.2.5.1}
-\contentsline {section}{\numberline {2.6}Delkonklusion}{12}{section.2.6}
-\contentsline {chapter}{\chapternumberline {3}Klinisk effekt (EFF)}{13}{chapter.3}
-\contentsline {section}{\numberline {3.1}Form\IeC {\r a}l}{13}{section.3.1}
-\contentsline {section}{\numberline {3.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{13}{section.3.2}
-\contentsline {section}{\numberline {3.3}Metode}{13}{section.3.3}
-\contentsline {section}{\numberline {3.4}Det nye kristine har skrevet }{14}{section.3.4}
-\contentsline {section}{\numberline {3.5}N\IeC {\o }jagtighed}{14}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Patientgruppering p\IeC {\r a} baggrund af QST-resultater}{14}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Repeterbarhed for QST}{16}{subsection.3.5.2}
-\contentsline {section}{\numberline {3.6}Delkonklusion}{17}{section.3.6}
-\contentsline {chapter}{\chapternumberline {4}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{19}{chapter.4}
-\contentsline {section}{\numberline {4.1}Form\IeC {\r a}l}{19}{section.4.1}
-\contentsline {section}{\numberline {4.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{19}{section.4.2}
-\contentsline {section}{\numberline {4.3}Metode}{19}{section.4.3}
-\contentsline {section}{\numberline {4.4}Teknologiens effekt ift omkostninger}{20}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Produkt spefikke omkostninger}{20}{subsection.4.4.1}
-\contentsline {subsubsection}{Omkostninger for implementering af Nocitech}{21}{section*.10}
-\contentsline {subsubsection}{Omkostninger for implementering af Medoc}{21}{section*.11}
-\contentsline {subsection}{\numberline {4.4.2}\IeC {\O }konomisk p\IeC {\r a}virkning}{21}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Cost-effectiveness}{22}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Ressourceudnyttelse}{22}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Hvordan vil implementeringen af teknologien p\IeC {\r a}virke regionens budget?}{22}{subsection.4.5.1}
-\contentsline {section}{\numberline {4.6}Sammendragning}{23}{section.4.6}
-\contentsline {chapter}{Litteratur}{24}{section*.13}
+\contentsline {chapter}{\chapternumberline {1}Metode}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Projektets metode}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Litteraturs\IeC {\o }gning}{3}{subsection.1.1.1}
+\contentsline {chapter}{\chapternumberline {2}Problemafgr\IeC {\ae }nsning}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Problemafgr\IeC {\ae }nsning}{6}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Problemformulering}{6}{subsection.2.1.1}
+\contentsline {chapter}{\chapternumberline {3}Beskrivelse og tekniske karakteristika for teknologien (TEC)}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Form\IeC {\r a}l}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{7}{section.3.2}
+\contentsline {section}{\numberline {3.3}Metode}{7}{section.3.3}
+\contentsline {section}{\numberline {3.4}Teknologiens egenskaber}{8}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Fokusomr\IeC {\r a}de for QST}{8}{subsection.3.4.1}
+\contentsline {subsubsection}{Klinisk anvendelse af QST}{9}{section*.4}
+\contentsline {subsubsection}{Tilpasning af QST til kn\IeC {\ae }artrose}{9}{section*.5}
+\contentsline {subsection}{\numberline {3.4.2}Unders\IeC {\o }gelse af PPT, TSP og CPM}{10}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}Teknologiens begr\IeC {\ae }nsninger}{11}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Begr\IeC {\ae }nsende faktorer ved benyttelse af QST}{11}{subsection.3.5.1}
+\contentsline {section}{\numberline {3.6}Sammenligning med nuv\IeC {\ae }rende metoder}{12}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Samarbejde mellem QST og klinisk vurdering}{12}{subsection.3.6.1}
+\contentsline {section}{\numberline {3.7}Delkonklusion}{13}{section.3.7}
+\contentsline {chapter}{\chapternumberline {4}Sikkerhed (SAF)}{14}{chapter.4}
+\contentsline {section}{\numberline {4.1}Form\IeC {\r a}l}{14}{section.4.1}
+\contentsline {section}{\numberline {4.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{14}{section.4.2}
+\contentsline {section}{\numberline {4.3}Metode}{14}{section.4.3}
+\contentsline {section}{\numberline {4.4}Patientsikkerhed}{15}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Sikkerhedsm\IeC {\ae }ssige risici for patienter}{15}{subsection.4.4.1}
+\contentsline {subsubsection}{Mekanisk trykp\IeC {\r a}virkning}{16}{section*.6}
+\contentsline {subsubsection}{Overholdelse af skadegr\IeC {\ae }nser}{16}{section*.7}
+\contentsline {section}{\numberline {4.5}Sikkerhedsforanstaltninger}{17}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Sikkerhedsforanstaltninger ved anvendelse af QST}{17}{subsection.4.5.1}
+\contentsline {section}{\numberline {4.6}Delkonklusion}{17}{section.4.6}
+\contentsline {chapter}{\chapternumberline {5}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{18}{chapter.5}
+\contentsline {section}{\numberline {5.1}Form\IeC {\r a}l}{18}{section.5.1}
+\contentsline {section}{\numberline {5.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{18}{section.5.2}
+\contentsline {section}{\numberline {5.3}Metode}{18}{section.5.3}
+\contentsline {section}{\numberline {5.4}Teknologiens effekt ift omkostninger}{19}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Produkt spefikke omkostninger}{19}{subsection.5.4.1}
+\contentsline {subsubsection}{Omkostninger for implementering af Nocitech}{20}{section*.10}
+\contentsline {subsubsection}{Omkostninger for implementering af Medoc}{20}{section*.11}
+\contentsline {subsection}{\numberline {5.4.2}\IeC {\O }konomisk p\IeC {\r a}virkning}{20}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Cost-effectiveness}{21}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}Ressourceudnyttelse}{21}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Hvordan vil implementeringen af teknologien p\IeC {\r a}virke regionens budget?}{21}{subsection.5.5.1}
+\contentsline {section}{\numberline {5.6}Sammendragning}{22}{section.5.6}
+\contentsline {chapter}{Litteratur}{23}{section*.13}
