@@ -9,19 +9,19 @@
 
 %numbers the pages with Roman numeral - starts from "i":
 \frontmatter
-\input{rapportAfsnit/pFormaliteter/Forside}
-
-\clearpage
-\thispagestyle{empty}
-{\color{white}Dette giver en tom side}
-\clearpage
-
-\includepdf[pages={1}]{rapportAfsnit/pFormaliteter/synopsis.pdf} \clearpage 
-\include{rapportAfsnit/pFormaliteter/titelblad}
-
-\chapter*{Forord og læsevejledning}\vspace{-.75cm}
-\input{rapportAfsnit/pFormaliteter/Forord}
-\newpage
+%\input{rapportAfsnit/pFormaliteter/Forside}
+%
+%\clearpage
+%\thispagestyle{empty}
+%{\color{white}Dette giver en tom side}
+%\clearpage
+%
+%\includepdf[pages={1}]{rapportAfsnit/pFormaliteter/synopsis.pdf} \clearpage 
+%\include{rapportAfsnit/pFormaliteter/titelblad}
+%
+%\chapter*{Forord og læsevejledning}\vspace{-.75cm}
+%\input{rapportAfsnit/pFormaliteter/Forord}
+%\newpage
 
 %the '*' allows the tableofcontents be excepted from the actual table of contents.
 \tableofcontents* 
@@ -30,22 +30,22 @@
 \mainmatter
 
 %%%%%%%%%%%%%%%%%%INTRO%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Introduktion}\vspace{-.75cm} \label{introduktion}
-\input{rapportAfsnit/bInitierende/indledning}
+%\chapter{Introduktion}\vspace{-.75cm} \label{introduktion}
+%\input{rapportAfsnit/bInitierende/indledning}
 
 %%%%%%%%%%%%%%%%%%METODE%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\chapter{Metode}\vspace{-.75cm}
 %\input{rapportAfsnit/dProblemloesning/projektets_metode}
 
 %%%%%%%%%%%%%Problemanalyse%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Problemanalyse}\vspace{-.75cm} \label{problemanalysen}
-\input{rapportAfsnit/cProblemanalyse/patientmaalgruppe}
-\input{rapportAfsnit/cProblemanalyse/behandling}
-\input{rapportAfsnit/cProblemanalyse/smerte}
-\input{rapportAfsnit/cProblemanalyse/Klinisk_udvaelgelse}
-\input{rapportAfsnit/cProblemanalyse/metoder}
-\chapter{Problemafgrænsning}\vspace{-.75cm}
-\input{rapportAfsnit/cProblemanalyse/afgraensning}
+%\chapter{Problemanalyse}\vspace{-.75cm} \label{problemanalysen}
+%\input{rapportAfsnit/cProblemanalyse/patientmaalgruppe}
+%\input{rapportAfsnit/cProblemanalyse/behandling}
+%\input{rapportAfsnit/cProblemanalyse/smerte}
+%\input{rapportAfsnit/cProblemanalyse/Klinisk_udvaelgelse}
+%\input{rapportAfsnit/cProblemanalyse/metoder}
+%\chapter{Problemafgrænsning}\vspace{-.75cm}
+%\input{rapportAfsnit/cProblemanalyse/afgraensning}
 
 %%%%%%%%%%%%% HTA - analyse %%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Beskrivelse og tekniske karakteristika for teknologien (TEC)}\vspace{-.75cm} \label{TEC_chap}
@@ -57,22 +57,20 @@
 \chapter{Sikkerhed (SAF)}\vspace{-.75cm} \label{SAF_chap}
 \input{rapportAfsnit/dHTAanalyse/SAF}
 
-\chapter{ XXX (ORG)}\vspace{-.75cm} \label{ORG_chap}
+\chapter{Organisatoriske aspekter (ORG)}\vspace{-.75cm} \label{ORG_chap}
 \input{rapportAfsnit/dHTAanalyse/ORG}
 
-\chapter{ XXX (SOC)}\vspace{-.75cm} \label{SOC_chap}
+\chapter{Patient- og sociale aspekter (SOC)}\vspace{-.75cm} \label{SOC_chap}
 \input{rapportAfsnit/dHTAanalyse/SOC}
 
 \chapter{Etik (ETH)}\vspace{-.75cm} \label{ETH_chap}
 \input{rapportAfsnit/dHTAanalyse/ETH}
 
-\chapter{ XX (LEG)}\vspace{-.75cm} \label{LEG_chap}
+\chapter{Juridiske aspekter (LEG)}\vspace{-.75cm} \label{LEG_chap}
 \input{rapportAfsnit/dHTAanalyse/LEG}
 
 \chapter{Omkostninger og økonomisk evaluering (ECO)}\vspace{-.75cm} \label{ECO_chap}
 \input{rapportAfsnit/dHTAanalyse/ECO}
-
-
 
 \cleardoublepage
 %\chapter{Syntese}\vspace{-.75cm}

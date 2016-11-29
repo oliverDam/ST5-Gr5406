@@ -1,79 +1,57 @@
 \changetocdepth {2}
 \select@language {danish}
-\contentsline {chapter}{\chapternumberline {1}Introduktion}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Indledning}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Initierende problemstilling}{2}{section.1.2}
-\contentsline {chapter}{\chapternumberline {2}Problemanalyse}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Patientforl\IeC {\o }b}{3}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Behandling}{3}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Postoperative TKA-resultater}{3}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Behandlingsmetoder}{4}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Kn\IeC {\ae }leddet}{4}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Kn\IeC {\ae }artrose}{4}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Non-invasiv behandling}{5}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Kirurgisk behandling}{6}{subsection.2.2.4}
-\contentsline {subsubsection}{Kriterier for veludf\IeC {\o }rt TKA-operation}{7}{section*.8}
-\contentsline {section}{\numberline {2.3}Smerte}{8}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Anatomi og fysiologi}{8}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Smertetyper}{9}{subsection.2.3.2}
-\contentsline {subsubsection}{Akut smerte}{9}{section*.11}
-\contentsline {subsubsection}{Kronisk smerte}{10}{section*.12}
-\contentsline {subsection}{\numberline {2.3.3}Smerte og kn\IeC {\ae }artrose}{11}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}Klinisk udv\IeC {\ae }lgelse af patienter}{11}{section.2.4}
-\contentsline {section}{\numberline {2.5}Teknologier til smerteklassificering}{14}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Functional Magnetic Resonance Imaging}{14}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Quantitative sensory testing}{15}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Elektrofysiologiske unders\IeC {\o }gelsesmetoder}{16}{subsection.2.5.3}
-\contentsline {subsection}{\numberline {2.5.4}Vurdering af teknologier til smerteklassificering}{17}{subsection.2.5.4}
-\contentsline {chapter}{\chapternumberline {3}Problemafgr\IeC {\ae }nsning}{19}{chapter.3}
-\contentsline {section}{\numberline {3.1}Problemafgr\IeC {\ae }nsning}{20}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Problemformulering}{20}{subsection.3.1.1}
-\contentsline {chapter}{\chapternumberline {4}Beskrivelse og tekniske karakteristika for teknologien (TEC)}{21}{chapter.4}
-\contentsline {section}{\numberline {4.1}Form\IeC {\r a}l}{21}{section.4.1}
-\contentsline {section}{\numberline {4.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{21}{section.4.2}
-\contentsline {section}{\numberline {4.3}Metode}{21}{section.4.3}
-\contentsline {section}{\numberline {4.4}Teknologiens egenskaber}{22}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Anvendelsesomr\IeC {\r a}de for QST}{22}{subsection.4.4.1}
-\contentsline {subsubsection}{Klinisk anvendelse af QST}{23}{section*.16}
-\contentsline {subsubsection}{Tilpasning af QST til kn\IeC {\ae }artrose}{23}{section*.17}
-\contentsline {subsection}{\numberline {4.4.2}Unders\IeC {\o }gelse af PPT, TSP og CPM}{24}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Teknologiens begr\IeC {\ae }nsninger}{26}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Begr\IeC {\ae }nsende faktorer ved benyttelse af QST}{26}{subsection.4.5.1}
-\contentsline {section}{\numberline {4.6}Sammenligning med nuv\IeC {\ae }rende metoder}{27}{section.4.6}
-\contentsline {subsection}{\numberline {4.6.1}Sammenspil mellem QST og klinisk vurdering}{27}{subsection.4.6.1}
-\contentsline {section}{\numberline {4.7}Delkonklusion}{27}{section.4.7}
-\contentsline {chapter}{\chapternumberline {5}Sikkerhed (SAF)}{29}{chapter.5}
-\contentsline {section}{\numberline {5.1}Form\IeC {\r a}l}{29}{section.5.1}
-\contentsline {section}{\numberline {5.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{29}{section.5.2}
-\contentsline {section}{\numberline {5.3}Metode}{29}{section.5.3}
-\contentsline {section}{\numberline {5.4}Patientsikkerhed}{30}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Sikkerhedsm\IeC {\ae }ssige risici for patienter}{30}{subsection.5.4.1}
-\contentsline {subsubsection}{Mekanisk trykp\IeC {\r a}virkning}{30}{section*.20}
-\contentsline {subsubsection}{Overholdelse af skadegr\IeC {\ae }nser}{31}{section*.21}
-\contentsline {section}{\numberline {5.5}Sikkerhedsforanstaltninger}{31}{section.5.5}
-\contentsline {section}{\numberline {5.6}Delkonklusion}{31}{section.5.6}
-\contentsline {chapter}{\chapternumberline {6}Klinisk effekt (EFF)}{33}{chapter.6}
-\contentsline {section}{\numberline {6.1}Form\IeC {\r a}l}{33}{section.6.1}
-\contentsline {section}{\numberline {6.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{33}{section.6.2}
-\contentsline {section}{\numberline {6.3}Metode}{33}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}QST-unders\IeC {\o }gelsernens statistiske styrke}{34}{subsection.6.3.1}
-\contentsline {subsubsection}{Sensitivitet og specificitet}{37}{section*.24}
-\contentsline {section}{\numberline {6.4}N\IeC {\o }jagtighed}{39}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Patientgruppering p\IeC {\r a} baggrund af QST-resultater}{40}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Repeterbarhed for QST}{42}{subsection.6.4.2}
-\contentsline {section}{\numberline {6.5}Delkonklusion}{43}{section.6.5}
-\contentsline {chapter}{\chapternumberline {7}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{44}{chapter.7}
-\contentsline {section}{\numberline {7.1}Form\IeC {\r a}l}{44}{section.7.1}
-\contentsline {section}{\numberline {7.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{44}{section.7.2}
-\contentsline {section}{\numberline {7.3}Metode}{44}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Tilegnelse af \IeC {\o }konomisk viden om QST}{45}{subsection.7.3.1}
-\contentsline {section}{\numberline {7.4}Teknologiens effekt i forhold til omkostninger}{45}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}Omkostninger ved implementering af QST}{45}{subsection.7.4.1}
-\contentsline {subsubsection}{Nocitech}{46}{section*.30}
-\contentsline {subsubsection}{Medoc}{46}{section*.31}
-\contentsline {subsection}{\numberline {7.4.2}\IeC {\O }konomisk effekt ved implementering af QST}{46}{subsection.7.4.2}
-\contentsline {subsubsection}{Cost-effectiveness}{47}{section*.32}
-\contentsline {section}{\numberline {7.5}Ressourceudnyttelse}{47}{section.7.5}
-\contentsline {subsection}{\numberline {7.5.1}P\IeC {\r a}virkning af Region Nordjyllands budget}{47}{subsection.7.5.1}
-\contentsline {section}{\numberline {7.6}Delkonklusion}{48}{section.7.6}
-\contentsline {chapter}{Litteratur}{49}{section*.34}
+\contentsline {chapter}{\chapternumberline {1}Beskrivelse og tekniske karakteristika for teknologien (TEC)}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Form\IeC {\r a}l}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Metode}{1}{section.1.3}
+\contentsline {section}{\numberline {1.4}Teknologiens egenskaber}{2}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Anvendelsesomr\IeC {\r a}de for QST}{2}{subsection.1.4.1}
+\contentsline {subsubsection}{Klinisk anvendelse af QST}{3}{section*.1}
+\contentsline {subsubsection}{Tilpasning af QST til kn\IeC {\ae }artrose}{3}{section*.2}
+\contentsline {subsection}{\numberline {1.4.2}Unders\IeC {\o }gelse af PPT, TSP og CPM}{4}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Teknologiens begr\IeC {\ae }nsninger}{6}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Begr\IeC {\ae }nsende faktorer ved benyttelse af QST}{6}{subsection.1.5.1}
+\contentsline {section}{\numberline {1.6}Sammenligning med nuv\IeC {\ae }rende metoder}{7}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Sammenspil mellem QST og klinisk vurdering}{7}{subsection.1.6.1}
+\contentsline {section}{\numberline {1.7}Delkonklusion}{7}{section.1.7}
+\contentsline {chapter}{\chapternumberline {2}Klinisk effekt (EFF)}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Form\IeC {\r a}l}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{9}{section.2.2}
+\contentsline {section}{\numberline {2.3}Metode}{9}{section.2.3}
+\contentsline {section}{\numberline {2.4}Statistisk effekt}{10}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}QST-unders\IeC {\o }gelsernens statistiske styrke}{10}{subsection.2.4.1}
+\contentsline {subsubsection}{Korrelationsstyrke}{11}{section*.5}
+\contentsline {subsubsection}{Sensitivitet og specificitet}{13}{section*.8}
+\contentsline {section}{\numberline {2.5}N\IeC {\o }jagtighed}{15}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Patientgruppering p\IeC {\r a} baggrund af QST-resultater}{15}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Repeterbarhed for QST}{18}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Delkonklusion}{19}{section.2.6}
+\contentsline {chapter}{\chapternumberline {3}Sikkerhed (SAF)}{20}{chapter.3}
+\contentsline {section}{\numberline {3.1}Form\IeC {\r a}l}{20}{section.3.1}
+\contentsline {section}{\numberline {3.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{20}{section.3.2}
+\contentsline {section}{\numberline {3.3}Metode}{20}{section.3.3}
+\contentsline {section}{\numberline {3.4}Patientsikkerhed}{21}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Sikkerhedsm\IeC {\ae }ssige risici for patienter}{21}{subsection.3.4.1}
+\contentsline {subsubsection}{Mekanisk trykp\IeC {\r a}virkning}{21}{section*.14}
+\contentsline {subsubsection}{Overholdelse af skadegr\IeC {\ae }nser}{22}{section*.15}
+\contentsline {section}{\numberline {3.5}Sikkerhedsforanstaltninger}{22}{section.3.5}
+\contentsline {section}{\numberline {3.6}Delkonklusion}{22}{section.3.6}
+\contentsline {chapter}{\chapternumberline {4}Organisatoriske aspekter (ORG)}{24}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Patient- og sociale aspekter (SOC)}{25}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Etik (ETH)}{26}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Juridiske aspekter (LEG)}{27}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{28}{chapter.8}
+\contentsline {section}{\numberline {8.1}Form\IeC {\r a}l}{28}{section.8.1}
+\contentsline {section}{\numberline {8.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{28}{section.8.2}
+\contentsline {section}{\numberline {8.3}Metode}{28}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Tilegnelse af \IeC {\o }konomisk viden om QST}{29}{subsection.8.3.1}
+\contentsline {section}{\numberline {8.4}Teknologiens effekt i forhold til omkostninger}{29}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Omkostninger ved implementering af QST}{29}{subsection.8.4.1}
+\contentsline {subsubsection}{Nocitech}{30}{section*.16}
+\contentsline {subsubsection}{Medoc}{30}{section*.17}
+\contentsline {subsection}{\numberline {8.4.2}\IeC {\O }konomisk effekt ved implementering af QST}{30}{subsection.8.4.2}
+\contentsline {subsubsection}{Cost-effectiveness}{31}{section*.18}
+\contentsline {section}{\numberline {8.5}Ressourceudnyttelse}{31}{section.8.5}
+\contentsline {subsection}{\numberline {8.5.1}P\IeC {\r a}virkning af Region Nordjyllands budget}{31}{subsection.8.5.1}
+\contentsline {section}{\numberline {8.6}Delkonklusion}{32}{section.8.6}
+\contentsline {chapter}{Litteratur}{33}{section*.20}
