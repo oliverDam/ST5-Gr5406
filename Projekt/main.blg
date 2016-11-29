@@ -3,68 +3,51 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: unsrtnat.bst
 Database file #1: kilder.bib
-Warning--I didn't find a database entry for "Wylde2016"
-Warning--I didn't find a database entry for "Parikh2008"
-Warning--I didn't find a database entry for "Veagter2016"
-Warning--I didn't find a database entry for "DST2"
+Repeated entry---line 1859 of file kilder.bib
+ : @misc{
+ :       ,
+I'm skipping whatever remains of this entry
 Warning--empty journal in HTAcore
-Warning--can't use both author and editor fields in Yarnitsky2006
-Warning--empty publisher in smerter
-Warning--can't use both author and editor fields in martini
-Warning--can't use both author and editor fields in Porta2008
-Warning--there's a number but no volume in Leary2016
-Warning--empty journal in Gronmo2012
-Warning--there's a number but no volume in Gronmo2012
-Warning--there's a number but no volume in helsinki2013
-Warning--empty journal in nkr2016
-Warning--empty journal in kommissorium2012
-Warning--there's a number but no volume in kommissorium2012
-Warning--empty journal in aarsrapport2016
-Warning--empty year in DST1
-Warning--empty year in AlgomedData
-Warning--empty journal in Takst2016
-Warning--empty year in Takst2016
-Warning--empty year in Takst2016
-Warning--empty journal in RnBudget17
-You've used 47 entries,
+Warning--can't use both author and editor fields in metodehaandbogen
+You've used 6 entries,
             2481 wiz_defined-function locations,
-            933 strings with 16673 characters,
-and the built_in function-call counts, 19662 in all, are:
-= -- 1698
-> -- 1138
-< -- 24
-+ -- 436
-- -- 342
-* -- 1700
-:= -- 3283
-add.period$ -- 222
-call.type$ -- 47
-change.case$ -- 94
-chr.to.int$ -- 47
-cite$ -- 67
-duplicate$ -- 891
-empty$ -- 1625
-format.name$ -- 400
-if$ -- 4073
+            585 strings with 5541 characters,
+and the built_in function-call counts, 1657 in all, are:
+= -- 137
+> -- 49
+< -- 4
++ -- 26
+- -- 14
+* -- 91
+:= -- 254
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 11
+chr.to.int$ -- 6
+cite$ -- 9
+duplicate$ -- 94
+empty$ -- 186
+format.name$ -- 19
+if$ -- 359
 int.to.chr$ -- 1
-int.to.str$ -- 48
-missing$ -- 49
-newline$ -- 324
-num.names$ -- 138
-pop$ -- 313
+int.to.str$ -- 7
+missing$ -- 3
+newline$ -- 38
+num.names$ -- 15
+pop$ -- 70
 preamble$ -- 1
-purify$ -- 47
+purify$ -- 6
 quote$ -- 0
-skip$ -- 517
+skip$ -- 67
 stack$ -- 0
-substring$ -- 766
-swap$ -- 111
-text.length$ -- 5
+substring$ -- 22
+swap$ -- 12
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 314
-warning$ -- 19
-while$ -- 157
+type$ -- 39
+warning$ -- 2
+while$ -- 11
 width$ -- 0
-write$ -- 765
-(There were 23 warnings)
+write$ -- 80
+(There was 1 error message)
