@@ -1,28 +1,333 @@
-\begin{thebibliography}{40}
+\begin{thebibliography}{87}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Ja et~al.(2016)Ja, Union, and Programme]{HTAcore}
-The~Eunethta Ja, European Union, and Health Programme.
-\newblock {EUnetHTA Joint Action 2, Work Package 8. HTA Core Model
-  {\textregistered} version 3.0 (Pdf)}.
-\newblock 3.0:\penalty0 410, 2016.
+\bibitem[Beswick et~al.(2012)Beswick, Wylde, Gooberman-Hill, Blom, and
+  Dieppe]{Beswick2012}
+Andrew~David Beswick, Vikki Wylde, Rachael Gooberman-Hill, Ashley Blom, and
+  Paul Dieppe.
+\newblock {What proportion of patients report long-term pain after total hip or
+  knee replacement for osteoarthritis? A systematic review of prospective
+  studies in unselected patients.}
+\newblock \emph{BMJ open}, 2\penalty0 (1):\penalty0 12, 2012.
+\newblock ISSN 1471-2474.
+\newblock \doi{10.1186/s12891-015-0469-6}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3289991{\&}tool=pmcentrez{\&}rendertype=abstract}.
 
-\bibitem[enhed for~medicinsk teknologivurdering(2007)]{metodehaandbogen}
-Sundhedsstyrelsens enhed for~medicinsk teknologivurdering.
-\newblock \emph{{Metodeh{\aa}ndbog for medicinsk teknologivurdering}}.
-\newblock Sundhedsstyrelsen, K{\o}benhavn, 2007.
-\newblock ISBN 9788776766207.
-\newblock URL \url{http://www.sst.dk/mtv}.
+\bibitem[Brostr{\o}m(2012)]{brostrom2012}
+S{\o}ren Brostr{\o}m.
+\newblock \emph{{Kn{\ae}artrose - nationale kliniske retningslinjer og faglige
+  visitationsretningslinjer}}.
+\newblock 2012.
+\newblock ISBN 978-87-7104-442-3.
 
-\bibitem[Yarnitsky(1997)]{Yarnitsky1997}
-David Yarnitsky.
-\newblock {Quantitative Sensory Testing}.
-\newblock \emph{MUSCLE {\&} NERVE}, 20\penalty0 (2):\penalty0 198--204, 1997.
-\newblock \doi{10.1002/(SICI)1097-4598(199702)20:2<198::AID-MUS10>3.0.CO;2-#}.
+\bibitem[Schroder(2012)]{schroder}
+Torben Schroder.
+\newblock \emph{{Basisbog i medicin og kirugi 5. udgave}}.
+\newblock 2012.
+
+\bibitem[Flachs et~al.(2015)Flachs, Eriksen, and Koch]{sygdom}
+Esben~Maulengracht Flachs, Louise Eriksen, and Mette~Bjerrum Koch.
+\newblock {Sygdomsbyrden i danmark}.
+\newblock 2015.
+
+\bibitem[Odgaard and Gentofte-Hospital(2016)]{aarsrapport2016}
+Anders Odgaard and Gentofte-Hospital.
+\newblock {Dansk Kn{\ae}alloplastikregister, Aarsrapport 2016}.
+\newblock 2016.
+
+\bibitem[DKR(2011)]{aarsrapport2011}
+DKR.
+\newblock \emph{{Dansk Kn{\ae}alloplastik Register}}.
+\newblock 2011.
+\newblock ISBN 9788799336432.
+
+\bibitem[Lind(2016)]{Lind2016b}
+Martin Lind.
+\newblock {Artrose, Kn{\ae}}, 2016.
+\newblock URL
+  \url{https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/artrose-knae/}.
+
+\bibitem[Petersen et~al.(2015)Petersen, Arendt-Nielsen, Simonsen, Wilder-Smith,
+  and Laursen]{Petersen2015}
+Kristian~Kj{\ae}r Petersen, Lars Arendt-Nielsen, Ole Simonsen, Oliver
+  Wilder-Smith, and Mogens~Berg Laursen.
+\newblock {Presurgical assessment of temporal summation of pain predicts the
+  development of chronic postoperative pain 12 months after total knee
+  replacement}.
+\newblock \emph{Pain}, 156\penalty0 (1):\penalty0 55--61, 2015.
+\newblock ISSN 18726623.
+\newblock \doi{10.1016/j.pain.0000000000000022}.
+
+\bibitem[Sakellariou et~al.(2016)Sakellariou, Poultsides, Ma, Bae, Liu, and
+  Sculco]{Sakellariou2016}
+V~I Sakellariou, L~A Poultsides, Y~Ma, J~Bae, S~Liu, and T~P Sculco.
+\newblock {Risk Assessment for Chronic Pain and Patient Satisfaction After
+  Total Knee Arthroplasty}.
+\newblock \emph{Orthopedics}, 39\penalty0 (1):\penalty0 55--62, 2016.
+\newblock ISSN 0147-7447.
+\newblock \doi{10.3928/01477447-20151228-06}.
+\newblock URL \url{{\textless}Go to ISI{\textgreater}://WOS:000377409200010}.
+
+\bibitem[Jacobs et~al.(2014)Jacobs, Christensen, and Karthikeyan]{Jacobs2014}
+Cale~A. Jacobs, Christian~P. Christensen, and Tharun Karthikeyan.
+\newblock {Patient and Intraoperative Factors Influencing Satisfaction Two to
+  Five Years After Primary Total Knee Arthroplasty}.
+\newblock \emph{Journal of Arthroplasty}, 29\penalty0 (8):\penalty0 1576--1579,
+  2014.
+\newblock ISSN 15328406.
+\newblock \doi{10.1016/j.arth.2014.03.022}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.arth.2014.01.008}.
+
+\bibitem[Bourne et~al.(2010)Bourne, Chesworth, Davis, Mahomed, and
+  Charron]{Bourne2010}
+Robert~B. Bourne, Bert~M. Chesworth, Aileen~M. Davis, Nizar~N. Mahomed, and
+  K.~D~J Charron.
+\newblock {Patient satisfaction after total knee arthroplasty: Who is satisfied
+  and who is not?}
+\newblock \emph{Clinical Orthopaedics and Related Research}, 468\penalty0
+  (1):\penalty0 57--63, 2010.
+\newblock ISSN 0009921X.
+\newblock \doi{10.1007/s11999-009-1119-9}.
+
+\bibitem[M{\o}ller(2001)]{Moeller2001}
+Finn~Bojsen M{\o}ller.
+\newblock \emph{{Bev{\ae}geapparatets anatomi}}.
+\newblock Gyldendal Akademisk, 12 edition, 2001.
+\newblock ISBN 9788762803077.
+
+\bibitem[ado()]{adobe}
+{Adobe Stock}.
+\newblock URL \url{https://stock.adobe.com/dk/}.
+
+\bibitem[Juhl et~al.(2014)Juhl, Christensen, Roos, Zhang, and
+  Lund]{Syssorenskou}
+C.~Juhl, R.~Christensen, E.~M. Roos, W.~Zhang, and H.~Lund.
+\newblock {Impact of exercise type and dose on pain and disability in knee
+  osteoarthritis: A systematic review and meta-regression analysis of
+  randomized controlled trials}.
+\newblock \emph{Arthritis and Rheumatology}, 66\penalty0 (3):\penalty0
+  622--636, 2014.
+\newblock ISSN 23265205.
+\newblock \doi{10.1002/art.38290}.
+
+\bibitem[Skou(2016)]{sorenskou}
+S{\o}ren~T. Skou.
+\newblock {Tr{\ae}ning som smertestillende medicin ved artrose er effektiv og
+  uden alvorlige bivirkninger}.
+\newblock \emph{ugeskrift for l{\ae}ger}, 178:\penalty0 1139, 2016.
+\newblock URL
+  \url{http://ugeskriftet.dk/videnskab/traening-som-smertestillende-medicin-ved-artrose-er-effektiv-og-uden-alvorlige
+  http://ugeskriftet.dk/files/V68364{\_}0.pdf}.
+
+\bibitem[Skou et~al.(2015)Skou, E.M., M.B., M.S., L., and O.]{newEngland}
+S{\o}ren~T. Skou, Roos E.M., Laursen M.B., Rathleff M.S., Arendt-Nielsen L.,
+  and Simonsen O.
+\newblock {A Randomized, Controlled Trial of Total Knee Replacement}.
+\newblock \emph{New England Journal of Medicine}, 373\penalty0 (17):\penalty0
+  1597--1606, 2015.
+\newblock ISSN 1533-4406.
+\newblock \doi{10.1056/NEJMoa1505467}.
+\newblock URL
+  \url{http://www.nejm.org/doi/pdf/10.1056/NEJMoa1505467$\backslash$nhttp://ovidsp.ovid.com/ovidweb.cgi?T=JS{\&}PAGE=reference{\&}D=emed13{\&}NEWS=N{\&}AN=2015469720$\backslash$nhttp://ovidsp.ovid.com/ovidweb.cgi?T=JS{\&}PAGE=reference{\&}D=emed13{\&}NEWS=N{\&}AN=26488691}.
+
+\bibitem[ROBODOC{\textregistered}()]{robodoc2016}
+ROBODOC{\textregistered}.
+\newblock {Prosthetic Implants}.
+\newblock URL \url{http://www.robodoc.com/patient{\_}about{\_}faqs.html}.
+
+\bibitem[Sanna et~al.(2013)Sanna, Sanna, Caputo, Piu, and Salvi]{Sanna2013}
+Marco Sanna, Cristina Sanna, Francesco Caputo, Giuseppe Piu, and Massimiliano
+  Salvi.
+\newblock {Surgical approaches in total knee arthroplasty.}
+\newblock \emph{Joints}, 1\penalty0 (2):\penalty0 34--44, 2013.
+\newblock ISSN 2282-4324.
+\newblock \doi{10.11138/jts/2013.1.2.034}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=4295696{\&}tool=pmcentrez{\&}rendertype=abstract}.
+
+\bibitem[Clinic()]{tka-technique}
+The~Stone Clinic.
+\newblock {Total knee replacement surgical technique}.
+\newblock URL \url{http://www.stoneclinic.com/tkrillustration}.
+
+\bibitem[Lewis et~al.(2015)Lewis, Rice, McNair, and Kluger]{Lewis2015}
+G.~N. Lewis, D.~A. Rice, P.~J. McNair, and M.~Kluger.
+\newblock {Predictors of persistent pain after total knee arthroplasty: A
+  systematic review and meta-analysis}.
+\newblock \emph{British Journal of Anaesthesia}, 114\penalty0 (4):\penalty0
+  551--561, 2015.
+\newblock ISSN 14716771.
+\newblock \doi{10.1093/bja/aeu441}.
+
+\bibitem[Carmon(1994)]{Carmon}
+Amiram Carmon.
+\newblock \emph{{Classification of chronic pain}}.
+\newblock 1994.
+\newblock ISBN 0931092051.
+
+\bibitem[{Martini FH, Nath JL}(2012)]{Martini}
+Bartholomwe~EF {Martini FH, Nath JL}.
+\newblock \emph{{Fundamental of Anatomy and Physiology}}.
+\newblock Pearson, 9th edition, 2012.
+\newblock ISBN 9780321709332.
+\newblock \doi{10.1017/CBO9781107415324.004}.
+
+\bibitem[Dahl et~al.(2013)Dahl, Arendt-Nielsen, and {Staehelin
+  Jensen}]{smerter}
+J{\o}rgen~B. Dahl, Lars Arendt-Nielsen, and Troels {Staehelin Jensen}.
+\newblock \emph{{Smerter (Baggrund, Evidens, Behandling)}}.
+\newblock 3 udgave edition, 2013.
+\newblock ISBN 9788777497032.
+
+\bibitem[Giangregorio et~al.(1997)Giangregorio, Papaioannou, Cranney, Zytaruk,
+  and Adachi]{Giangregorio1997}
+L.~Giangregorio, A.~Papaioannou, A.~Cranney, N.~Zytaruk, and J.~D. Adachi.
+\newblock {Fragility Fractures and the Osteoporosis Care Gap: An International
+  Phenomenon}.
+\newblock \emph{Seminars in Arthritis and Rheumatism}, 27\penalty0
+  (1):\penalty0 293--305, 1997.
+\newblock ISSN 00490172.
+\newblock \doi{10.1016/j.semarthrit.2005.11.001}.
+
+\bibitem[Petersen et~al.(2016)Petersen, Graven-Nielsen, Simonsen, Laursen, and
+  Arendt-Nielsen]{Petersen2016}
+Kristian~Kj{\ae}r Petersen, Thomas Graven-Nielsen, Ole Simonsen, Mogens~Berg
+  Laursen, and Lars Arendt-Nielsen.
+\newblock {Preoperative pain mechanisms assessed by cuff algometry are
+  associated with chronic postoperative pain relief after total knee
+  replacement}.
+\newblock \emph{Pain}, 157\penalty0 (7):\penalty0 1400--1406, 2016.
+\newblock ISSN 0304-3959.
+\newblock \doi{10.1097/j.pain.0000000000000531}.
+\newblock URL
+  \url{http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage{\&}an=00006396-900000000-99581}.
+
+\bibitem[Thakur et~al.(2014)Thakur, Dickenson, and Baron]{nature}
+Matthew Thakur, Anthony~H Dickenson, and Ralf Baron.
+\newblock {Osteoarthritis pain: nociceptive or neuropathic?}
+\newblock \emph{Nature reviews. Rheumatology}, 10\penalty0 (6):\penalty0
+  374--80, 2014.
+\newblock ISSN 1759-4804.
+\newblock \doi{10.1038/nrrheum.2014.47}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/24686507}.
+
+\bibitem[Arendt-Nielsen et~al.(2010)Arendt-Nielsen, Nie, Laursen, Laursen,
+  Madeleine, Simonsen, and Graven-Nielsen]{Arendt-Nielsen2010}
+Lars Arendt-Nielsen, Hongling Nie, Mogens~B. Laursen, Birgitte~S. Laursen,
+  Pascal Madeleine, Ole~H. Simonsen, and Thomas Graven-Nielsen.
+\newblock {Sensitization in patients with painful knee osteoarthritis}.
+\newblock \emph{Pain}, 149\penalty0 (3):\penalty0 573--581, 2010.
+\newblock ISSN 03043959.
+\newblock \doi{10.1016/j.pain.2010.04.003}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.pain.2010.04.003}.
+
+\bibitem[Graven-Nielsen et~al.(2012)Graven-Nielsen, Wodehouse, Langford,
+  Arendt-Nielsen, and Kidd]{graven2012}
+T.~Graven-Nielsen, T.~Wodehouse, R.~M. Langford, L.~Arendt-Nielsen, and B.~L.
+  Kidd.
+\newblock {Normalization of widespread hyperesthesia and facilitated spatial
+  summation of deep-tissue pain in knee osteoarthritis patients after knee
+  replacement}.
+\newblock \emph{Arthritis and Rheumatism}, 64\penalty0 (9):\penalty0
+  2907--2916, 2012.
+\newblock ISSN 00043591.
+\newblock \doi{10.1002/art.34466}.
+
+\bibitem[{Gonzalez S{\'{a}}enz de Tejada} et~al.(2010){Gonzalez S{\'{a}}enz de
+  Tejada}, Escobar, Herrera, Garc{\'{i}}a, Aizpuru, and Saraqueta]{tejada2010}
+Marta {Gonzalez S{\'{a}}enz de Tejada}, Antonio Escobar, Carmen Herrera, Lidia
+  Garc{\'{i}}a, Felipe Aizpuru, and Cristina Saraqueta.
+\newblock {Patient expectations and health-related quality of life.}
+\newblock \emph{Value in Health}, 13\penalty0 (4):\penalty0 447--454, 2010.
+\newblock ISSN 1369-7625.
+\newblock \doi{10.1111/j.1524-4733.2009.00685.x}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20088892}.
+
+\bibitem[Skou et~al.(2016)Skou, Roos, Laursen, Rathleff, Arendt-Nielsen,
+  Simonsen, and Rasmussen]{skou2016}
+S{\o}ren~T. Skou, Ewa~M. Roos, Mogens~B. Laursen, Michael~S. Rathleff, Lars
+  Arendt-Nielsen, Ole Simonsen, and Sten Rasmussen.
+\newblock {Criteria used when deciding on eligibility for total knee
+  arthroplasty - Between thinking and doing}.
+\newblock \emph{Knee}, 23\penalty0 (2):\penalty0 300--305, 2016.
+\newblock ISSN 18735800.
+\newblock \doi{10.1016/j.knee.2015.08.012}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.knee.2015.08.012}.
+
+\bibitem[Borkhoff et~al.(2008)Borkhoff, Hawker, Kreder, Glazier, Mahomed, and
+  Wright]{borkhoff2008}
+Cornelia~M. Borkhoff, Gillian~A. Hawker, Hans~J. Kreder, Richard~H. Glazier,
+  Nizar~N. Mahomed, and James~G. Wright.
+\newblock {The effect of patients' sex on physicians' recommendations for total
+  knee arthroplasty}.
+\newblock \emph{Cmaj}, 178\penalty0 (6):\penalty0 681--687, 2008.
+\newblock ISSN 08203946.
+\newblock \doi{10.1503/cmaj.071168}.
+
+\bibitem[Wright et~al.(1995)Wright, Coyte, Hawker, Bombardier, Cooke, Heck,
+  Dittus, and Freund]{wright1995}
+J.~G. Wright, P.~Coyte, G.~Hawker, C.~Bombardier, D.~Cooke, D.~Heck, R.~Dittus,
+  and D.~Freund.
+\newblock {Variation in orthopedic surgeons' perceptions of the indications for
+  and outcomes of knee replacement}.
+\newblock \emph{Cmaj}, 152\penalty0 (5):\penalty0 687--697, 1995.
+\newblock ISSN 08203946.
+
+\bibitem[Dy et~al.(2014)Dy, Lyman, Boutin-Foster, Felix, Kang, and
+  Parks]{dy2014}
+Christopher~J. Dy, Stephen Lyman, Carla Boutin-Foster, Karla Felix, Yoon Kang,
+  and Michael~L. Parks.
+\newblock {Do Patient Race and Sex Change Surgeon Recommendations for TKA?}
+\newblock \emph{Clinical Orthopaedics and Related Research}, 473\penalty0
+  (2):\penalty0 410--417, 2014.
+\newblock ISSN 15281132.
+\newblock \doi{10.1007/s11999-014-4003-1}.
+
+\bibitem[Walz(2009)]{Wals2009}
+Wolfgang Walz.
+\newblock \emph{{fMRI techniques and protocols, Chapter 1}}.
+\newblock 2009.
+\newblock ISBN 9781603279185.
+
+\bibitem[Glover(2014)]{Glover2014}
+Laice Glover.
+\newblock {Why Does an MRI Cost So Darn Much?}, 2014.
+\newblock URL \url{http://time.com/money/2995166/why-does-mri-cost-so-much/}.
+
+\bibitem[Parks et~al.(2012)Parks, Geha, Baliki, Katz, Schnitzer, and
+  Apkarian]{Parks2012}
+Elle~L Parks, Paul~Y Geha, Marwan~N Baliki, Jeffrey Katz, Thomas~J Schnitzer,
+  and A~Vania Apkarian.
+\newblock {NIH Public Access}.
+\newblock 15\penalty0 (8):\penalty0 1--18, 2012.
+\newblock \doi{10.1016/j.ejpain.2010.12.007.Brain}.
+
+\bibitem[Hiramatsu et~al.(2014)Hiramatsu, Nakanishi, Yoshimura, Yoshino,
+  Adachi, Okamoto, Yamawaki, and Ochi]{Hiramatsu2014}
+Takeshi Hiramatsu, Kazuyoshi Nakanishi, Shinpei Yoshimura, Atsuo Yoshino, Nobuo
+  Adachi, Yasumasa Okamoto, Shigeto Yamawaki, and Mitsuo Ochi.
+\newblock {The dorsolateral prefrontal network is involved in pain perception
+  in knee osteoarthritis patients}.
+\newblock \emph{Neuroscience Letters}, 581:\penalty0 109--114, 2014.
+\newblock ISSN 18727972.
+\newblock \doi{10.1016/j.neulet.2014.08.027}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.neulet.2014.08.027}.
+
+\bibitem[Bennett et~al.(2011)Bennett, Baird, Miller, and Wolford]{Bennet2011}
+Craig~M Bennett, Abigail~A Baird, Michael~B Miller, and George~L Wolford.
+\newblock {Neural Correlates of Interspecies Perspective Taking in the
+  Post-Mortem Atlantic Salmon: An Argument For Proper Multiple Comparisons
+  Correction}.
+\newblock \emph{Journal of Serendipitous and Unexpected Results}, 1\penalty0
+  (1):\penalty0 1--5, 2011.
+\newblock ISSN 1757-790X.
+\newblock \doi{10.1136/bcr.07.2008.0593}.
+\newblock URL \url{http://www.jsur.org/v1n1p1}.
 
 \bibitem[Yarnitsky and Granot(2006)]{Yarnitsky2006}
 David Yarnitsky and Michal Granot.
@@ -34,12 +339,97 @@ David Yarnitsky and Michal Granot.
 \newblock URL
   \url{http://www.ncbi.nlm.nih.gov/pubmed/18808849$\backslash$nhttp://linkinghub.elsevier.com/retrieve/pii/S007297520680031X}.
 
-\bibitem[Dahl et~al.(2013)Dahl, Arendt-Nielsen, and {Staehelin
-  Jensen}]{smerter}
-J{\o}rgen~B. Dahl, Lars Arendt-Nielsen, and Troels {Staehelin Jensen}.
-\newblock \emph{{Smerter (Baggrund, Evidens, Behandling)}}.
-\newblock 3 udgave edition, 2013.
-\newblock ISBN 9788777497032.
+\bibitem[NociTech(2016)]{NociTech2016}
+NociTech.
+\newblock {Cuff Pressure Algometry}, 2016.
+\newblock URL \url{http://nocitech.com/technology.html}.
+
+\bibitem[Rolke et~al.(2006{\natexlab{a}})Rolke, Baron, Maier, T{\"{o}}lle,
+  Treede, Beyer, Binder, Birbaumer, Birklein, B{\"{o}}tef{\"{u}}r, Braune,
+  Flor, Huge, Klug, Landwehrmeyer, Magerl, Maih{\"{o}}fner, Rolko, Schaub,
+  Scherens, Sprenger, Valet, and Wasserka]{Rolke2006}
+R.~Rolke, R.~Baron, C.~Maier, T.~R. T{\"{o}}lle, R.~D. Treede, A.~Beyer,
+  A.~Binder, N.~Birbaumer, F.~Birklein, I.~C. B{\"{o}}tef{\"{u}}r, S.~Braune,
+  H.~Flor, V.~Huge, R.~Klug, G.~B. Landwehrmeyer, W.~Magerl,
+  C.~Maih{\"{o}}fner, C.~Rolko, C.~Schaub, A.~Scherens, T.~Sprenger, M.~Valet,
+  and B.~Wasserka.
+\newblock {Quantitative sensory testing in the German Research Network on
+  Neuropathic Pain (DFNS): Standardized protocol and reference values}.
+\newblock \emph{Pain}, 123\penalty0 (3):\penalty0 231--243, 2006{\natexlab{a}}.
+\newblock ISSN 03043959.
+\newblock \doi{10.1016/j.pain.2006.01.041}.
+
+\bibitem[Suokas et~al.(2012)Suokas, Walsh, McWilliams, Condon, Moreton, Wylde,
+  Arendt-Nielsen, and Zhang]{Suokas2012}
+A.~K. Suokas, D.~A. Walsh, D.~F. McWilliams, L.~Condon, B.~Moreton, V.~Wylde,
+  L.~Arendt-Nielsen, and W.~Zhang.
+\newblock {Quantitative sensory testing in painful osteoarthritis: A systematic
+  review and meta-analysis}.
+\newblock \emph{Osteoarthritis and Cartilage}, 20\penalty0 (10):\penalty0
+  1075--1085, 2012.
+\newblock ISSN 10634584.
+\newblock \doi{10.1016/j.joca.2012.06.009}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.joca.2012.06.009}.
+
+\bibitem[Martinez et~al.(2007)Martinez, Fletcher, Bouhassira, Sessler, and
+  Chauvin]{Martinez2007}
+Val{\'{e}}ria Martinez, Dominique Fletcher, Didier Bouhassira, Daniel~I.
+  Sessler, and Marcel Chauvin.
+\newblock {The evolution of primary hyperalgesia in orthopedic surgery:
+  Quantitative sensory testing and clinical evaluation before and after total
+  knee arthroplasty}.
+\newblock \emph{Anesthesia and Analgesia}, 105\penalty0 (3):\penalty0 815--821,
+  2007.
+\newblock ISSN 00032999.
+\newblock \doi{10.1213/01.ane.0000278091.29062.63}.
+
+\bibitem[Arendt-Nielsen et~al.(2015{\natexlab{a}})Arendt-Nielsen, Egsgaard,
+  Petersen, Eskehave, {Graven- Nielsen}, Hoeck, and
+  Simonsen]{Arendt-Nielsen2015}
+L.~Arendt-Nielsen, L.~L. Egsgaard, K.~K. Petersen, T.~N. Eskehave, T.~{Graven-
+  Nielsen}, H.~C. Hoeck, and O.~Simonsen.
+\newblock {A mechanism-based pain sensitivity index to characterize knee
+  osteoarthritis patients with different disease stages and pain levels}.
+\newblock \emph{European Journal of Pain (United Kingdom)}, 19\penalty0
+  (10):\penalty0 1406--1417, 2015{\natexlab{a}}.
+\newblock ISSN 15322149.
+\newblock \doi{10.1002/ejp.651}.
+
+\bibitem[Biosemi(2016)]{Biosemi2016}
+Biosemi.
+\newblock {How much does a BioSemi biopotential measurement system cost?},
+  2016.
+\newblock URL \url{http://www.biosemi.com/faq/prices.htm}.
+
+\bibitem[Robinson and Snyder-Mackler(2008)]{Robinson2008}
+Andrew~J. Robinson and Lynn Snyder-Mackler.
+\newblock \emph{{Clinical Electrophysiology}}.
+\newblock 2008.
+
+\bibitem[Brown et~al.(2013)Brown, El-Deredy, and Jones]{Brown2013}
+Christopher~A. Brown, Wael El-Deredy, and Anthony K.~P. Jones.
+\newblock {When the brain expects pain: common neural responses to pain
+  anticipation are related to clinical pain and distress in fibromyalgia and
+  osteoarthritis}.
+\newblock \emph{European Journal of Neuroscience}, 2013.
+
+\bibitem[Gigtforeningen(2016)]{Gigtforeningen2016}
+Gigtforeningen.
+\newblock {Fibromyalgi – {\aa}rsager, symptomer og behandling}, 2016.
+\newblock URL
+  \url{https://www.gigtforeningen.dk/viden-om-gigt/diagnoser/fibromyalgi/}.
+
+\bibitem[Ja et~al.(2016)Ja, Union, and Programme]{HTAcore}
+The~Eunethta Ja, European Union, and Health Programme.
+\newblock {EUnetHTA Joint Action 2, Work Package 8. HTA Core Model
+  {\textregistered} version 3.0 (Pdf)}.
+\newblock 3.0:\penalty0 410, 2016.
+
+\bibitem[Yarnitsky(1997)]{Yarnitsky1997}
+David Yarnitsky.
+\newblock {Quantitative Sensory Testing}.
+\newblock \emph{MUSCLE {\&} NERVE}, 20\penalty0 (2):\penalty0 198--204, 1997.
+\newblock \doi{10.1002/(SICI)1097-4598(199702)20:2<198::AID-MUS10>3.0.CO;2-#}.
 
 \bibitem[M{\"{u}}cke et~al.(2016)M{\"{u}}cke, Cuhls, Radbruch, Baron, Maier,
   T{\"{o}}lle, Treede, and Rolke]{Mucke2016}
@@ -49,16 +439,6 @@ M.~M{\"{u}}cke, H.~Cuhls, L.~Radbruch, R.~Baron, C.~Maier, T.~T{\"{o}}lle,
 \newblock \emph{Schmerz}, pages 1--8, 2016.
 \newblock ISSN 14322129.
 \newblock \doi{10.1007/s00482-015-0093-2}.
-
-\bibitem[Zaslansky and Yarnitsky(1998)]{Zaslansky1998}
-R~Zaslansky and D~Yarnitsky.
-\newblock {Clinical applications of quantitative sensory testing (QST)}.
-\newblock \emph{Journal of Neurological Sciences}, 153\penalty0 (2):\penalty0
-  215--238, 1998.
-\newblock ISSN 0022-510X.
-\newblock \doi{S0022-510X(97)00293-1 [pii]}.
-\newblock URL
-  \url{http://ac.els-cdn.com/S0022510X97002931/1-s2.0-S0022510X97002931-main.pdf?{\_}tid=fce4f862-65e3-11e6-9300-00000aab0f6c{\&}acdnat=1471594235{\_}488877b84eac51e4ebbe77e513215590}.
 
 \bibitem[Arendt-Nielsen and Yarnitsky(2009)]{Arendt-Nielsen2009}
 Lars Arendt-Nielsen and David Yarnitsky.
@@ -101,52 +481,26 @@ H~N Mj{\"{o}}bo, A. Rudin, P~R Nielsen, and M~U Werner.
 \newblock URL
   \url{http://www.embase.com/search/results?subaction=viewrecord{\&}from=export{\&}id=L70207406$\backslash$nhttp://dx.doi.org/10.1111/j.1533-2500.2009.00267.x$\backslash$nhttp://sfx.library.uu.nl/utrecht?sid=EMBASE{\&}issn=15307085{\&}id=doi:10.1111/j.1533-2500.2009.00267.x{\&}atitle=Postoperative+}.
 
-\bibitem[Suokas et~al.(2012)Suokas, Walsh, McWilliams, Condon, Moreton, Wylde,
-  Arendt-Nielsen, and Zhang]{Suokas2012}
-A.~K. Suokas, D.~A. Walsh, D.~F. McWilliams, L.~Condon, B.~Moreton, V.~Wylde,
-  L.~Arendt-Nielsen, and W.~Zhang.
-\newblock {Quantitative sensory testing in painful osteoarthritis: A systematic
-  review and meta-analysis}.
-\newblock \emph{Osteoarthritis and Cartilage}, 20\penalty0 (10):\penalty0
-  1075--1085, 2012.
-\newblock ISSN 10634584.
-\newblock \doi{10.1016/j.joca.2012.06.009}.
-\newblock URL \url{http://dx.doi.org/10.1016/j.joca.2012.06.009}.
-
-\bibitem[Arendt-Nielsen et~al.(2015)Arendt-Nielsen, Skou, Nielsen, and
-  Petersen]{Arendt-Nielsen2015b}
+\bibitem[Arendt-Nielsen et~al.(2015{\natexlab{b}})Arendt-Nielsen, Skou,
+  Nielsen, and Petersen]{Arendt-Nielsen2015b}
 Lars Arendt-Nielsen, S{\o}ren~T. Skou, Thomas~A. Nielsen, and Kristian~K.
   Petersen.
 \newblock {Altered Central Sensitization and Pain Modulation in the CNS in
   Chronic Joint Pain}.
 \newblock \emph{Current Osteoporosis Reports}, 13\penalty0 (4):\penalty0
-  225--234, 2015.
+  225--234, 2015{\natexlab{b}}.
 \newblock ISSN 15442241.
 \newblock \doi{10.1007/s11914-015-0276-x}.
 
-\bibitem[Petersen et~al.(2015)Petersen, Arendt-Nielsen, Simonsen, Wilder-Smith,
-  and Laursen]{Petersen2015}
-Kristian~Kj{\ae}r Petersen, Lars Arendt-Nielsen, Ole Simonsen, Oliver
-  Wilder-Smith, and Mogens~Berg Laursen.
-\newblock {Presurgical assessment of temporal summation of pain predicts the
-  development of chronic postoperative pain 12 months after total knee
-  replacement}.
-\newblock \emph{Pain}, 156\penalty0 (1):\penalty0 55--61, 2015.
-\newblock ISSN 18726623.
-\newblock \doi{10.1016/j.pain.0000000000000022}.
-
-\bibitem[Petersen et~al.(2016)Petersen, Graven-Nielsen, Simonsen, Laursen, and
-  Arendt-Nielsen]{Petersen2016}
-Kristian~Kj{\ae}r Petersen, Thomas Graven-Nielsen, Ole Simonsen, Mogens~Berg
-  Laursen, and Lars Arendt-Nielsen.
-\newblock {Preoperative pain mechanisms assessed by cuff algometry are
-  associated with chronic postoperative pain relief after total knee
-  replacement}.
-\newblock \emph{Pain}, 157\penalty0 (7):\penalty0 1400--1406, 2016.
-\newblock ISSN 0304-3959.
-\newblock \doi{10.1097/j.pain.0000000000000531}.
-\newblock URL
-  \url{http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage{\&}an=00006396-900000000-99581}.
+\bibitem[Graven-Nielsen and Arendt-Nielsen(2010)]{Graven-Nielsen2010}
+Thomas Graven-Nielsen and Lars Arendt-Nielsen.
+\newblock {Assessment of mechanisms in localized and widespread musculoskeletal
+  pain.}
+\newblock \emph{Nature reviews. Rheumatology}, 6\penalty0 (10):\penalty0
+  599--606, 2010.
+\newblock ISSN 1759-4790.
+\newblock \doi{10.1038/nrrheum.2010.107}.
+\newblock URL \url{http://dx.doi.org/10.1038/nrrheum.2010.107}.
 
 \bibitem[Wylde et~al.(2015)Wylde, Sayers, Lenguerrand, Gooberman-Hill, Pyke,
   Beswick, Dieppe, and Blom]{Wylde2015b}
@@ -170,6 +524,14 @@ V.~Wylde, A.~Sayers, A.~Odutola, R.~Gooberman-Hill, P.~Dieppe, and A.W. Blom.
 \newblock \doi{10.1002/ejp.929}.
 \newblock URL \url{http://doi.wiley.com/10.1002/ejp.929}.
 
+\bibitem[Reynolds et~al.(2016)Reynolds, Dmochowski, Wein, and
+  Bruehl]{Reynolds2016}
+W.~Stuart Reynolds, Roger Dmochowski, Alan Wein, and Stephen Bruehl.
+\newblock {Does central sensitization help explain idiopathic overactive
+  bladder?}
+\newblock \emph{Nature reviews Urology}, 13\penalty0 (8), 2016.
+\newblock \doi{10.1038/nrurol.2016.95}.
+
 \bibitem[Porta(2008)]{Porta2008}
 Miquel Porta.
 \newblock \emph{{A Dictionary of Epidemiology}}.
@@ -192,17 +554,6 @@ Anders Troelsen, Henrik Schr{\o}der, and Henrik Husted.
 \newblock \emph{Danish Medical Journal}, 59\penalty0 (8), 2012.
 \newblock ISSN 22451919.
 \newblock \doi{A4490 [pii]}.
-
-\bibitem[Skou et~al.(2016)Skou, Roos, Laursen, Rathleff, Arendt-Nielsen,
-  Simonsen, and Rasmussen]{skou2016}
-S{\o}ren~T. Skou, Ewa~M. Roos, Mogens~B. Laursen, Michael~S. Rathleff, Lars
-  Arendt-Nielsen, Ole Simonsen, and Sten Rasmussen.
-\newblock {Criteria used when deciding on eligibility for total knee
-  arthroplasty - Between thinking and doing}.
-\newblock \emph{Knee}, 23\penalty0 (2):\penalty0 300--305, 2016.
-\newblock ISSN 18735800.
-\newblock \doi{10.1016/j.knee.2015.08.012}.
-\newblock URL \url{http://dx.doi.org/10.1016/j.knee.2015.08.012}.
 
 \bibitem[Leary et~al.(2016)Leary, Smart, Moloney, and Doody]{Leary2016}
 Helen~O Leary, Keith~M Smart, Niamh~A Moloney, and Catherine~M Doody.
@@ -269,36 +620,68 @@ J~E Sanders, B~S Goldstein, and D~F Leotta.
   32\penalty0 (3):\penalty0 214--226, 1995.
 \newblock ISSN 0748-7711.
 
-\bibitem[Graven-Nielsen et~al.(2016)Graven-Nielsen, Izumi, Petersen, and
-  Arendt-Nielsen]{denheltnye2016}
-T.~Graven-Nielsen, M.~Izumi, K.~K. Petersen, and L.~Arendt-Nielsen.
-\newblock {European Journal of Pain USER-INDEPENDENT ASSESSMENT OF CONDITIONING
-  PAIN MODULATION BY}.
-\newblock \emph{EJP}, pages 1--10, 2016.
-\newblock ISSN 10903801.
-\newblock \doi{10.1002/ejp.958}.
-
-\bibitem[Rolke et~al.(2006)Rolke, Magerl, Campbell, Schalber, Caspari,
-  Birklein, and Treede]{Rolke2006b}
+\bibitem[Rolke et~al.(2006{\natexlab{b}})Rolke, Magerl, Campbell, Schalber,
+  Caspari, Birklein, and Treede]{Rolke2006b}
 R.~Rolke, W.~Magerl, K.~Andrews Campbell, C.~Schalber, S.~Caspari, F.~Birklein,
   and R.~D. Treede.
 \newblock {Quantitative sensory testing: A comprehensive protocol for clinical
   trials}.
 \newblock \emph{European Journal of Pain}, 10\penalty0 (1):\penalty0 77--88,
-  2006.
+  2006{\natexlab{b}}.
 \newblock ISSN 10903801.
 \newblock \doi{10.1016/j.ejpain.2005.02.003}.
 
-\bibitem[Shy et~al.(2003)Shy, Frohman, So, Arezzo, Cornblath, Giuliani,
-  Kincaid, Ochoa, Parry, and Weimer]{shy2003}
-M~E Shy, E~M Frohman, Y~T So, J~C Arezzo, D~R Cornblath, M~J Giuliani, J~C
-  Kincaid, J~L Ochoa, G~J Parry, and L~H Weimer.
-\newblock {Quantitative sensory testing: report of the Therapeutics and
-  Technology Assessment Subcommittee of the American Academy of Neurology}.
-\newblock \emph{Neurology}, 60\penalty0 (6):\penalty0 898--904, 2003.
-\newblock ISSN 1526-632X.
-\newblock \doi{10.1212/01.WNL.0000058546.16985.11}.
-\newblock URL \url{http://www.neurology.org/content/60/6/898.full.pdf}.
+\bibitem[Graven-Nielsen et~al.(2016)Graven-Nielsen, Izumi, Petersen, and
+  Arendt-Nielsen]{denheltnye2016}
+T.~Graven-Nielsen, M.~Izumi, K.~K. Petersen, and L.~Arendt-Nielsen.
+\newblock {User-Independent Assessment of Conditioned Pain Modulation by Cuff
+  Pressure Algometry}.
+\newblock \emph{EJP}, pages 1--10, 2016.
+\newblock ISSN 10903801.
+\newblock \doi{10.1002/ejp.958}.
+
+\bibitem[Zar(2010)]{Zar2010}
+Jerrold~H. Zar.
+\newblock \emph{{Biostatistical Analysis}}.
+\newblock Pearson Prentice Hall, fifth edit edition, 2010.
+\newblock ISBN 978-0-13-100846-5.
+
+\bibitem[Wright et~al.(2015)Wright, Moss, Sloan, Beaver, Pedersen, Vehof,
+  Borge, Maestroni, and Cheong]{Wright2015}
+Anthony Wright, Penny Moss, Karen Sloan, Richard~J. Beaver, Jarle~B. Pedersen,
+  Gerard Vehof, Henrik Borge, Luca Maestroni, and Philip Cheong.
+\newblock {Abnormal Quantitative Sensory Testing is Associated With Persistent
+  Pain One Year After TKA}.
+\newblock \emph{Clinical Orthopaedics and Related Research}, 473\penalty0
+  (1):\penalty0 246--254, 2015.
+\newblock ISSN 15281132.
+\newblock \doi{10.1007/s11999-014-3990-2}.
+
+\bibitem[Mukaka(2012)]{Mukaka2012}
+M.~M. Mukaka.
+\newblock {Statistics corner: A guide to appropriate use of correlation
+  coefficient in medical research}.
+\newblock \emph{Malawi Medical Journal}, 24\penalty0 (3):\penalty0 69--71,
+  2012.
+\newblock ISSN 19957262.
+\newblock \doi{10.1016/j.cmpb.2016.01.020}.
+
+\bibitem[Lalkhen and McCluskey(2008)]{Lalkhen2008}
+Abdul~Ghaaliq Lalkhen and Anthony McCluskey.
+\newblock {Clinical tests: Sensitivity and specificity}.
+\newblock \emph{Continuing Education in Anaesthesia, Critical Care and Pain},
+  8\penalty0 (6):\penalty0 221--223, 2008.
+\newblock ISSN 17431816.
+\newblock \doi{10.1093/bjaceaccp/mkn041}.
+
+\bibitem[Vaegter and Graven-Nielsen(2016)]{Vaegter2016}
+H~B Vaegter and T~Graven-Nielsen.
+\newblock {Pain modulatory phenotypes differentiate subgroups with different
+  clinical and experimental pain sensitivity}.
+\newblock \emph{Pain}, 157:\penalty0 1480--1488, 2016.
+\newblock ISSN 0304-3959.
+\newblock \doi{10.1097/j.pain.0000000000000543}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/26963852}.
 
 \bibitem[Graven-Nielsen et~al.(2015)Graven-Nielsen, Vaegter, Finocchietti,
   Handberg, and Arendt-Nielsen]{Nielsen2015}
@@ -310,30 +693,53 @@ Thomas Graven-Nielsen, Henrik~Bjarke Vaegter, Sara Finocchietti, Gitte
 \newblock ISSN 1872-6623 (Electronic).
 \newblock \doi{10.1097/j.pain.0000000000000294}.
 
-\bibitem[Odgaard and Hospital(2016)]{aarsrapport2016}
-Anders Odgaard and Gentofte Hospital.
-\newblock {Dansk Kn{\ae}alloplastikregister, {\AA}rsrapport 2016}.
-\newblock 2016.
+\bibitem[Kennedy et~al.(2016)Kennedy, Kemp, Ridout, Yarnitsky, and
+  Rice]{Kennedy2016}
+Donna~L. Kennedy, Harriet~I. Kemp, Deborah Ridout, David Yarnitsky, and
+  Andrew~SC Rice.
+\newblock {Reliability of Conditioned Pain Modulation}.
+\newblock \emph{Pain}, 157:\penalty0 1, 2016.
+\newblock ISSN 0304-3959.
+\newblock \doi{10.1097/j.pain.0000000000000689}.
+\newblock URL
+  \url{http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage{\&}an=00006396-900000000-99437}.
+
+\bibitem[Imai et~al.(2016)Imai, Petersen, M{\o}rch, and {Arendt
+  Nielsen}]{Imai2016}
+Y.~Imai, K.~K. Petersen, C.~D. M{\o}rch, and L.~{Arendt Nielsen}.
+\newblock {Comparing test–retest reliability and magnitude of conditioned
+  pain modulation using different combinations of test and conditioning
+  stimuli}.
+\newblock \emph{Somatosensory {\&} Motor Research}, 0\penalty0 (0):\penalty0
+  1--9, 2016.
+\newblock ISSN 0899-0220.
+\newblock \doi{10.1080/08990220.2016.1229178}.
+\newblock URL
+  \url{https://www.tandfonline.com/doi/full/10.1080/08990220.2016.1229178}.
 
 \bibitem[DST()]{DST1}
 {DST.dk}.
 \newblock URL
   \url{http://www.statistikbanken.dk/statbank5a/SelectVarVal/saveselections.asp}.
 
+\bibitem[Medoc(2016)]{AlgomedOnline}
+Medoc.
+\newblock {AlgoMed - Computerized Pressure Algometer}, 2016.
+\newblock URL \url{http://medoc-web.com/products/algomed/}.
+
+\bibitem[Medoc()]{AlgomedData}
+Medoc.
+\newblock {AlgoMed Brochure}.
+
+\bibitem[Afdeling~for sundhedsdokumentation()]{Takst2016}
+Sundhedstyrrelsen Afdeling~for sundhedsdokumentation.
+\newblock {Takstsystem Vejledning}.
+\newblock 18.12.2016.
+
 \bibitem[{Region Nordjylland}(2016)]{RnBudget17}
 {Region Nordjylland}.
 \newblock {Budgetaftale 2017 -}.
 \newblock 2016.
-
-\bibitem[Turk(2002)]{Turk2002}
-D~C Turk.
-\newblock {Clinical effectiveness and cost-effectiveness of treatments for
-  patients with chronic pain}.
-\newblock \emph{Clin J Pain}, 18\penalty0 (6):\penalty0 355--365, 2002.
-\newblock ISSN 0749-8047 (Print) 0749-8047 (Linking).
-\newblock \doi{10.1097/00002508-200211000-00003}.
-\newblock URL
-  \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=12441829}.
 
 \bibitem[Eriksen et~al.(2006)Eriksen, Sj{\o}gren, Bruera, Ekholm, and
   Rasmussen]{Eriksen2006}
@@ -344,22 +750,5 @@ J{\o}rgen Eriksen, Per Sj{\o}gren, Eduardo Bruera, Ola Ekholm, and Niels~K.
 \newblock \emph{Pain}, 125\penalty0 (1-2):\penalty0 172--179, 2006.
 \newblock ISSN 03043959.
 \newblock \doi{10.1016/j.pain.2006.06.009}.
-
-\bibitem[Phillips(2009)]{Phillips2009}
-Ceri~J Phillips.
-\newblock {The Cost and Burden of Chronic Pain.}
-\newblock \emph{Reviews in pain}, 3\penalty0 (1):\penalty0 2--5, 2009.
-\newblock ISSN 2049-4637.
-\newblock \doi{10.1177/204946370900300102}.
-\newblock URL
-  \url{http://www.ncbi.nlm.nih.gov/pubmed/26526940$\backslash$nhttp://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4590036}.
-
-\bibitem[Holmberg et~al.(2015)Holmberg, Poulsen, and Davidsen]{Holmberg2015}
-Teresa Holmberg, Mikala~Josefine Poulsen, and Michael Davidsen.
-\newblock \emph{{Muskel- og skeletlidelser i Danmark. N{\o}gletal 2015}}.
-\newblock 2015.
-\newblock ISBN 9788778993038.
-\newblock URL
-  \url{http://www.si-folkesundhed.dk/upload/rapport{\_}n{\oe}gletal{\_}gigtforeningen{\_}november.pdf}.
 
 \end{thebibliography}
