@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2014)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: unsrtnat.bst
@@ -9,45 +9,52 @@ Repeated entry---line 1859 of file kilder.bib
 I'm skipping whatever remains of this entry
 Warning--empty journal in HTAcore
 Warning--can't use both author and editor fields in metodehaandbogen
-You've used 6 entries,
+Warning--can't use both author and editor fields in Yarnitsky2006
+Warning--empty publisher in smerter
+Warning--can't use both author and editor fields in martini
+Warning--can't use both author and editor fields in Porta2008
+Warning--there's a number but no volume in Leary2016
+Warning--empty journal in Gronmo2012
+Warning--there's a number but no volume in Gronmo2012
+You've used 29 entries,
             2481 wiz_defined-function locations,
-            585 strings with 5541 characters,
-and the built_in function-call counts, 1657 in all, are:
-= -- 137
-> -- 49
-< -- 4
-+ -- 26
-- -- 14
-* -- 91
-:= -- 254
-add.period$ -- 18
-call.type$ -- 6
-change.case$ -- 11
-chr.to.int$ -- 6
-cite$ -- 9
-duplicate$ -- 94
-empty$ -- 186
-format.name$ -- 19
-if$ -- 359
+            796 strings with 12632 characters,
+and the built_in function-call counts, 11976 in all, are:
+= -- 1010
+> -- 722
+< -- 14
++ -- 276
+- -- 218
+* -- 1041
+:= -- 2012
+add.period$ -- 136
+call.type$ -- 29
+change.case$ -- 57
+chr.to.int$ -- 29
+cite$ -- 39
+duplicate$ -- 537
+empty$ -- 986
+format.name$ -- 252
+if$ -- 2478
 int.to.chr$ -- 1
-int.to.str$ -- 7
-missing$ -- 3
-newline$ -- 38
-num.names$ -- 15
-pop$ -- 70
+int.to.str$ -- 30
+missing$ -- 30
+newline$ -- 202
+num.names$ -- 84
+pop$ -- 203
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 29
 quote$ -- 0
-skip$ -- 67
+skip$ -- 316
 stack$ -- 0
-substring$ -- 22
-swap$ -- 12
-text.length$ -- 0
+substring$ -- 409
+swap$ -- 71
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 39
-warning$ -- 2
-while$ -- 11
+type$ -- 188
+warning$ -- 9
+while$ -- 88
 width$ -- 0
-write$ -- 80
+write$ -- 476
 (There was 1 error message)
