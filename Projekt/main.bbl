@@ -1,4 +1,4 @@
-\begin{thebibliography}{89}
+\begin{thebibliography}{95}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -759,5 +759,43 @@ Medoc.
 {Somedic Senselab}.
 \newblock {Somedic Senselab - Algometer}, 2016.
 \newblock URL \url{http://www.somedic.com/}.
+
+\bibitem[PJ et~al.(1998)PJ, WR, H, M, J, M, JC, GA, and PC]{Dyck1998}
+Dyck PJ, Kennedy WR, Kesserwani H, Melanson M, Ochoa J, Shy M, Stevens JC,
+  Suarez GA, and O'Brien PC.
+\newblock {Limitations of quantitative sensory testing when patients are biased
+  toward a bad outcome}.
+\newblock \emph{Neurology}, 50\penalty0 (5), 1998.
+\newblock \doi{10.1212/WNL.50.5.1213}.
+
+\bibitem[DST()]{DST1}
+{DST.dk}.
+\newblock URL
+  \url{http://www.statistikbanken.dk/statbank5a/SelectVarVal/saveselections.asp}.
+
+\bibitem[Medoc(2016)]{AlgomedOnline}
+Medoc.
+\newblock {AlgoMed - Computerized Pressure Algometer}, 2016.
+\newblock URL \url{http://medoc-web.com/products/algomed/}.
+
+\bibitem[Afdeling~for sundhedsdokumentation()]{Takst2016}
+Sundhedstyrrelsen Afdeling~for sundhedsdokumentation.
+\newblock {Takstsystem Vejledning}.
+\newblock 18.12.2016.
+
+\bibitem[{Region Nordjylland}(2016)]{RnBudget17}
+{Region Nordjylland}.
+\newblock {Budgetaftale 2017 -}.
+\newblock 2016.
+
+\bibitem[Eriksen et~al.(2006)Eriksen, Sj{\o}gren, Bruera, Ekholm, and
+  Rasmussen]{Eriksen2006}
+J{\o}rgen Eriksen, Per Sj{\o}gren, Eduardo Bruera, Ola Ekholm, and Niels~K.
+  Rasmussen.
+\newblock {Critical issues on opioids in chronic non-cancer pain:. An
+  epidemiological study}.
+\newblock \emph{Pain}, 125\penalty0 (1-2):\penalty0 172--179, 2006.
+\newblock ISSN 03043959.
+\newblock \doi{10.1016/j.pain.2006.06.009}.
 
 \end{thebibliography}
