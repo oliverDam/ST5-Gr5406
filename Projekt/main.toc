@@ -83,18 +83,4 @@
 \contentsline {section}{\numberline {8.6}Delkonklusion}{57}{section.8.6}
 \contentsline {chapter}{\chapternumberline {9}Patient- og sociale aspekter (SOC)}{59}{chapter.9}
 \contentsline {chapter}{\chapternumberline {10}Etik (ETH)}{60}{chapter.10}
-\contentsline {chapter}{\chapternumberline {11}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{61}{chapter.11}
-\contentsline {section}{\numberline {11.1}Form\IeC {\r a}l}{61}{section.11.1}
-\contentsline {section}{\numberline {11.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{61}{section.11.2}
-\contentsline {section}{\numberline {11.3}Metode}{61}{section.11.3}
-\contentsline {subsection}{\numberline {11.3.1}Tilegnelse af \IeC {\o }konomisk viden om QST}{62}{subsection.11.3.1}
-\contentsline {section}{\numberline {11.4}Teknologiens effekt i forhold til omkostninger}{62}{section.11.4}
-\contentsline {subsection}{\numberline {11.4.1}Omkostninger ved implementering af QST}{62}{subsection.11.4.1}
-\contentsline {subsubsection}{Nocitech}{63}{section*.38}
-\contentsline {subsubsection}{Medoc}{63}{section*.39}
-\contentsline {subsection}{\numberline {11.4.2}\IeC {\O }konomisk effekt ved implementering af QST}{63}{subsection.11.4.2}
-\contentsline {subsubsection}{Cost-effectiveness}{64}{section*.40}
-\contentsline {section}{\numberline {11.5}Ressourceudnyttelse}{64}{section.11.5}
-\contentsline {subsection}{\numberline {11.5.1}P\IeC {\r a}virkning af Region Nordjyllands budget}{64}{subsection.11.5.1}
-\contentsline {subsection}{\numberline {11.5.2}Transferabilitet}{65}{subsection.11.5.2}
-\contentsline {section}{\numberline {11.6}Delkonklusion}{65}{section.11.6}
+\contentsline {chapter}{Litteratur}{61}{section*.39}
