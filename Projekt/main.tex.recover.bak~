@@ -17,7 +17,7 @@
 {\color{white}Dette giver en tom side}
 \clearpage
 
-
+\includepdf[pages={1}]{rapportAfsnit/pFormaliteter/synopsis.pdf} \clearpage 
 \include{rapportAfsnit/pFormaliteter/titelblad}
 
 \chapter*{Forord og læsevejledning}\vspace{-.75cm}
@@ -69,7 +69,7 @@
 \input{rapportAfsnit/dHTAanalyse/ETH}
 
 \chapter{Omkostninger og økonomisk evaluering (ECO)}\vspace{-.75cm} \label{ECO_chap}
-\input{rapportAfsnit/dHTAanalyse/ECO}
+%\input{rapportAfsnit/dHTAanalyse/ECO}
 
 %%%%%%%%%%%%% Syntese %%%%%%%%%%%%%%%%%%%%%%%%
 %\chapter{Syntese}\vspace{-.75cm}\label{syntese_chap}
