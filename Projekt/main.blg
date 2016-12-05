@@ -3,23 +3,11 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: unsrtnat.bst
 Database file #1: kilder.bib
-Warning--empty publisher in brostrom2012
-Warning--empty publisher in schroder
-Warning--empty journal in sygdom
-Warning--empty journal in aarsrapport2016
-Warning--empty publisher in aarsrapport2011
 Warning--empty journal in HTAcore
 Warning--can't use both author and editor fields in metodehaandbogen
 Warning--empty year in 
-Warning--empty year in adobe
-Warning--empty year in robodoc2016
-Warning--empty year in tka-technique
-Warning--empty publisher in Carmon
-Warning--can't use both author and editor fields in Martini2012
-Warning--empty publisher in Wals2009
-Warning--empty journal in Parks2012
 Warning--can't use both author and editor fields in Yarnitsky2006
-Warning--empty publisher in Robinson2008
+Warning--can't use both author and editor fields in Martini2012
 Warning--can't use both author and editor fields in Porta2008
 Warning--there's a number but no volume in Leary2016
 Warning--empty journal in Gronmo2012
@@ -30,51 +18,53 @@ Warning--empty journal in kommissorium2012
 Warning--there's a number but no volume in kommissorium2012
 Warning--empty journal in pritka2015
 Warning--empty year in AlgomedData
+Warning--empty publisher in brostrom2012
+Warning--empty journal in aarsrapport2016
 Warning--empty year in DST1
 Warning--empty year in DTS2
 Warning--empty journal in Takst2016
 Warning--empty year in Takst2016
 Warning--empty year in Takst2016
 Warning--empty journal in RnBudget17
-You've used 96 entries,
+You've used 58 entries,
             2481 wiz_defined-function locations,
-            1265 strings with 28227 characters,
-and the built_in function-call counts, 38736 in all, are:
-= -- 3249
-> -- 2298
-< -- 44
-+ -- 890
-- -- 696
-* -- 3304
-:= -- 6458
-add.period$ -- 429
-call.type$ -- 96
-change.case$ -- 185
-chr.to.int$ -- 94
-cite$ -- 133
-duplicate$ -- 1749
-empty$ -- 3269
-format.name$ -- 800
-if$ -- 8015
-int.to.chr$ -- 3
-int.to.str$ -- 97
-missing$ -- 92
-newline$ -- 629
-num.names$ -- 276
-pop$ -- 724
+            982 strings with 18129 characters,
+and the built_in function-call counts, 22838 in all, are:
+= -- 1959
+> -- 1263
+< -- 31
++ -- 496
+- -- 380
+* -- 1894
+:= -- 3774
+add.period$ -- 259
+call.type$ -- 58
+change.case$ -- 114
+chr.to.int$ -- 58
+cite$ -- 84
+duplicate$ -- 1064
+empty$ -- 1963
+format.name$ -- 445
+if$ -- 4759
+int.to.chr$ -- 1
+int.to.str$ -- 59
+missing$ -- 55
+newline$ -- 383
+num.names$ -- 165
+pop$ -- 437
 preamble$ -- 1
-purify$ -- 96
+purify$ -- 58
 quote$ -- 0
-skip$ -- 1031
+skip$ -- 638
 stack$ -- 0
-substring$ -- 1414
-swap$ -- 213
+substring$ -- 812
+swap$ -- 135
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 633
-warning$ -- 33
-while$ -- 295
+type$ -- 385
+warning$ -- 23
+while$ -- 177
 width$ -- 0
-write$ -- 1485
-(There were 33 warnings)
+write$ -- 903
+(There were 23 warnings)
