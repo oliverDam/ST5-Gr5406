@@ -110,4 +110,6 @@
 \contentsline {subsection}{\numberline {11.5.1}P\IeC {\r a}virkning af Region Nordjyllands budget}{68}{subsection.11.5.1}
 \contentsline {subsection}{\numberline {11.5.2}Transferabilitet}{68}{subsection.11.5.2}
 \contentsline {section}{\numberline {11.6}Delkonklusion}{69}{section.11.6}
+\contentsline {section}{\numberline {11.7}Perspektivering}{69}{section.11.7}
 \contentsline {chapter}{Litteratur}{70}{section*.41}
+\contentsline {appendix}{\chapternumberline {A}Appendiks: Borgerforl\IeC {\o }b}{79}{chapter.A}
