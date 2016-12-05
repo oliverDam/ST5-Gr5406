@@ -35,8 +35,10 @@ Esben~Maulengracht Flachs, Louise Eriksen, and Mette~Bjerrum Koch.
 \newblock {Sygdomsbyrden i danmark}.
 \newblock 2015.
 
-\bibitem[Odgaard and Gentofte-Hospital(2016)]{aarsrapport2016}
-Anders Odgaard and Gentofte-Hospital.
+\bibitem[Odgaard et~al.(2016)Odgaard, Emmeluth, Schr{\o}der, Kappel, Lamberg,
+  Troelsen, Pedersen, and Knydesen]{aarsrapport2016}
+Anders Odgaard, Claus Emmeluth, Henrik Schr{\o}der, Andreas Kappel, Anders
+  Lamberg, Anders Troelsen, Alma Pedersen, and Sofia Knydesen.
 \newblock {Dansk Kn{\ae}alloplastikregister, Aarsrapport 2016}.
 \newblock 2016.
 
@@ -463,7 +465,7 @@ David Yarnitsky.
   T{\"{o}}lle, Treede, and Rolke]{Mucke2016}
 M.~M{\"{u}}cke, H.~Cuhls, L.~Radbruch, R.~Baron, C.~Maier, T.~T{\"{o}}lle,
   R.~D. Treede, and R.~Rolke.
-\newblock {Quantitative sensorische Testung (QST)}.
+\newblock {Quantitative sensory testing (QST)}.
 \newblock \emph{Schmerz}, pages 1--8, 2016.
 \newblock ISSN 14322129.
 \newblock \doi{10.1007/s00482-015-0093-2}.
@@ -570,8 +572,11 @@ Y.~Imai, K.~K. Petersen, C.~D. M{\o}rch, and L.~{Arendt Nielsen}.
 W.~Stuart Reynolds, Roger Dmochowski, Alan Wein, and Stephen Bruehl.
 \newblock {Does central sensitization help explain idiopathic overactive
   bladder?}
-\newblock \emph{Nature reviews Urology}, 13\penalty0 (8), 2016.
+\newblock \emph{Nature Reviews Urology}, 13\penalty0 (8):\penalty0 481--491,
+  jun 2016.
+\newblock ISSN 1759-4812.
 \newblock \doi{10.1038/nrurol.2016.95}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/nrurol.2016.95}.
 
 \bibitem[Porta(2008)]{Porta2008}
 Miquel Porta.
@@ -588,8 +593,8 @@ Anders Troelsen, Henrik Schr{\o}der, and Henrik Husted.
 \newblock ISSN 22451919.
 \newblock \doi{A4490 [pii]}.
 
-\bibitem[Leary et~al.(2016)Leary, Smart, Moloney, and Doody]{Leary2016}
-Helen~O Leary, Keith~M Smart, Niamh~A Moloney, and Catherine~M Doody.
+\bibitem[O'Leary et~al.(2016)O'Leary, Smart, Moloney, and Doody]{Leary2016}
+Helen O'Leary, Keith~M Smart, Niamh~A Moloney, and Catherine~M Doody.
 \newblock {Nervous System Sensitization as a Predictor of Outcome in the
   Treatment of Peripheral Musculoskeletal Conditions : A Systematic Review}.
 \newblock \emph{Pain Practice}, \penalty0 (August), 2016.
@@ -722,8 +727,9 @@ J~E Sanders, B~S Goldstein, and D~F Leotta.
 \newblock {Skin response to mechanical stress: adaptation rather than
   breakdown--a review of the literature.}
 \newblock \emph{Journal of rehabilitation research and development},
-  32\penalty0 (3):\penalty0 214--226, 1995.
+  32\penalty0 (3):\penalty0 214--26, oct 1995.
 \newblock ISSN 0748-7711.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/8592293}.
 
 \bibitem[Rolke et~al.(2006{\natexlab{b}})Rolke, Magerl, Campbell, Schalber,
   Caspari, Birklein, and Treede]{Rolke2006b}
