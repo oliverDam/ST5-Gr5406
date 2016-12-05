@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  5 DEC 2016 15:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  5 DEC 2016 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1878,7 +1878,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 3.
 
-<figures/cMetode/metode.png, id=227, 434.62375pt x 523.9575pt>
+<figures/cMetode/metode.png, id=259, 434.62375pt x 523.9575pt>
 File: figures/cMetode/metode.png Graphic file (type png)
 
 <use figures/cMetode/metode.png>
@@ -1901,7 +1901,7 @@ Underfull \hbox (badness 1337) in paragraph at lines 28--29
 n. For at de enkelte
  []
 
-<figures/cMetode/vurderingselement.png, id=254, 205.76875pt x 285.065pt>
+<figures/cMetode/vurderingselement.png, id=286, 205.76875pt x 285.065pt>
 File: figures/cMetode/vurderingselement.png Graphic file (type png)
 
 <use figures/cMetode/vurderingselement.png>
@@ -1955,7 +1955,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 70.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 70.
- [5] <figures/cMetode/soegeprotokol.png, id=283, 416.05438pt x 302.63063pt>
+ [5] <figures/cMetode/soegeprotokol.png, id=315, 416.05438pt x 302.63063pt>
 File: figures/cMetode/soegeprotokol.png Graphic file (type png)
 
 <use figures/cMetode/soegeprotokol.png>
@@ -2066,7 +2066,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 46.
  [11]
-<figures/dHTAanalyse/widespread_sens.png, id=374, 1192.455pt x 478.78876pt>
+<figures/dHTAanalyse/widespread_sens.png, id=406, 1192.455pt x 478.78876pt>
 File: figures/dHTAanalyse/widespread_sens.png Graphic file (type png)
 
 <use figures/dHTAanalyse/widespread_sens.png>
@@ -2088,7 +2088,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 61.
 [12 <./figures/dHTAanalyse/widespread_sens.png>]
-<figures/dHTAanalyse/TSP_rask_syg.jpg, id=417, 683.55376pt x 483.8075pt>
+<figures/dHTAanalyse/TSP_rask_syg.jpg, id=449, 683.55376pt x 483.8075pt>
 File: figures/dHTAanalyse/TSP_rask_syg.jpg Graphic file (type jpg)
 
 <use figures/dHTAanalyse/TSP_rask_syg.jpg>
@@ -2204,7 +2204,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 32.
-[18] <figures/dHTAanalyse/r_vaerdi.jpg, id=511, 363.85938pt x 389.95688pt>
+[18] <figures/dHTAanalyse/r_vaerdi.jpg, id=543, 363.85938pt x 389.95688pt>
 File: figures/dHTAanalyse/r_vaerdi.jpg Graphic file (type jpg)
 
 <use figures/dHTAanalyse/r_vaerdi.jpg>
@@ -2245,7 +2245,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 82.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 82.
-[21] <figures/dHTAanalyse/AUC.jpg, id=580, 363.3575pt x 248.93pt>
+[21] <figures/dHTAanalyse/AUC.jpg, id=613, 363.3575pt x 248.93pt>
 File: figures/dHTAanalyse/AUC.jpg Graphic file (type jpg)
 
 <use figures/dHTAanalyse/AUC.jpg>
@@ -2468,7 +2468,7 @@ Underfull \hbox (badness 1184) in paragraph at lines 30--31
 -undersøgelserne på
  []
 
-<figures/ORG/nuTKAforlob.png, id=821, 606.265pt x 1118.1775pt>
+<figures/ORG/nuTKAforlob.png, id=853, 606.265pt x 1118.1775pt>
 File: figures/ORG/nuTKAforlob.png Graphic file (type png)
 
 <use figures/ORG/nuTKAforlob.png>
@@ -2514,7 +2514,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 59.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 59.
-[35] <figures/ORG/QSTTKAforlob.png, id=848, 606.265pt x 365.365pt>
+[35] <figures/ORG/QSTTKAforlob.png, id=880, 606.265pt x 365.365pt>
 File: figures/ORG/QSTTKAforlob.png Graphic file (type png)
 
 <use figures/ORG/QSTTKAforlob.png>
@@ -2861,14 +2861,294 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<rapportAfsnit/qBilag/Borgerforloeb.png, id=1054, 426.75435pt x 505.52866pt>
+<rapportAfsnit/qBilag/Borgerforloeb.png, id=1086, 426.75435pt x 505.52866pt>
 File: rapportAfsnit/qBilag/Borgerforloeb.png Graphic file (type png)
 
 <use rapportAfsnit/qBilag/Borgerforloeb.png>
 Package pdftex.def Info: rapportAfsnit/qBilag/Borgerforloeb.png used on input l
 ine 4.
 (pdftex.def)             Requested size: 396.89731pt x 470.15993pt.
-) 
+)
+(./rapportAfsnit/qBilag/sogeprotokol.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+ [56
+
+ <./rapportAfsnit/qBilag/Borgerforloeb.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+
+<rapportAfsnit/qBilag/sogninger/TEC1.png, id=1094, 1614.03pt x 2421.045pt>
+File: rapportAfsnit/qBilag/sogninger/TEC1.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/TEC1.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/TEC1.png used on input 
+line 4.
+(pdftex.def)             Requested size: 352.80135pt x 529.19594pt.
+
+<rapportAfsnit/qBilag/sogninger/TEC2.png, id=1095, 1617.04124pt x 1630.09pt>
+File: rapportAfsnit/qBilag/sogninger/TEC2.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/TEC2.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/TEC2.png used on input 
+line 6.
+(pdftex.def)             Requested size: 352.80135pt x 355.63614pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 8.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 8.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 8.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 8.
+ [57
+
+ <./rapportAfsnit/qBilag/sogninger/TEC1.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 8.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 8.
+
+<rapportAfsnit/qBilag/sogninger/EFF1.png, id=1101, 1627.07875pt x 2166.0925pt>
+File: rapportAfsnit/qBilag/sogninger/EFF1.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/EFF1.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/EFF1.png used on input 
+line 9.
+(pdftex.def)             Requested size: 352.80135pt x 469.66704pt.
+
+<rapportAfsnit/qBilag/sogninger/EFF2.png, id=1102, 1600.98125pt x 991.705pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 11.
+
+[58 <./rapportAfsnit/qBilag/sogninger/TEC2.png>]
+File: rapportAfsnit/qBilag/sogninger/EFF2.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/EFF2.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/EFF2.png used on input 
+line 11.
+(pdftex.def)             Requested size: 352.80135pt x 218.52382pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 13.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 13.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 13.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 13.
+ [59 <./rapportAfsnit/qBilag/sogninger/EFF1.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 13.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 13.
+
+<rapportAfsnit/qBilag/sogninger/SAF1.png, id=1113, 1606.0pt x 2375.87625pt>
+File: rapportAfsnit/qBilag/sogninger/SAF1.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/SAF1.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/SAF1.png used on input 
+line 14.
+(pdftex.def)             Requested size: 352.80135pt x 521.93309pt.
+
+<rapportAfsnit/qBilag/sogninger/SAF2.png, id=1114, 1597.97pt x 1268.74pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 16.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 16.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 16.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 16.
+
+[60 <./rapportAfsnit/qBilag/sogninger/EFF2.png>]
+File: rapportAfsnit/qBilag/sogninger/SAF2.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/SAF2.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/SAF2.png used on input 
+line 16.
+(pdftex.def)             Requested size: 352.80135pt x 280.111pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 18.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 18.
+ [61 <./rapportAfsnit/qBilag/sogninger/SAF1.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 18.
+
+<rapportAfsnit/qBilag/sogninger/ORG1.png, id=1126, 1595.9625pt x 2361.82375pt>
+File: rapportAfsnit/qBilag/sogninger/ORG1.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/ORG1.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/ORG1.png used on input 
+line 19.
+(pdftex.def)             Requested size: 352.80135pt x 522.0895pt.
+
+<rapportAfsnit/qBilag/sogninger/ORG2.png, id=1127, 1587.9325pt x 2296.58pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 21.
+
+[62 <./rapportAfsnit/qBilag/sogninger/SAF2.png>]
+File: rapportAfsnit/qBilag/sogninger/ORG2.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/ORG2.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/ORG2.png used on input 
+line 21.
+(pdftex.def)             Requested size: 352.80135pt x 510.22527pt.
+
+<rapportAfsnit/qBilag/sogninger/ORG3.png, id=1133, 1600.98125pt x 2436.10126pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 23.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 23.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 23.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 23.
+[63 <./rapportAfsnit/qBilag/sogninger/ORG1.png>]
+File: rapportAfsnit/qBilag/sogninger/ORG3.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/ORG3.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/ORG3.png used on input 
+line 23.
+(pdftex.def)             Requested size: 352.80135pt x 536.79889pt.
+
+<rapportAfsnit/qBilag/sogninger/ORG4.png, id=1139, 1592.95125pt x 2073.7475pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 25.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 25.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 25.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 25.
+
+[64 <./rapportAfsnit/qBilag/sogninger/ORG2.png>]
+File: rapportAfsnit/qBilag/sogninger/ORG4.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/ORG4.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/ORG4.png used on input 
+line 25.
+(pdftex.def)             Requested size: 352.80135pt x 459.26357pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 27.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 27.
+ [65 <./rapportAfsnit/qBilag/sogninger/ORG3.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 27.
+
+<rapportAfsnit/qBilag/sogninger/SOC1.png, id=1150, 1598.97375pt x 2394.9475pt>
+File: rapportAfsnit/qBilag/sogninger/SOC1.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/SOC1.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/SOC1.png used on input 
+line 28.
+(pdftex.def)             Requested size: 352.80135pt x 528.42493pt.
+
+<rapportAfsnit/qBilag/sogninger/SOC2.png, id=1151, 1599.9775pt x 867.24pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 30.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 30.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 30.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 30.
+
+[66 <./rapportAfsnit/qBilag/sogninger/ORG4.png>]
+File: rapportAfsnit/qBilag/sogninger/SOC2.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/SOC2.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/SOC2.png used on input 
+line 30.
+(pdftex.def)             Requested size: 352.80135pt x 191.23007pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 32.
+ [67 <./rapportAfsnit/qBilag/sogninger/SOC1.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 32.
+
+<rapportAfsnit/qBilag/sogninger/ETH1.png, id=1163, 1594.95876pt x 903.375pt>
+File: rapportAfsnit/qBilag/sogninger/ETH1.png Graphic file (type png)
+
+<use rapportAfsnit/qBilag/sogninger/ETH1.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/ETH1.png used on input 
+line 33.
+(pdftex.def)             Requested size: 352.80135pt x 199.8183pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 35.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 35.
+
+<rapportAfsnit/qBilag/sogninger/ECO1.png, id=1164, 1602.98875pt x 2349.77875pt>
+File: rapportAfsnit/qBilag/sogninger/ECO1.png Graphic file (type png)
+<use rapportAfsnit/qBilag/sogninger/ECO1.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/ECO1.png used on input 
+line 36.
+(pdftex.def)             Requested size: 352.80135pt x 517.1322pt.
+
+<rapportAfsnit/qBilag/sogninger/ECO2.png, id=1165, 1600.98125pt x 1687.30376pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 38.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 38.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 38.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 38.
+[68 <./rapportAfsnit/qBilag/sogninger/SOC2.png> <./rapportAfsnit/qBilag/sogning
+er/ETH1.png>]
+File: rapportAfsnit/qBilag/sogninger/ECO2.png Graphic file (type png)
+ <use rapportAfsnit/qBilag/sogninger/ECO2.png>
+Package pdftex.def Info: rapportAfsnit/qBilag/sogninger/ECO2.png used on input 
+line 38.
+(pdftex.def)             Requested size: 352.80135pt x 371.80014pt.
+)
+
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 91.
@@ -2878,9 +3158,16 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 91.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 91.
-[56
-
- <./rapportAfsnit/qBilag/Borgerforloeb.png>]
+[69 <./rapportAfsnit/qBilag/sogninger/ECO1.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 91.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 91.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 91.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 91.
+ [70 <./rapportAfsnit/qBilag/sogninger/ECO2.png>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 91.
 Package babel Info: Redefining danish shorthand "~
@@ -2891,7 +3178,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 504BBDE9A50889FC0D153E1B2A9BC7FF;3407.
+(rerunfilecheck)             Checksum: 6AAC4558B42BC1F8DDFD5F4EB4D5A3AB;3808.
 
 
 LaTeX Warning: There were undefined references.
@@ -2899,10 +3186,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 27081 strings out of 493117
- 473341 string characters out of 6135434
+ 27192 strings out of 493117
+ 476569 string characters out of 6135434
  814765 words of memory out of 5000000
- 29852 multiletter control sequences out of 15000+600000
+ 29922 multiletter control sequences out of 15000+600000
  20945 words of font info for 58 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  57i,18n,92p,10459b,1010s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2923,10 +3210,10 @@ st/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist
 onts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2014/texmf-dist/fon
 ts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
 /urw/bookman/ubkl8a.pfb>
-Output written on main.pdf (56 pages, 1712428 bytes).
+Output written on main.pdf (70 pages, 4683777 bytes).
 PDF statistics:
- 1170 PDF objects out of 1200 (max. 8388607)
- 1056 compressed objects within 11 object streams
- 254 named destinations out of 1000 (max. 500000)
- 483 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1294 PDF objects out of 1440 (max. 8388607)
+ 1135 compressed objects within 12 object streams
+ 276 named destinations out of 1000 (max. 500000)
+ 622 words of extra memory for PDF output out of 10000 (max. 10000000)
 
