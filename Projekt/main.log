@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  5 DEC 2016 10:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.3.5)  5 DEC 2016 10:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2041,11 +2041,6 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 43.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 43.
-
-
-LaTeX Warning: Reference `problemanalyse' on page 5 undefined on input line 46.
-
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
@@ -2054,6 +2049,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 47.
+
 [5 <./figures/cMetode/vurderingselement.png>]
 Underfull \hbox (badness 1178) in paragraph at lines 50--51
 []\T1/cmr/m/n/10.95 Domænet EFF har til formål at analysere en teknologi ud fra
@@ -2081,7 +2077,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 70.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 70.
- [7] <figures/cMetode/soegeprotokol.png, id=629, 416.05438pt x 302.63063pt>
+ [7] <figures/cMetode/soegeprotokol.png, id=630, 416.05438pt x 302.63063pt>
 File: figures/cMetode/soegeprotokol.png Graphic file (type png)
 
 <use figures/cMetode/soegeprotokol.png>
@@ -2128,7 +2124,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 6.
 
-<figures/bProblemanalyse/flowchart_behandlingsforloeb_rettet.png, id=666, 489.0
+<figures/bProblemanalyse/flowchart_behandlingsforloeb_rettet.png, id=667, 489.0
 27pt x 104.7915pt>
 File: figures/bProblemanalyse/flowchart_behandlingsforloeb_rettet.png Graphic f
 ile (type png)
@@ -2204,7 +2200,7 @@ tose_knae-eps-converted-to.pdf figures/bProblemanalyse/Artose_knae.eps>
 (epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/bProblemanalyse/Artose_knae-eps-converted-to.pdf, id=714, 725.71124pt 
+<figures/bProblemanalyse/Artose_knae-eps-converted-to.pdf, id=715, 725.71124pt 
 x 432.61626pt>
 File: figures/bProblemanalyse/Artose_knae-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -2241,7 +2237,7 @@ Underfull \hbox (badness 1194) in paragraph at lines 33--34
 rmer for alloplastikker;
  []
 
-<figures/tka_implant.jpg, id=4056, 546.54187pt x 292.09125pt>
+<figures/tka_implant.jpg, id=4057, 546.54187pt x 292.09125pt>
 File: figures/tka_implant.jpg Graphic file (type jpg)
 
 <use figures/tka_implant.jpg>
@@ -2304,7 +2300,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 17.
 
-<figures/bProblemanalyse/smertediagram.png, id=4106, 526.96875pt x 506.89375pt>
+<figures/bProblemanalyse/smertediagram.png, id=4107, 526.96875pt x 506.89375pt>
 File: figures/bProblemanalyse/smertediagram.png Graphic file (type png)
 <use figures/bProblemanalyse/smertediagram.png>
 Package pdftex.def Info: figures/bProblemanalyse/smertediagram.png used on inpu
@@ -2383,9 +2379,6 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 18.
 [19]
-
-LaTeX Warning: Reference `tek_succes' on page 20 undefined on input line 19.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 23.
 Package babel Info: Redefining danish shorthand "~
@@ -2394,7 +2387,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 23.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 23.
-[20]) (./rapportAfsnit/cProblemanalyse/metoder.tex
+ [20]) (./rapportAfsnit/cProblemanalyse/metoder.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2404,7 +2397,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 8.
 
-<figures/bProblemanalyse/fMRI_dorsolateral.jpg, id=4237, 360.1455pt x 169.23225
+<figures/bProblemanalyse/fMRI_dorsolateral.jpg, id=4239, 360.1455pt x 169.23225
 pt>
 File: figures/bProblemanalyse/fMRI_dorsolateral.jpg Graphic file (type jpg)
  <use figures/bProblemanalyse/fMRI_dorsolateral.jpg>
@@ -2444,7 +2437,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 33.
 
-<figures/bProblemanalyse/EEG_ERP.jpg, id=4286, 598.6365pt x 381.8265pt>
+<figures/bProblemanalyse/EEG_ERP.jpg, id=4288, 598.6365pt x 381.8265pt>
 File: figures/bProblemanalyse/EEG_ERP.jpg Graphic file (type jpg)
 
 <use figures/bProblemanalyse/EEG_ERP.jpg>
@@ -2590,7 +2583,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 46.
  [30]
-<figures/dHTAanalyse/widespread_sens.png, id=4368, 1192.455pt x 478.78876pt>
+<figures/dHTAanalyse/widespread_sens.png, id=4370, 1192.455pt x 478.78876pt>
 File: figures/dHTAanalyse/widespread_sens.png Graphic file (type png)
 
 <use figures/dHTAanalyse/widespread_sens.png>
@@ -2616,7 +2609,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 61.
 [31 <./figures/dHTAanalyse/widespread_sens.png>]
-<figures/dHTAanalyse/TSP_rask_syg.jpg, id=4410, 683.55376pt x 483.8075pt>
+<figures/dHTAanalyse/TSP_rask_syg.jpg, id=4412, 683.55376pt x 483.8075pt>
 File: figures/dHTAanalyse/TSP_rask_syg.jpg Graphic file (type jpg)
 
 <use figures/dHTAanalyse/TSP_rask_syg.jpg>
@@ -2640,11 +2633,6 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 81.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 81.
-
-
-Package natbib Warning: Citation `martini' on page 33 undefined on input line 8
-3.
-
 
 Underfull \hbox (badness 1107) in paragraph at lines 82--84
 \T1/cmr/m/n/10.95 Ved benyttelsen af QST som supplement til klinikerens beslutn
@@ -2755,7 +2743,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 31.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 31.
-[37] <figures/dHTAanalyse/r_vaerdi.jpg, id=4496, 363.85938pt x 389.95688pt>
+[37] <figures/dHTAanalyse/r_vaerdi.jpg, id=4500, 363.85938pt x 389.95688pt>
 File: figures/dHTAanalyse/r_vaerdi.jpg Graphic file (type jpg)
 
 <use figures/dHTAanalyse/r_vaerdi.jpg>
@@ -2796,7 +2784,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 81.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 81.
-[40] <figures/dHTAanalyse/AUC.jpg, id=4565, 363.3575pt x 248.93pt>
+[40] <figures/dHTAanalyse/AUC.jpg, id=4568, 363.3575pt x 248.93pt>
 File: figures/dHTAanalyse/AUC.jpg Graphic file (type jpg)
 
 <use figures/dHTAanalyse/AUC.jpg>
@@ -3019,7 +3007,7 @@ Underfull \hbox (badness 1184) in paragraph at lines 31--32
 -undersøgelserne på
  []
 
-<figures/ORG/nuTKAforlob.png, id=4805, 606.265pt x 1118.1775pt>
+<figures/ORG/nuTKAforlob.png, id=4808, 606.265pt x 1118.1775pt>
 File: figures/ORG/nuTKAforlob.png Graphic file (type png)
 
 <use figures/ORG/nuTKAforlob.png>
@@ -3060,7 +3048,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 60.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 60.
-[55] <figures/ORG/QSTTKAforlob.png, id=4834, 606.265pt x 365.365pt>
+[55] <figures/ORG/QSTTKAforlob.png, id=4837, 606.265pt x 365.365pt>
 File: figures/ORG/QSTTKAforlob.png Graphic file (type png)
 
 <use figures/ORG/QSTTKAforlob.png>
@@ -3317,9 +3305,6 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 45.
 [66]
-
-Package natbib Warning: Citation `DST2' on page 67 undefined on input line 55.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 70.
 Package babel Info: Redefining danish shorthand "~
@@ -3332,7 +3317,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 76.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 76.
-[67]
+ [67]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 78.
 Package babel Info: Redefining danish shorthand "~
@@ -3415,13 +3400,13 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 186.
 [71]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 295.
+(babel)             in language  on input line 286.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 295.
+(babel)             in language  on input line 286.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 295.
+(babel)             in language  on input line 286.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 295.
+(babel)             in language  on input line 286.
  [72]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 384.
@@ -3483,18 +3468,14 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<rapportAfsnit/qBilag/Borgerforloeb.png, id=5065, 426.75435pt x 505.52866pt>
+<rapportAfsnit/qBilag/Borgerforloeb.png, id=5071, 426.75435pt x 505.52866pt>
 File: rapportAfsnit/qBilag/Borgerforloeb.png Graphic file (type png)
 
 <use rapportAfsnit/qBilag/Borgerforloeb.png>
 Package pdftex.def Info: rapportAfsnit/qBilag/Borgerforloeb.png used on input l
 ine 4.
 (pdftex.def)             Requested size: 396.89731pt x 470.15993pt.
-)
-
-Package natbib Warning: There were undefined citations.
-
-
+) 
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 91.
@@ -3531,8 +3512,8 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 27461 strings out of 493117
- 481146 string characters out of 6135434
+ 27462 strings out of 493117
+ 481176 string characters out of 6135434
  814765 words of memory out of 5000000
  30075 multiletter control sequences out of 15000+600000
  23069 words of font info for 61 fonts, out of 8000000 for 9000
@@ -3559,10 +3540,10 @@ ype1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
 e1/public/cm-super/sftt1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
 /urw/bookman/ubkd8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/boo
 kman/ubkl8a.pfb>
-Output written on main.pdf (85 pages, 4495780 bytes).
+Output written on main.pdf (85 pages, 4495892 bytes).
 PDF statistics:
- 5214 PDF objects out of 6186 (max. 8388607)
- 4089 compressed objects within 41 object streams
- 355 named destinations out of 1000 (max. 500000)
+ 5220 PDF objects out of 6186 (max. 8388607)
+ 4095 compressed objects within 41 object streams
+ 356 named destinations out of 1000 (max. 500000)
  886 words of extra memory for PDF output out of 10000 (max. 10000000)
 

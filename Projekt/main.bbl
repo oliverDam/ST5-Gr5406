@@ -1,4 +1,4 @@
-\begin{thebibliography}{95}
+\begin{thebibliography}{96}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -204,7 +204,7 @@ Amiram Carmon.
 \newblock 1994.
 \newblock ISBN 0931092051.
 
-\bibitem[{Martini FH, Nath JL}(2012)]{Martini}
+\bibitem[{Martini FH, Nath JL}(2012)]{Martini2012}
 Bartholomwe~EF {Martini FH, Nath JL}.
 \newblock \emph{{Fundamental of Anatomy and Physiology}}.
 \newblock Pearson, 9th edition, 2012.
@@ -215,7 +215,7 @@ Bartholomwe~EF {Martini FH, Nath JL}.
   Jensen}]{smerter}
 J{\o}rgen~B. Dahl, Lars Arendt-Nielsen, and Troels {Staehelin Jensen}.
 \newblock \emph{{Smerter (Baggrund, Evidens, Behandling)}}.
-\newblock 3 udgave edition, 2013.
+\newblock FADL's Forlag A/S, 3. udgave edition, 2013.
 \newblock ISBN 9788777497032.
 
 \bibitem[Giangregorio et~al.(1997)Giangregorio, Papaioannou, Cranney, Zytaruk,
@@ -747,7 +747,7 @@ T.~Graven-Nielsen, M.~Izumi, K.~K. Petersen, and L.~Arendt-Nielsen.
 
 \bibitem[{Hedevang Christensen}(2015)]{pritka2015}
 Poul {Hedevang Christensen}.
-\newblock {Total kn{\ae}alloplastik ( TKA ) - Patientforl{\o}bsbeskrivelse
+\newblock {Total kn{\ae}alloplastik (TKA) - Patientforl{\o}bsbeskrivelse
   Definition af begreber Beskrivelse Indholdsfortegnelse :}.
 \newblock 2015.
 
@@ -770,6 +770,11 @@ Dyck PJ, Kennedy WR, Kesserwani H, Melanson M, Ochoa J, Shy M, Stevens JC,
 
 \bibitem[DST()]{DST1}
 {DST.dk}.
+\newblock URL
+  \url{http://www.statistikbanken.dk/statbank5a/SelectVarVal/saveselections.asp}.
+
+\bibitem[DTS()]{DTS2}
+{DTS.dk}.
 \newblock URL
   \url{http://www.statistikbanken.dk/statbank5a/SelectVarVal/saveselections.asp}.
 
