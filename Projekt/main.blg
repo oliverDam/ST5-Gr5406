@@ -37,45 +37,46 @@ Warning--empty journal in Takst2016
 Warning--empty year in Takst2016
 Warning--empty year in Takst2016
 Warning--empty journal in RnBudget17
-You've used 97 entries,
+Warning--empty year in SmerteDanmark
+You've used 100 entries,
             2481 wiz_defined-function locations,
-            1272 strings with 27938 characters,
-and the built_in function-call counts, 39096 in all, are:
-= -- 3286
-> -- 2305
-< -- 45
-+ -- 894
-- -- 698
-* -- 3328
-:= -- 6514
-add.period$ -- 433
-call.type$ -- 97
-change.case$ -- 187
-chr.to.int$ -- 95
-cite$ -- 134
-duplicate$ -- 1768
-empty$ -- 3306
-format.name$ -- 803
-if$ -- 8092
+            1292 strings with 28855 characters,
+and the built_in function-call counts, 40451 in all, are:
+= -- 3387
+> -- 2408
+< -- 46
++ -- 932
+- -- 730
+* -- 3454
+:= -- 6747
+add.period$ -- 446
+call.type$ -- 100
+change.case$ -- 193
+chr.to.int$ -- 98
+cite$ -- 138
+duplicate$ -- 1820
+empty$ -- 3412
+format.name$ -- 838
+if$ -- 8366
 int.to.chr$ -- 3
-int.to.str$ -- 98
-missing$ -- 93
-newline$ -- 635
-num.names$ -- 279
-pop$ -- 730
+int.to.str$ -- 101
+missing$ -- 95
+newline$ -- 654
+num.names$ -- 288
+pop$ -- 752
 preamble$ -- 1
-purify$ -- 97
+purify$ -- 100
 quote$ -- 0
-skip$ -- 1042
+skip$ -- 1075
 stack$ -- 0
-substring$ -- 1441
-swap$ -- 215
+substring$ -- 1493
+swap$ -- 221
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 640
-warning$ -- 33
-while$ -- 299
+type$ -- 661
+warning$ -- 34
+while$ -- 308
 width$ -- 0
-write$ -- 1500
-(There were 33 warnings)
+write$ -- 1545
+(There were 34 warnings)

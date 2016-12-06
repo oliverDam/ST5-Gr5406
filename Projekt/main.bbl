@@ -1,4 +1,4 @@
-\begin{thebibliography}{97}
+\begin{thebibliography}{100}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -815,5 +815,33 @@ J{\o}rgen Eriksen, Per Sj{\o}gren, Eduardo Bruera, Ola Ekholm, and Niels~K.
 \newblock \emph{Pain}, 125\penalty0 (1-2):\penalty0 172--179, 2006.
 \newblock ISSN 03043959.
 \newblock \doi{10.1016/j.pain.2006.06.009}.
+
+\bibitem[SmerteDanmark()]{SmerteDanmark}
+SmerteDanmark.
+\newblock {SmerteDanmark - Baggrund}.
+\newblock URL \url{http://www.smertedanmark.dk/om-smertedanmark/baggrund.aspx}.
+
+\bibitem[Buvanendran et~al.(2010)Buvanendran, Kroin, {Della Valle}, Kari,
+  Moric, and Tuman]{Buvanendran2010}
+Asokumar Buvanendran, Jeffrey~S. Kroin, Craig~J. {Della Valle}, Maruti Kari,
+  Mario Moric, and Kenneth~J. Tuman.
+\newblock {Perioperative oral pregabalin reduces chronic pain after total knee
+  arthroplasty: A prospective, randomized, controlled trial}.
+\newblock \emph{Anesthesia and Analgesia}, 110\penalty0 (1):\penalty0 199--207,
+  2010.
+\newblock ISSN 00032999.
+\newblock \doi{10.1213/ANE.0b013e3181c4273a}.
+
+\bibitem[Blikman et~al.(2016)Blikman, Rienstra, van Raaij, {Ten Hagen},
+  Dijkstra, Zijlstra, Bulstra, van~den Akker-Scheek, and Stevens]{Blikman2016}
+T~Blikman, W~Rienstra, T~M van Raaij, A~J {Ten Hagen}, B~Dijkstra, W~P
+  Zijlstra, S~K Bulstra, I~van~den Akker-Scheek, and M~Stevens.
+\newblock {Duloxetine in OsteoArthritis (DOA) study: study protocol of a
+  pragmatic open-label randomised controlled trial assessing the effect of
+  preoperative pain treatment on postoperative outcome after total hip or knee
+  arthroplasty.}
+\newblock \emph{BMJ open}, 6\penalty0 (3):\penalty0 e010343, 2016.
+\newblock ISSN 2044-6055 (Electronic).
+\newblock \doi{10.1136/bmjopen-2015-010343}.
 
 \end{thebibliography}

@@ -114,13 +114,16 @@
 \contentsline {section}{\numberline {12.1}Diskussion}{68}{section.12.1}
 \contentsline {section}{\numberline {12.2}Konklusion}{68}{section.12.2}
 \contentsline {section}{\numberline {12.3}Perspektivering}{69}{section.12.3}
-\contentsline {chapter}{Litteratur}{70}{section*.43}
-\contentsline {appendix}{\chapternumberline {A}Appendiks: Borgerforl\IeC {\o }b}{79}{chapter.A}
-\contentsline {appendix}{\chapternumberline {B}S\IeC {\o }geprotokol}{80}{chapter.B}
-\contentsline {section}{\numberline {B.1}TEC}{80}{section.B.1}
-\contentsline {section}{\numberline {B.2}EFF}{82}{section.B.2}
-\contentsline {section}{\numberline {B.3}SAF}{84}{section.B.3}
-\contentsline {section}{\numberline {B.4}ORG}{86}{section.B.4}
-\contentsline {section}{\numberline {B.5}SOC}{90}{section.B.5}
-\contentsline {section}{\numberline {B.6}ETH}{91}{section.B.6}
-\contentsline {section}{\numberline {B.7}ECO}{92}{section.B.7}
+\contentsline {subsection}{\numberline {12.3.1}Kroniske smertepatienter}{69}{subsection.12.3.1}
+\contentsline {subsection}{\numberline {12.3.2}Forl\IeC {\o }b for patienter med positiv QST-unders\IeC {\o }gelse}{69}{subsection.12.3.2}
+\contentsline {subsection}{\numberline {12.3.3}Videre forskning}{70}{subsection.12.3.3}
+\contentsline {chapter}{Litteratur}{72}{section*.43}
+\contentsline {appendix}{\chapternumberline {A}Appendiks: Borgerforl\IeC {\o }b}{81}{chapter.A}
+\contentsline {appendix}{\chapternumberline {B}S\IeC {\o }geprotokol}{82}{chapter.B}
+\contentsline {section}{\numberline {B.1}TEC}{82}{section.B.1}
+\contentsline {section}{\numberline {B.2}EFF}{84}{section.B.2}
+\contentsline {section}{\numberline {B.3}SAF}{86}{section.B.3}
+\contentsline {section}{\numberline {B.4}ORG}{88}{section.B.4}
+\contentsline {section}{\numberline {B.5}SOC}{92}{section.B.5}
+\contentsline {section}{\numberline {B.6}ETH}{93}{section.B.6}
+\contentsline {section}{\numberline {B.7}ECO}{94}{section.B.7}
