@@ -1,0 +1,82 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: rapportAfsnit/pFormaliteter/Titelblad.aux
+The style file: unsrtnat.bst
+Database file #1: kilder.bib
+Warning--empty publisher in brostrom2012
+Warning--empty publisher in schroder
+Warning--empty journal in sygdom
+Warning--empty journal in aarsrapport2016
+Warning--empty publisher in aarsrapport2011
+Warning--empty journal in HTAcore
+Warning--can't use both author and editor fields in metodehaandbogen
+Warning--empty year in 
+Warning--empty year in adobe
+Warning--empty year in robodoc2016
+Warning--empty year in tka-technique
+Warning--empty publisher in Carmon
+Warning--can't use both author and editor fields in Martini2012
+Warning--empty publisher in Wals2009
+Warning--empty journal in Parks2012
+Warning--can't use both author and editor fields in Yarnitsky2006
+Warning--empty publisher in Robinson2008
+Warning--can't use both author and editor fields in Porta2008
+Warning--empty journal in Gronmo2012
+Warning--there's a number but no volume in Gronmo2012
+Warning--there's a number but no volume in Leary2016
+Warning--there's a number but no volume in helsinki2013
+Warning--empty journal in nkr2016
+Warning--empty journal in kommissorium2012
+Warning--there's a number but no volume in kommissorium2012
+Warning--empty journal in pritka2015
+Warning--empty year in AlgomedData
+Warning--empty year in DST1
+Warning--empty year in DTS2
+Warning--empty journal in Takst2016
+Warning--empty year in Takst2016
+Warning--empty year in Takst2016
+Warning--empty journal in RnBudget17
+Warning--empty year in SmerteDanmark
+You've used 100 entries,
+            2481 wiz_defined-function locations,
+            1292 strings with 28855 characters,
+and the built_in function-call counts, 40451 in all, are:
+= -- 3387
+> -- 2408
+< -- 46
++ -- 932
+- -- 730
+* -- 3454
+:= -- 6747
+add.period$ -- 446
+call.type$ -- 100
+change.case$ -- 193
+chr.to.int$ -- 98
+cite$ -- 138
+duplicate$ -- 1820
+empty$ -- 3412
+format.name$ -- 838
+if$ -- 8366
+int.to.chr$ -- 3
+int.to.str$ -- 101
+missing$ -- 95
+newline$ -- 654
+num.names$ -- 288
+pop$ -- 752
+preamble$ -- 1
+purify$ -- 100
+quote$ -- 0
+skip$ -- 1075
+stack$ -- 0
+substring$ -- 1493
+swap$ -- 221
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 661
+warning$ -- 34
+while$ -- 308
+width$ -- 0
+write$ -- 1545
+(There were 34 warnings)
