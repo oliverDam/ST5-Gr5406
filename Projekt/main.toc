@@ -1,7 +1,5 @@
 \changetocdepth {2}
 \select@language {danish}
-\contentsline {section}{Forord}{iii}{section*.3}
-\contentsline {section}{L\IeC {\ae }sevejledning}{iii}{section*.4}
 \contentsline {chapter}{\chapternumberline {1}Introduktion}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Indledning}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Initierende problemstilling}{2}{section.1.2}
@@ -37,7 +35,7 @@
 \contentsline {subsection}{\numberline {4.1.1}Problemformulering}{26}{subsection.4.1.1}
 \contentsline {chapter}{\chapternumberline {5}Beskrivelse og tekniske karakteristika for teknologien (TEC)}{27}{chapter.5}
 \contentsline {section}{\numberline {5.1}Form\IeC {\r a}l}{27}{section.5.1}
-\contentsline {section}{\numberline {5.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{27}{section.5.2}
+\contentsline {section}{\numberline {5.2}Analyse-sp\IeC {\o }rgsm\IeC {\r a}l}{27}{section.5.2}
 \contentsline {section}{\numberline {5.3}Metode}{27}{section.5.3}
 \contentsline {section}{\numberline {5.4}Teknologiens egenskaber}{28}{section.5.4}
 \contentsline {subsection}{\numberline {5.4.1}Anvendelsesomr\IeC {\r a}de for QST}{28}{subsection.5.4.1}
@@ -51,7 +49,7 @@
 \contentsline {section}{\numberline {5.7}Delkonklusion}{33}{section.5.7}
 \contentsline {chapter}{\chapternumberline {6}Klinisk effekt (EFF)}{35}{chapter.6}
 \contentsline {section}{\numberline {6.1}Form\IeC {\r a}l}{35}{section.6.1}
-\contentsline {section}{\numberline {6.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{35}{section.6.2}
+\contentsline {section}{\numberline {6.2}Analyse-sp\IeC {\o }rgsm\IeC {\r a}l}{35}{section.6.2}
 \contentsline {section}{\numberline {6.3}Metode}{35}{section.6.3}
 \contentsline {section}{\numberline {6.4}Statistisk effekt}{36}{section.6.4}
 \contentsline {subsection}{\numberline {6.4.1}QST-protokollens statistiske styrke}{36}{subsection.6.4.1}
@@ -63,7 +61,7 @@
 \contentsline {section}{\numberline {6.6}Delkonklusion}{45}{section.6.6}
 \contentsline {chapter}{\chapternumberline {7}Sikkerhed (SAF)}{46}{chapter.7}
 \contentsline {section}{\numberline {7.1}Form\IeC {\r a}l}{46}{section.7.1}
-\contentsline {section}{\numberline {7.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{46}{section.7.2}
+\contentsline {section}{\numberline {7.2}Analyse-sp\IeC {\o }rgsm\IeC {\r a}l}{46}{section.7.2}
 \contentsline {section}{\numberline {7.3}Metode}{46}{section.7.3}
 \contentsline {section}{\numberline {7.4}Patientsikkerhed}{47}{section.7.4}
 \contentsline {subsection}{\numberline {7.4.1}Sikkerhedsm\IeC {\ae }ssige risici for patienter}{47}{subsection.7.4.1}
@@ -73,7 +71,7 @@
 \contentsline {section}{\numberline {7.6}Delkonklusion}{49}{section.7.6}
 \contentsline {chapter}{\chapternumberline {8}Organisatoriske aspekter (ORG)}{50}{chapter.8}
 \contentsline {section}{\numberline {8.1}Form\IeC {\r a}l}{50}{section.8.1}
-\contentsline {section}{\numberline {8.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{50}{section.8.2}
+\contentsline {section}{\numberline {8.2}Analyse-sp\IeC {\o }rgsm\IeC {\r a}l}{50}{section.8.2}
 \contentsline {section}{\numberline {8.3}Metode}{50}{section.8.3}
 \contentsline {section}{\numberline {8.4}Organisatoriske \IeC {\ae }ndringer}{51}{section.8.4}
 \contentsline {subsection}{\numberline {8.4.1}Nuv\IeC {\ae }rende behandlingsforl\IeC {\o }b for TKA-patienter}{51}{subsection.8.4.1}
@@ -85,7 +83,7 @@
 \contentsline {section}{\numberline {8.6}Delkonklusion}{56}{section.8.6}
 \contentsline {chapter}{\chapternumberline {9}Patientaspekter (SOC)}{58}{chapter.9}
 \contentsline {section}{\numberline {9.1}Form\IeC {\r a}l}{58}{section.9.1}
-\contentsline {section}{\numberline {9.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{58}{section.9.2}
+\contentsline {section}{\numberline {9.2}Analyse-sp\IeC {\o }rgsm\IeC {\r a}l}{58}{section.9.2}
 \contentsline {section}{\numberline {9.3}Metode}{58}{section.9.3}
 \contentsline {section}{\numberline {9.4}Teknologiens p\IeC {\r a}virkning p\IeC {\r a} patienten}{59}{section.9.4}
 \contentsline {subsection}{\numberline {9.4.1}Eksklusion af patienter}{59}{subsection.9.4.1}
@@ -93,13 +91,13 @@
 \contentsline {section}{\numberline {9.5}Delkonklusion}{60}{section.9.5}
 \contentsline {chapter}{\chapternumberline {10}Etik (ETH)}{61}{chapter.10}
 \contentsline {section}{\numberline {10.1}Form\IeC {\r a}l}{61}{section.10.1}
-\contentsline {section}{\numberline {10.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{61}{section.10.2}
+\contentsline {section}{\numberline {10.2}Analyse-sp\IeC {\o }rgsm\IeC {\r a}l}{61}{section.10.2}
 \contentsline {section}{\numberline {10.3}Metode}{61}{section.10.3}
 \contentsline {section}{\numberline {10.4}Patientetik}{61}{section.10.4}
 \contentsline {section}{\numberline {10.5}Delkonklusion}{62}{section.10.5}
 \contentsline {chapter}{\chapternumberline {11}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{64}{chapter.11}
 \contentsline {section}{\numberline {11.1}Form\IeC {\r a}l}{64}{section.11.1}
-\contentsline {section}{\numberline {11.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{64}{section.11.2}
+\contentsline {section}{\numberline {11.2}Analyse-sp\IeC {\o }rgsm\IeC {\r a}l}{64}{section.11.2}
 \contentsline {section}{\numberline {11.3}Metode}{64}{section.11.3}
 \contentsline {subsection}{\numberline {11.3.1}Tilegnelse af \IeC {\o }konomisk viden om QST-protokollen}{65}{subsection.11.3.1}
 \contentsline {section}{\numberline {11.4}Teknologiens effekt i forhold til omkostninger}{65}{section.11.4}
@@ -113,19 +111,20 @@
 \contentsline {subsection}{\numberline {11.5.2}Transferabilitet}{68}{subsection.11.5.2}
 \contentsline {section}{\numberline {11.6}Delkonklusion}{68}{section.11.6}
 \contentsline {chapter}{\chapternumberline {12}Syntese}{69}{chapter.12}
-\contentsline {subsection}{\numberline {12.0.1}Pr\IeC {\ae }cision}{69}{subsection.12.0.1}
-\contentsline {subsection}{\numberline {12.0.2}Normative datas\IeC {\ae }t}{70}{subsection.12.0.2}
-\contentsline {subsection}{\numberline {12.0.3}Patientaspekter}{70}{subsection.12.0.3}
-\contentsline {subsection}{\numberline {12.0.4}\IeC {\O }konomi og organisation}{71}{subsection.12.0.4}
-\contentsline {subsection}{\numberline {12.0.5}Metode}{72}{subsection.12.0.5}
-\contentsline {section}{\numberline {12.1}Konklusion}{73}{section.12.1}
-\contentsline {section}{\numberline {12.2}Perspektivering}{74}{section.12.2}
-\contentsline {subsection}{\numberline {12.2.1}Kroniske smertepatienter}{74}{subsection.12.2.1}
-\contentsline {subsection}{\numberline {12.2.2}Forl\IeC {\o }b for patienter med positiv QST-unders\IeC {\o }gelse}{75}{subsection.12.2.2}
-\contentsline {subsection}{\numberline {12.2.3}Videre forskning}{76}{subsection.12.2.3}
+\contentsline {section}{\numberline {12.1}Diskussion}{69}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Pr\IeC {\ae }cision}{69}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Normative datas\IeC {\ae }t}{70}{subsection.12.1.2}
+\contentsline {subsection}{\numberline {12.1.3}Patientaspekter}{71}{subsection.12.1.3}
+\contentsline {subsection}{\numberline {12.1.4}\IeC {\O }konomi og organisation}{71}{subsection.12.1.4}
+\contentsline {subsection}{\numberline {12.1.5}Metode}{72}{subsection.12.1.5}
+\contentsline {section}{\numberline {12.2}Konklusion}{73}{section.12.2}
+\contentsline {section}{\numberline {12.3}Perspektivering}{75}{section.12.3}
+\contentsline {subsection}{\numberline {12.3.1}Kroniske smertepatienter}{75}{subsection.12.3.1}
+\contentsline {subsection}{\numberline {12.3.2}Forl\IeC {\o }b for patienter med positiv QST-unders\IeC {\o }gelse}{75}{subsection.12.3.2}
+\contentsline {subsection}{\numberline {12.3.3}Videre forskning}{76}{subsection.12.3.3}
 \contentsline {chapter}{Litteratur}{77}{section*.44}
 \contentsline {appendix}{\chapternumberline {A}Appendiks: Borgerforl\IeC {\o }b}{86}{chapter.A}
-\contentsline {appendix}{\chapternumberline {B}S\IeC {\o }geprotokol}{87}{chapter.B}
+\contentsline {appendix}{\chapternumberline {B}Appendiks: S\IeC {\o }geprotokol}{87}{chapter.B}
 \contentsline {section}{\numberline {B.1}TEC}{87}{section.B.1}
 \contentsline {section}{\numberline {B.2}EFF}{89}{section.B.2}
 \contentsline {section}{\numberline {B.3}SAF}{91}{section.B.3}
