@@ -41,16 +41,16 @@ Warning--empty journal in RnBudget17
 Warning--empty year in SmerteDanmark
 You've used 101 entries,
             2481 wiz_defined-function locations,
-            1301 strings with 29054 characters,
-and the built_in function-call counts, 40983 in all, are:
-= -- 3440
+            1306 strings with 29134 characters,
+and the built_in function-call counts, 41847 in all, are:
+= -- 3632
 > -- 2429
 < -- 46
 + -- 940
 - -- 736
 * -- 3508
-:= -- 6831
-add.period$ -- 451
+:= -- 7023
+add.period$ -- 547
 call.type$ -- 101
 change.case$ -- 195
 chr.to.int$ -- 99
@@ -58,17 +58,17 @@ cite$ -- 140
 duplicate$ -- 1844
 empty$ -- 3458
 format.name$ -- 845
-if$ -- 8475
+if$ -- 8667
 int.to.chr$ -- 3
 int.to.str$ -- 102
 missing$ -- 97
-newline$ -- 661
+newline$ -- 757
 num.names$ -- 291
-pop$ -- 754
+pop$ -- 699
 preamble$ -- 1
 purify$ -- 101
 quote$ -- 0
-skip$ -- 1084
+skip$ -- 1043
 stack$ -- 0
 substring$ -- 1545
 swap$ -- 222
@@ -79,5 +79,5 @@ type$ -- 668
 warning$ -- 35
 while$ -- 314
 width$ -- 0
-write$ -- 1562
+write$ -- 1754
 (There were 35 warnings)

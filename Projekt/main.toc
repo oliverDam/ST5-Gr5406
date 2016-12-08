@@ -123,12 +123,12 @@
 \contentsline {subsection}{\numberline {12.3.2}Forl\IeC {\o }b for patienter med positiv QST-unders\IeC {\o }gelse}{75}{subsection.12.3.2}
 \contentsline {subsection}{\numberline {12.3.3}Videre forskning}{76}{subsection.12.3.3}
 \contentsline {chapter}{Litteratur}{77}{section*.44}
-\contentsline {appendix}{\chapternumberline {A}Appendiks: Borgerforl\IeC {\o }b}{86}{chapter.A}
-\contentsline {appendix}{\chapternumberline {B}Appendiks: S\IeC {\o }geprotokol}{87}{chapter.B}
-\contentsline {section}{\numberline {B.1}TEC}{88}{section.B.1}
-\contentsline {section}{\numberline {B.2}EFF}{90}{section.B.2}
-\contentsline {section}{\numberline {B.3}SAF}{92}{section.B.3}
-\contentsline {section}{\numberline {B.4}ORG}{94}{section.B.4}
-\contentsline {section}{\numberline {B.5}SOC}{98}{section.B.5}
-\contentsline {section}{\numberline {B.6}ETH}{99}{section.B.6}
-\contentsline {section}{\numberline {B.7}ECO}{100}{section.B.7}
+\contentsline {appendix}{\chapternumberline {A}Appendiks: Borgerforl\IeC {\o }b}{87}{chapter.A}
+\contentsline {appendix}{\chapternumberline {B}Appendiks: S\IeC {\o }geprotokol}{88}{chapter.B}
+\contentsline {section}{\numberline {B.1}TEC}{89}{section.B.1}
+\contentsline {section}{\numberline {B.2}EFF}{91}{section.B.2}
+\contentsline {section}{\numberline {B.3}SAF}{93}{section.B.3}
+\contentsline {section}{\numberline {B.4}ORG}{95}{section.B.4}
+\contentsline {section}{\numberline {B.5}SOC}{99}{section.B.5}
+\contentsline {section}{\numberline {B.6}ETH}{100}{section.B.6}
+\contentsline {section}{\numberline {B.7}ECO}{101}{section.B.7}
