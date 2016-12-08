@@ -59,7 +59,7 @@
 \contentsline {subsubsection}{Sensitivitet og specificitet}{39}{section*.29}
 \contentsline {section}{\numberline {6.5}N\IeC {\o }jagtighed}{41}{section.6.5}
 \contentsline {subsection}{\numberline {6.5.1}Patientgruppering p\IeC {\r a} baggrund af QST-resultater}{41}{subsection.6.5.1}
-\contentsline {subsection}{\numberline {6.5.2}Repeterbarhed for QST-protokollen}{44}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.2}Reproducerbarhed for QST-protokollen}{44}{subsection.6.5.2}
 \contentsline {section}{\numberline {6.6}Delkonklusion}{45}{section.6.6}
 \contentsline {chapter}{\chapternumberline {7}Sikkerhed (SAF)}{46}{chapter.7}
 \contentsline {section}{\numberline {7.1}Form\IeC {\r a}l}{46}{section.7.1}
@@ -67,8 +67,8 @@
 \contentsline {section}{\numberline {7.3}Metode}{46}{section.7.3}
 \contentsline {section}{\numberline {7.4}Patientsikkerhed}{47}{section.7.4}
 \contentsline {subsection}{\numberline {7.4.1}Sikkerhedsm\IeC {\ae }ssige risici for patienter}{47}{subsection.7.4.1}
-\contentsline {subsubsection}{Mekanisk trykp\IeC {\r a}virkning}{47}{section*.35}
-\contentsline {subsubsection}{Overholdelse af skadegr\IeC {\ae }nser}{48}{section*.36}
+\contentsline {subsubsection}{Mekanisk trykp\IeC {\r a}virkning}{47}{section*.36}
+\contentsline {subsubsection}{Overholdelse af skadegr\IeC {\ae }nser}{48}{section*.37}
 \contentsline {section}{\numberline {7.5}Sikkerhedsforanstaltninger}{48}{section.7.5}
 \contentsline {section}{\numberline {7.6}Delkonklusion}{49}{section.7.6}
 \contentsline {chapter}{\chapternumberline {8}Organisatoriske aspekter (ORG)}{50}{chapter.8}
@@ -83,7 +83,7 @@
 \contentsline {subsection}{\numberline {8.5.1}Efteruddannelse}{55}{subsection.8.5.1}
 \contentsline {subsection}{\numberline {8.5.2}Vedligeholdelse af udstyr}{56}{subsection.8.5.2}
 \contentsline {section}{\numberline {8.6}Delkonklusion}{56}{section.8.6}
-\contentsline {chapter}{\chapternumberline {9}Patient- og sociale aspekter (SOC)}{58}{chapter.9}
+\contentsline {chapter}{\chapternumberline {9}Patientaspekter (SOC)}{58}{chapter.9}
 \contentsline {section}{\numberline {9.1}Form\IeC {\r a}l}{58}{section.9.1}
 \contentsline {section}{\numberline {9.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{58}{section.9.2}
 \contentsline {section}{\numberline {9.3}Metode}{58}{section.9.3}
@@ -97,35 +97,39 @@
 \contentsline {section}{\numberline {10.3}Metode}{61}{section.10.3}
 \contentsline {section}{\numberline {10.4}Patientetik}{61}{section.10.4}
 \contentsline {section}{\numberline {10.5}Delkonklusion}{62}{section.10.5}
-\contentsline {chapter}{\chapternumberline {11}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{63}{chapter.11}
-\contentsline {section}{\numberline {11.1}Form\IeC {\r a}l}{63}{section.11.1}
-\contentsline {section}{\numberline {11.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{63}{section.11.2}
-\contentsline {section}{\numberline {11.3}Metode}{63}{section.11.3}
-\contentsline {subsection}{\numberline {11.3.1}Tilegnelse af \IeC {\o }konomisk viden om QST-protokollen}{64}{subsection.11.3.1}
-\contentsline {section}{\numberline {11.4}Teknologiens effekt i forhold til omkostninger}{64}{section.11.4}
-\contentsline {subsection}{\numberline {11.4.1}Omkostninger ved implementering af QST}{64}{subsection.11.4.1}
-\contentsline {subsubsection}{Nocitech}{65}{section*.39}
-\contentsline {subsubsection}{Medoc}{65}{section*.40}
-\contentsline {subsection}{\numberline {11.4.2}\IeC {\O }konomisk effekt ved implementering af QST}{65}{subsection.11.4.2}
-\contentsline {subsubsection}{Cost-effectiveness}{66}{section*.41}
-\contentsline {section}{\numberline {11.5}Ressourceudnyttelse}{66}{section.11.5}
-\contentsline {subsection}{\numberline {11.5.1}P\IeC {\r a}virkning af Region Nordjyllands budget}{66}{subsection.11.5.1}
-\contentsline {subsection}{\numberline {11.5.2}Transferabilitet}{67}{subsection.11.5.2}
-\contentsline {section}{\numberline {11.6}Delkonklusion}{67}{section.11.6}
-\contentsline {chapter}{\chapternumberline {12}Syntese}{68}{chapter.12}
-\contentsline {section}{\numberline {12.1}Diskussion}{68}{section.12.1}
-\contentsline {section}{\numberline {12.2}Konklusion}{68}{section.12.2}
-\contentsline {section}{\numberline {12.3}Perspektivering}{69}{section.12.3}
-\contentsline {subsection}{\numberline {12.3.1}Kroniske smertepatienter}{69}{subsection.12.3.1}
-\contentsline {subsection}{\numberline {12.3.2}Forl\IeC {\o }b for patienter med positiv QST-unders\IeC {\o }gelse}{69}{subsection.12.3.2}
-\contentsline {subsection}{\numberline {12.3.3}Videre forskning}{70}{subsection.12.3.3}
-\contentsline {chapter}{Litteratur}{72}{section*.43}
-\contentsline {appendix}{\chapternumberline {A}Appendiks: Borgerforl\IeC {\o }b}{81}{chapter.A}
-\contentsline {appendix}{\chapternumberline {B}S\IeC {\o }geprotokol}{82}{chapter.B}
-\contentsline {section}{\numberline {B.1}TEC}{82}{section.B.1}
-\contentsline {section}{\numberline {B.2}EFF}{84}{section.B.2}
-\contentsline {section}{\numberline {B.3}SAF}{86}{section.B.3}
-\contentsline {section}{\numberline {B.4}ORG}{88}{section.B.4}
-\contentsline {section}{\numberline {B.5}SOC}{92}{section.B.5}
-\contentsline {section}{\numberline {B.6}ETH}{93}{section.B.6}
-\contentsline {section}{\numberline {B.7}ECO}{94}{section.B.7}
+\contentsline {chapter}{\chapternumberline {11}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{64}{chapter.11}
+\contentsline {section}{\numberline {11.1}Form\IeC {\r a}l}{64}{section.11.1}
+\contentsline {section}{\numberline {11.2}HTA sp\IeC {\o }rgsm\IeC {\r a}l}{64}{section.11.2}
+\contentsline {section}{\numberline {11.3}Metode}{64}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}Tilegnelse af \IeC {\o }konomisk viden om QST-protokollen}{65}{subsection.11.3.1}
+\contentsline {section}{\numberline {11.4}Teknologiens effekt i forhold til omkostninger}{65}{section.11.4}
+\contentsline {subsection}{\numberline {11.4.1}Omkostninger ved implementering af QST}{65}{subsection.11.4.1}
+\contentsline {subsubsection}{Nocitech}{66}{section*.40}
+\contentsline {subsubsection}{Medoc}{66}{section*.41}
+\contentsline {subsection}{\numberline {11.4.2}\IeC {\O }konomisk effekt ved implementering af QST}{66}{subsection.11.4.2}
+\contentsline {subsubsection}{Cost-effectiveness}{67}{section*.42}
+\contentsline {section}{\numberline {11.5}Ressourceudnyttelse}{67}{section.11.5}
+\contentsline {subsection}{\numberline {11.5.1}P\IeC {\r a}virkning af Region Nordjyllands budget}{67}{subsection.11.5.1}
+\contentsline {subsection}{\numberline {11.5.2}Transferabilitet}{68}{subsection.11.5.2}
+\contentsline {section}{\numberline {11.6}Delkonklusion}{68}{section.11.6}
+\contentsline {chapter}{\chapternumberline {12}Syntese}{69}{chapter.12}
+\contentsline {subsection}{\numberline {12.0.1}Pr\IeC {\ae }cision}{69}{subsection.12.0.1}
+\contentsline {subsection}{\numberline {12.0.2}Normative datas\IeC {\ae }t}{70}{subsection.12.0.2}
+\contentsline {subsection}{\numberline {12.0.3}Patientaspekter}{70}{subsection.12.0.3}
+\contentsline {subsection}{\numberline {12.0.4}\IeC {\O }konomi og organisation}{71}{subsection.12.0.4}
+\contentsline {subsection}{\numberline {12.0.5}Metode}{72}{subsection.12.0.5}
+\contentsline {section}{\numberline {12.1}Konklusion}{73}{section.12.1}
+\contentsline {section}{\numberline {12.2}Perspektivering}{74}{section.12.2}
+\contentsline {subsection}{\numberline {12.2.1}Kroniske smertepatienter}{74}{subsection.12.2.1}
+\contentsline {subsection}{\numberline {12.2.2}Forl\IeC {\o }b for patienter med positiv QST-unders\IeC {\o }gelse}{75}{subsection.12.2.2}
+\contentsline {subsection}{\numberline {12.2.3}Videre forskning}{76}{subsection.12.2.3}
+\contentsline {chapter}{Litteratur}{77}{section*.44}
+\contentsline {appendix}{\chapternumberline {A}Appendiks: Borgerforl\IeC {\o }b}{86}{chapter.A}
+\contentsline {appendix}{\chapternumberline {B}S\IeC {\o }geprotokol}{87}{chapter.B}
+\contentsline {section}{\numberline {B.1}TEC}{87}{section.B.1}
+\contentsline {section}{\numberline {B.2}EFF}{89}{section.B.2}
+\contentsline {section}{\numberline {B.3}SAF}{91}{section.B.3}
+\contentsline {section}{\numberline {B.4}ORG}{93}{section.B.4}
+\contentsline {section}{\numberline {B.5}SOC}{97}{section.B.5}
+\contentsline {section}{\numberline {B.6}ETH}{98}{section.B.6}
+\contentsline {section}{\numberline {B.7}ECO}{99}{section.B.7}
