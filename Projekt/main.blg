@@ -31,6 +31,7 @@ Warning--empty journal in kommissorium2012
 Warning--there's a number but no volume in kommissorium2012
 Warning--empty journal in pritka2015
 Warning--empty year in AlgomedData
+Warning--empty journal in Peterson2007
 Warning--empty year in DST1
 Warning--empty year in DTS2
 Warning--empty journal in Takst2016
@@ -38,45 +39,45 @@ Warning--empty year in Takst2016
 Warning--empty year in Takst2016
 Warning--empty journal in RnBudget17
 Warning--empty year in SmerteDanmark
-You've used 100 entries,
+You've used 101 entries,
             2481 wiz_defined-function locations,
-            1292 strings with 28855 characters,
-and the built_in function-call counts, 40451 in all, are:
-= -- 3387
-> -- 2408
+            1301 strings with 29054 characters,
+and the built_in function-call counts, 40983 in all, are:
+= -- 3440
+> -- 2429
 < -- 46
-+ -- 932
-- -- 730
-* -- 3454
-:= -- 6747
-add.period$ -- 446
-call.type$ -- 100
-change.case$ -- 193
-chr.to.int$ -- 98
-cite$ -- 138
-duplicate$ -- 1820
-empty$ -- 3412
-format.name$ -- 838
-if$ -- 8366
++ -- 940
+- -- 736
+* -- 3508
+:= -- 6831
+add.period$ -- 451
+call.type$ -- 101
+change.case$ -- 195
+chr.to.int$ -- 99
+cite$ -- 140
+duplicate$ -- 1844
+empty$ -- 3458
+format.name$ -- 845
+if$ -- 8475
 int.to.chr$ -- 3
-int.to.str$ -- 101
-missing$ -- 95
-newline$ -- 654
-num.names$ -- 288
-pop$ -- 752
+int.to.str$ -- 102
+missing$ -- 97
+newline$ -- 661
+num.names$ -- 291
+pop$ -- 754
 preamble$ -- 1
-purify$ -- 100
+purify$ -- 101
 quote$ -- 0
-skip$ -- 1075
+skip$ -- 1084
 stack$ -- 0
-substring$ -- 1493
-swap$ -- 221
+substring$ -- 1545
+swap$ -- 222
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 661
-warning$ -- 34
-while$ -- 308
+type$ -- 668
+warning$ -- 35
+while$ -- 314
 width$ -- 0
-write$ -- 1545
-(There were 34 warnings)
+write$ -- 1562
+(There were 35 warnings)

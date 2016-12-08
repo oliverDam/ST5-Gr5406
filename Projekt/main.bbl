@@ -1,4 +1,4 @@
-\begin{thebibliography}{100}
+\begin{thebibliography}{101}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -768,11 +768,6 @@ Poul {Hedevang Christensen}.
 Medoc.
 \newblock {AlgoMed Brochure}.
 
-\bibitem[{Somedic Senselab}(2016)]{SomedicSenselab2016}
-{Somedic Senselab}.
-\newblock {Somedic Senselab - Algometer}, 2016.
-\newblock URL \url{http://www.somedic.com/}.
-
 \bibitem[PJ et~al.(1998)PJ, WR, H, M, J, M, JC, GA, and PC]{Dyck1998}
 Dyck PJ, Kennedy WR, Kesserwani H, Melanson M, Ochoa J, Shy M, Stevens JC,
   Suarez GA, and O'Brien PC.
@@ -780,6 +775,20 @@ Dyck PJ, Kennedy WR, Kesserwani H, Melanson M, Ochoa J, Shy M, Stevens JC,
   toward a bad outcome}.
 \newblock \emph{Neurology}, 50\penalty0 (5), 1998.
 \newblock \doi{10.1212/WNL.50.5.1213}.
+
+\bibitem[Kraemer et~al.(2011)Kraemer, van Overveld, and Peterson]{Kraemer2011}
+Felicitas Kraemer, Kees van Overveld, and Martin Peterson.
+\newblock {Is there an ethics of algorithms?}
+\newblock \emph{Ethics and Information Technology}, 13\penalty0 (3):\penalty0
+  251--260, 2011.
+\newblock ISSN 13881957.
+\newblock \doi{10.1007/s10676-010-9233-7}.
+
+\bibitem[Peterson(2016)]{Peterson2007}
+M~Peterson.
+\newblock {Should the Precautionary Principle Guide Our Actions or Our
+  Beliefs?}
+\newblock 26\penalty0 (6):\penalty0 427--431, 2016.
 
 \bibitem[DST()]{DST1}
 {DST.dk}.

@@ -94,7 +94,7 @@
 \contentsline {section}{\numberline {10.2}Analyse-sp\IeC {\o }rgsm\IeC {\r a}l}{61}{section.10.2}
 \contentsline {section}{\numberline {10.3}Metode}{61}{section.10.3}
 \contentsline {section}{\numberline {10.4}Patientetik}{61}{section.10.4}
-\contentsline {section}{\numberline {10.5}Delkonklusion}{62}{section.10.5}
+\contentsline {section}{\numberline {10.5}Delkonklusion}{63}{section.10.5}
 \contentsline {chapter}{\chapternumberline {11}Omkostninger og \IeC {\o }konomisk evaluering (ECO)}{64}{chapter.11}
 \contentsline {section}{\numberline {11.1}Form\IeC {\r a}l}{64}{section.11.1}
 \contentsline {section}{\numberline {11.2}Analyse-sp\IeC {\o }rgsm\IeC {\r a}l}{64}{section.11.2}
@@ -125,10 +125,10 @@
 \contentsline {chapter}{Litteratur}{77}{section*.44}
 \contentsline {appendix}{\chapternumberline {A}Appendiks: Borgerforl\IeC {\o }b}{86}{chapter.A}
 \contentsline {appendix}{\chapternumberline {B}Appendiks: S\IeC {\o }geprotokol}{87}{chapter.B}
-\contentsline {section}{\numberline {B.1}TEC}{87}{section.B.1}
-\contentsline {section}{\numberline {B.2}EFF}{89}{section.B.2}
-\contentsline {section}{\numberline {B.3}SAF}{91}{section.B.3}
-\contentsline {section}{\numberline {B.4}ORG}{93}{section.B.4}
-\contentsline {section}{\numberline {B.5}SOC}{97}{section.B.5}
-\contentsline {section}{\numberline {B.6}ETH}{98}{section.B.6}
-\contentsline {section}{\numberline {B.7}ECO}{99}{section.B.7}
+\contentsline {section}{\numberline {B.1}TEC}{88}{section.B.1}
+\contentsline {section}{\numberline {B.2}EFF}{90}{section.B.2}
+\contentsline {section}{\numberline {B.3}SAF}{92}{section.B.3}
+\contentsline {section}{\numberline {B.4}ORG}{94}{section.B.4}
+\contentsline {section}{\numberline {B.5}SOC}{98}{section.B.5}
+\contentsline {section}{\numberline {B.6}ETH}{99}{section.B.6}
+\contentsline {section}{\numberline {B.7}ECO}{100}{section.B.7}
