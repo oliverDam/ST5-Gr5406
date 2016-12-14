@@ -1,4 +1,4 @@
-\begin{thebibliography}{99}
+\begin{thebibliography}{101}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -39,13 +39,14 @@ Esben~Maulengracht Flachs, Louise Eriksen, and Mette~Bjerrum Koch.
 \newblock 2015.
 \newblock Evidensniveau: 7.
 
-\bibitem[{Simonsen, Anne Birgitte; J{\o}rgensen, Anette; Laursen, Mogens Berg;
-  J{\o}rgensen, Mogens Brouw; Rasmussen, Sten; Simonsen}(2011)]{ugeskrift2011}
-Ole {Simonsen, Anne Birgitte; J{\o}rgensen, Anette; Laursen, Mogens Berg;
-  J{\o}rgensen, Mogens Brouw; Rasmussen, Sten; Simonsen}.
+\bibitem[Simonsen et~al.(2011)Simonsen, J{\o}rgensen, J{\o}rgensen, Brouw,
+  Rasmussen, and Simonsen]{ugeskrift2011}
+Anne~Birgitte Simonsen, Anette~Laursen J{\o}rgensen, Mogens~Berg J{\o}rgensen,
+  Mogens Brouw, Sten Rasmussen, and Ole Simonsen.
 \newblock {Klinisk, radiologisk og artroskopisk graduering af kn{\ae}artrose}.
 \newblock \emph{ugeskrift for l{\ae}ger}, 173:\penalty0 956--958, 2011.
 \newblock \doi{0041-5782}.
+\newblock Evidensniveau: 7.
 
 \bibitem[Odgaard et~al.(2016)Odgaard, Emmeluth, Schr{\o}der, Kappel, Lamberg,
   Troelsen, Pedersen, and Knydesen]{aarsrapport2016}
@@ -72,7 +73,6 @@ Martin Lind.
 \bibitem[ado()]{adobe}
 {Adobe Stock}.
 \newblock URL \url{https://stock.adobe.com/dk/}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Vestergaard(2016)]{Vestergaard2016}
 Henrik Vestergaard.
@@ -117,8 +117,7 @@ S{\o}ren~T. Skou, Roos E.M., Laursen M.B., Rathleff M.S., Arendt-Nielsen L.,
   1597--1606, 2015.
 \newblock ISSN 1533-4406.
 \newblock \doi{10.1056/NEJMoa1505467}.
-\newblock URL
-  \url{http://www.nejm.org/doi/pdf/10.1056/NEJMoa1505467}.
+\newblock URL \url{http://www.nejm.org/doi/pdf/10.1056/NEJMoa1505467}.
 \newblock Evidensniveau: 2.
 
 \bibitem[ROBODOC{\textregistered}()]{robodoc2016}
@@ -302,7 +301,7 @@ Marta {Gonzalez S{\'{a}}enz de Tejada}, Antonio Escobar, Carmen Herrera, Lidia
 \newblock ISSN 1369-7625.
 \newblock \doi{10.1111/j.1524-4733.2009.00685.x}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20088892}.
-\newblock 2.
+\newblock Evidensniveau: 2.
 
 \bibitem[Skou et~al.(2016)Skou, Roos, Laursen, Rathleff, Arendt-Nielsen,
   Simonsen, and Rasmussen]{skou2016}
@@ -392,6 +391,7 @@ Craig~M Bennett, Abigail~A Baird, Michael~B Miller, and George~L Wolford.
 \newblock ISSN 1757-790X.
 \newblock \doi{10.1136/bcr.07.2008.0593}.
 \newblock URL \url{http://www.jsur.org/v1n1p1}.
+\newblock Evidensniveau: 3.
 
 \bibitem[Yarnitsky and Granot(2006)]{Yarnitsky2006}
 David Yarnitsky and Michal Granot.
@@ -477,6 +477,7 @@ Christopher~A. Brown, Wael El-Deredy, and Anthony K.~P. Jones.
   anticipation are related to clinical pain and distress in fibromyalgia and
   osteoarthritis}.
 \newblock \emph{European Journal of Neuroscience}, 2013.
+\newblock Evidensniveau: 3.
 
 \bibitem[Gigtforeningen(2016)]{Gigtforeningen2016}
 Gigtforeningen.
@@ -698,6 +699,7 @@ Helen O'Leary, Keith~M Smart, Niamh~A Moloney, and Catherine~M Doody.
 \newblock \emph{Pain Practice}, \penalty0 (August), 2016.
 \newblock ISSN 1533-2500.
 \newblock \doi{10.1111/papr.12484}.
+\newblock Evidensniveau: 1.
 
 \bibitem[Mukaka(2012)]{Mukaka2012}
 M.~M. Mukaka.
@@ -755,24 +757,20 @@ Donna~L. Kennedy, Harriet~I. Kemp, Deborah Ridout, David Yarnitsky, and
 {DST.dk}.
 \newblock URL
   \url{http://www.statistikbanken.dk/statbank5a/SelectVarVal/saveselections.asp}.
-\newblock Evidensniveau: 7.
 
 \bibitem[DTS()]{DTS2}
 {DTS.dk}.
 \newblock URL
   \url{http://www.statistikbanken.dk/statbank5a/SelectVarVal/saveselections.asp}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Medoc()]{AlgomedData}
 Medoc.
 \newblock {AlgoMed Brochure}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Medoc(2016)]{AlgomedOnline}
 Medoc.
 \newblock {AlgoMed - Computerized Pressure Algometer}, 2016.
 \newblock URL \url{http://medoc-web.com/products/algomed/}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Afdeling~for sundhedsdokumentation()]{Takst2016}
 Sundhedstyrrelsen Afdeling~for sundhedsdokumentation.
@@ -881,6 +879,7 @@ Dyck PJ, Kennedy WR, Kesserwani H, Melanson M, Ochoa J, Shy M, Stevens JC,
   toward a bad outcome}.
 \newblock \emph{Neurology}, 50\penalty0 (5), 1998.
 \newblock \doi{10.1212/WNL.50.5.1213}.
+\newblock Evidensniveau: 7.
 
 \bibitem[Kraemer et~al.(2011)Kraemer, van Overveld, and Peterson]{Kraemer2011}
 Felicitas Kraemer, Kees van Overveld, and Martin Peterson.
@@ -898,11 +897,16 @@ M~Peterson.
 \newblock 26\penalty0 (6):\penalty0 427--431, 2016.
 \newblock Evidensniveau: 7.
 
-\bibitem[SmerteDanmark()]{SmerteDanmark}
+\bibitem[SmerteDanmark({\natexlab{a}})]{SmerteDanmark}
 SmerteDanmark.
-\newblock {SmerteDanmark - Baggrund}.
+\newblock {SmerteDanmark - Baggrund}, {\natexlab{a}}.
 \newblock URL \url{http://www.smertedanmark.dk/om-smertedanmark/baggrund.aspx}.
-\newblock Evidensniveau: 7.
+
+\bibitem[SmerteDanmark({\natexlab{b}})]{SmerteDanmark1}
+SmerteDanmark.
+\newblock {SmerteDanmark - Hvad er kroniske smerter?}, {\natexlab{b}}.
+\newblock URL
+  \url{http://www.smertedanmark.dk/fakta-om-smerter/hvad-er-kroniske-smerter.aspx}.
 
 \bibitem[Buvanendran et~al.(2010)Buvanendran, Kroin, {Della Valle}, Kari,
   Moric, and Tuman]{Buvanendran2010}
@@ -928,5 +932,18 @@ T~Blikman, W~Rienstra, T~M van Raaij, A~J {Ten Hagen}, B~Dijkstra, W~P
 \newblock ISSN 2044-6055 (Electronic).
 \newblock \doi{10.1136/bmjopen-2015-010343}.
 \newblock Evidensniveau: 2.
+
+\bibitem[Wilder-Smith et~al.(2010)Wilder-Smith, Schreyer, Scheffer, and
+  Arendt-Nielsen]{Wilder-Smith2010}
+Oliver~Hamilton Wilder-Smith, Tobias Schreyer, Gert~Jan Scheffer, and Lars
+  Arendt-Nielsen.
+\newblock {Patients with chronic pain after abdominal surgery show less
+  preoperative endogenous pain inhibition and more postoperative hyperalgesia:
+  a pilot study.}
+\newblock \emph{Journal of pain \& palliative care pharmacotherapy},
+  24\penalty0 (2):\penalty0 119--28, 2010.
+\newblock ISSN 1536-0539.
+\newblock \doi{10.3109/15360281003706069}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20504133}.
 
 \end{thebibliography}
