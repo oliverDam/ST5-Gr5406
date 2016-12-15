@@ -5,8 +5,8 @@ A level-1 auxiliary file: rapportAfsnit/pFormaliteter/Titelblad.aux
 The style file: unsrtnat.bst
 Database file #1: kilder3.bib
 Warning--empty publisher in brostrom2012
-Warning--empty publisher in schroder
 Warning--empty journal in sygdom
+Warning--empty publisher in schroder
 Warning--empty journal in aarsrapport2016
 Warning--empty year in adobe
 Warning--empty year in definitionfedme1999
@@ -20,7 +20,7 @@ Warning--can't use both author and editor fields in Yarnitsky2006
 Warning--empty publisher in Robinson2008
 Warning--empty journal in HTAcore
 Warning--can't use both author and editor fields in metodehaandbogen
-Warning--empty year in 
+Warning--empty year in EtiskLov
 Warning--can't use both author and editor fields in Porta2008
 Warning--empty journal in Gronmo2012
 Warning--there's a number but no volume in Gronmo2012
@@ -40,45 +40,45 @@ Warning--there's a number but no volume in kommissorium2012
 Warning--empty journal in Peterson2007
 Warning--empty year in SmerteDanmark
 Warning--empty year in SmerteDanmark1
-You've used 101 entries,
+You've used 102 entries,
             2481 wiz_defined-function locations,
-            1307 strings with 29276 characters,
-and the built_in function-call counts, 41796 in all, are:
-= -- 3623
-> -- 2429
-< -- 46
-+ -- 941
-- -- 736
-* -- 3510
-:= -- 7005
-add.period$ -- 542
-call.type$ -- 101
-change.case$ -- 196
-chr.to.int$ -- 98
+            1310 strings with 29499 characters,
+and the built_in function-call counts, 41267 in all, are:
+= -- 3463
+> -- 2443
+< -- 48
++ -- 947
+- -- 740
+* -- 3521
+:= -- 6878
+add.period$ -- 454
+call.type$ -- 102
+change.case$ -- 198
+chr.to.int$ -- 99
 cite$ -- 141
-duplicate$ -- 1835
-empty$ -- 3459
-format.name$ -- 845
-if$ -- 8658
+duplicate$ -- 1849
+empty$ -- 3487
+format.name$ -- 851
+if$ -- 8535
 int.to.chr$ -- 4
-int.to.str$ -- 102
+int.to.str$ -- 103
 missing$ -- 94
-newline$ -- 752
-num.names$ -- 291
-pop$ -- 686
+newline$ -- 666
+num.names$ -- 297
+pop$ -- 764
 preamble$ -- 1
-purify$ -- 101
+purify$ -- 102
 quote$ -- 0
-skip$ -- 1063
+skip$ -- 1099
 stack$ -- 0
-substring$ -- 1542
-swap$ -- 224
+substring$ -- 1543
+swap$ -- 226
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 671
+type$ -- 678
 warning$ -- 36
-while$ -- 314
+while$ -- 318
 width$ -- 0
-write$ -- 1745
+write$ -- 1575
 (There were 36 warnings)

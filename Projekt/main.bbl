@@ -1,4 +1,4 @@
-\begin{thebibliography}{101}
+\begin{thebibliography}{102}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -17,7 +17,6 @@ Andrew~David Beswick, Vikki Wylde, Rachael Gooberman-Hill, Ashley Blom, and
 \newblock \doi{10.1186/s12891-015-0469-6}.
 \newblock URL
   \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3289991&tool=pmcentrez&rendertype=abstract}.
-\newblock Evidensniveau: 1.
 
 \bibitem[Brostr{\o}m(2012)]{brostrom2012}
 S{\o}ren Brostr{\o}m.
@@ -25,19 +24,16 @@ S{\o}ren Brostr{\o}m.
   visitationsretningslinjer}}.
 \newblock 2012.
 \newblock ISBN 978-87-7104-442-3.
-\newblock Evidensniveau: 7.
-
-\bibitem[Schroder(2012)]{schroder}
-Torben Schroder.
-\newblock \emph{{Basisbog i medicin og kirugi 5. udgave}}.
-\newblock 2012.
-\newblock Evidensniveau: 7.
 
 \bibitem[Flachs et~al.(2015)Flachs, Eriksen, and Koch]{sygdom}
 Esben~Maulengracht Flachs, Louise Eriksen, and Mette~Bjerrum Koch.
 \newblock {Sygdomsbyrden i danmark}.
 \newblock 2015.
-\newblock Evidensniveau: 7.
+
+\bibitem[Schroder(2012)]{schroder}
+Torben Schroder.
+\newblock \emph{{Basisbog i medicin og kirugi 5. udgave}}.
+\newblock 2012.
 
 \bibitem[Simonsen et~al.(2011)Simonsen, J{\o}rgensen, J{\o}rgensen, Brouw,
   Rasmussen, and Simonsen]{ugeskrift2011}
@@ -46,7 +42,6 @@ Anne~Birgitte Simonsen, Anette~Laursen J{\o}rgensen, Mogens~Berg J{\o}rgensen,
 \newblock {Klinisk, radiologisk og artroskopisk graduering af kn{\ae}artrose}.
 \newblock \emph{ugeskrift for l{\ae}ger}, 173:\penalty0 956--958, 2011.
 \newblock \doi{0041-5782}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Odgaard et~al.(2016)Odgaard, Emmeluth, Schr{\o}der, Kappel, Lamberg,
   Troelsen, Pedersen, and Knydesen]{aarsrapport2016}
@@ -54,21 +49,18 @@ Anders Odgaard, Claus Emmeluth, Henrik Schr{\o}der, Andreas Kappel, Anders
   Lamberg, Anders Troelsen, Alma Pedersen, and Sofia Knydesen.
 \newblock {Dansk Kn{\ae}alloplastikregister, Aarsrapport 2016}.
 \newblock 2016.
-\newblock Evidensniveau: 7.
 
 \bibitem[M{\o}ller(2001)]{Moeller2001}
 Finn~Bojsen M{\o}ller.
 \newblock \emph{{Bev{\ae}geapparatets anatomi}}.
 \newblock Gyldendal Akademisk, 12 edition, 2001.
 \newblock ISBN 9788762803077.
-\newblock Evidensniveau: 7.
 
 \bibitem[Lind(2016)]{Lind2016b}
 Martin Lind.
 \newblock {Artrose, Kn{\ae}}, 2016.
 \newblock URL
   \url{https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/artrose-knae/}.
-\newblock Evidensniveau: 7.
 
 \bibitem[ado()]{adobe}
 {Adobe Stock}.
@@ -85,7 +77,6 @@ Sundhedstyrelsen.
 \newblock {Sundhedstyrelsens/WHO's definition af Fedme}.
 \newblock URL
   \url{https://sundhedsstyrelsen.dk/publ/publ1999/fedme/Sektion1.htm}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Juhl et~al.(2014)Juhl, Christensen, Roos, Zhang, and
   Lund]{Syssorenskou}
@@ -97,7 +88,6 @@ C.~Juhl, R.~Christensen, E.~M. Roos, W.~Zhang, and H.~Lund.
   622--636, 2014.
 \newblock ISSN 23265205.
 \newblock \doi{10.1002/art.38290}.
-\newblock Evidensniveau: 1.
 
 \bibitem[Skou(2016)]{sorenskou}
 S{\o}ren~T. Skou.
@@ -107,7 +97,6 @@ S{\o}ren~T. Skou.
 \newblock URL
   \url{http://ugeskriftet.dk/videnskab/traening-som-smertestillende-medicin-ved-artrose-er-effektiv-og-uden-alvorlige
   http://ugeskriftet.dk/files/V68364_0.pdf}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Skou et~al.(2015)Skou, E.M., M.B., M.S., L., and O.]{newEngland}
 S{\o}ren~T. Skou, Roos E.M., Laursen M.B., Rathleff M.S., Arendt-Nielsen L.,
@@ -118,13 +107,11 @@ S{\o}ren~T. Skou, Roos E.M., Laursen M.B., Rathleff M.S., Arendt-Nielsen L.,
 \newblock ISSN 1533-4406.
 \newblock \doi{10.1056/NEJMoa1505467}.
 \newblock URL \url{http://www.nejm.org/doi/pdf/10.1056/NEJMoa1505467}.
-\newblock Evidensniveau: 2.
 
 \bibitem[ROBODOC{\textregistered}()]{robodoc2016}
 ROBODOC{\textregistered}.
 \newblock {Prosthetic Implants}.
 \newblock URL \url{http://www.robodoc.com/patient_about_faqs.html}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Sanna et~al.(2013)Sanna, Sanna, Caputo, Piu, and Salvi]{Sanna2013}
 Marco Sanna, Cristina Sanna, Francesco Caputo, Giuseppe Piu, and Massimiliano
@@ -135,13 +122,11 @@ Marco Sanna, Cristina Sanna, Francesco Caputo, Giuseppe Piu, and Massimiliano
 \newblock \doi{10.11138/jts/2013.1.2.034}.
 \newblock URL
   \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=4295696&tool=pmcentrez&rendertype=abstract}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Clinic()]{tka-technique}
 The~Stone Clinic.
 \newblock {Total knee replacement surgical technique}.
 \newblock URL \url{http://www.stoneclinic.com/tkrillustration}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Bourne et~al.(2010)Bourne, Chesworth, Davis, Mahomed, and
   Charron]{Bourne2010}
@@ -153,7 +138,6 @@ Robert~B. Bourne, Bert~M. Chesworth, Aileen~M. Davis, Nizar~N. Mahomed, and
   (1):\penalty0 57--63, 2010.
 \newblock ISSN 0009921X.
 \newblock \doi{10.1007/s11999-009-1119-9}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Lewis et~al.(2015)Lewis, Rice, McNair, and Kluger]{Lewis2015}
 G.~N. Lewis, D.~A. Rice, P.~J. McNair, and M.~Kluger.
@@ -163,7 +147,6 @@ G.~N. Lewis, D.~A. Rice, P.~J. McNair, and M.~Kluger.
   551--561, 2015.
 \newblock ISSN 14716771.
 \newblock \doi{10.1093/bja/aeu441}.
-\newblock Evidensniveau: 1.
 
 \bibitem[Petersen et~al.(2015)Petersen, Arendt-Nielsen, Simonsen, Wilder-Smith,
   and Laursen]{Petersen2015}
@@ -175,7 +158,6 @@ Kristian~Kj{\ae}r Petersen, Lars Arendt-Nielsen, Ole Simonsen, Oliver
 \newblock \emph{Pain}, 156\penalty0 (1):\penalty0 55--61, 2015.
 \newblock ISSN 18726623.
 \newblock \doi{10.1016/j.pain.0000000000000022}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Sakellariou et~al.(2016)Sakellariou, Poultsides, Ma, Bae, Liu, and
   Sculco]{Sakellariou2016}
@@ -186,7 +168,6 @@ V~I Sakellariou, L~A Poultsides, Y~Ma, J~Bae, S~Liu, and T~P Sculco.
 \newblock ISSN 0147-7447.
 \newblock \doi{10.3928/01477447-20151228-06}.
 \newblock URL \url{<Go to ISI>://WOS:000377409200010}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Jacobs et~al.(2014)Jacobs, Christensen, and Karthikeyan]{Jacobs2014}
 Cale~A. Jacobs, Christian~P. Christensen, and Tharun Karthikeyan.
@@ -197,14 +178,12 @@ Cale~A. Jacobs, Christian~P. Christensen, and Tharun Karthikeyan.
 \newblock ISSN 15328406.
 \newblock \doi{10.1016/j.arth.2014.03.022}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.arth.2014.01.008}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Carmon(1994)]{Carmon}
 Amiram Carmon.
 \newblock \emph{{Classification of chronic pain}}.
 \newblock 1994.
 \newblock ISBN 0931092051.
-\newblock Evidensniveau: 7.
 
 \bibitem[{Martini FH, Nath JL}(2012)]{Martini2012}
 Bartholomwe~EF {Martini FH, Nath JL}.
@@ -212,7 +191,6 @@ Bartholomwe~EF {Martini FH, Nath JL}.
 \newblock Pearson, 9th edition, 2012.
 \newblock ISBN 9780321709332.
 \newblock \doi{10.1017/CBO9781107415324.004}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Dahl et~al.(2013)Dahl, Arendt-Nielsen, and {Staehelin
   Jensen}]{smerter}
@@ -220,7 +198,6 @@ J{\o}rgen~B. Dahl, Lars Arendt-Nielsen, and Troels {Staehelin Jensen}.
 \newblock \emph{{Smerter (Baggrund, Evidens, Behandling)}}.
 \newblock FADL's Forlag A/S, 3. udgave edition, 2013.
 \newblock ISBN 9788777497032.
-\newblock Evidensniveau: 7.
 
 \bibitem[Giangregorio et~al.(1997)Giangregorio, Papaioannou, Cranney, Zytaruk,
   and Adachi]{Giangregorio1997}
@@ -231,7 +208,6 @@ L.~Giangregorio, A.~Papaioannou, A.~Cranney, N.~Zytaruk, and J.~D. Adachi.
   (1):\penalty0 293--305, 1997.
 \newblock ISSN 00490172.
 \newblock \doi{10.1016/j.semarthrit.2005.11.001}.
-\newblock Evidensniveau: 1.
 
 \bibitem[Petersen et~al.(2016)Petersen, Graven-Nielsen, Simonsen, Laursen, and
   Arendt-Nielsen]{Petersen2016}
@@ -245,7 +221,6 @@ Kristian~Kj{\ae}r Petersen, Thomas Graven-Nielsen, Ole Simonsen, Mogens~Berg
 \newblock \doi{10.1097/j.pain.0000000000000531}.
 \newblock URL
   \url{http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=00006396-900000000-99581}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Thakur et~al.(2014)Thakur, Dickenson, and Baron]{nature}
 Matthew Thakur, Anthony~H Dickenson, and Ralf Baron.
@@ -255,7 +230,6 @@ Matthew Thakur, Anthony~H Dickenson, and Ralf Baron.
 \newblock ISSN 1759-4804.
 \newblock \doi{10.1038/nrrheum.2014.47}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/24686507}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Graven-Nielsen and Arendt-Nielsen(2010)]{Graven-Nielsen2010}
 Thomas Graven-Nielsen and Lars Arendt-Nielsen.
@@ -266,7 +240,6 @@ Thomas Graven-Nielsen and Lars Arendt-Nielsen.
 \newblock ISSN 1759-4790.
 \newblock \doi{10.1038/nrrheum.2010.107}.
 \newblock URL \url{http://dx.doi.org/10.1038/nrrheum.2010.107}.
-\newblock Evidensniveau: 1.
 
 \bibitem[Arendt-Nielsen et~al.(2010)Arendt-Nielsen, Nie, Laursen, Laursen,
   Madeleine, Simonsen, and Graven-Nielsen]{Arendt-Nielsen2010}
@@ -277,7 +250,6 @@ Lars Arendt-Nielsen, Hongling Nie, Mogens~B. Laursen, Birgitte~S. Laursen,
 \newblock ISSN 03043959.
 \newblock \doi{10.1016/j.pain.2010.04.003}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.pain.2010.04.003}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Graven-Nielsen et~al.(2012)Graven-Nielsen, Wodehouse, Langford,
   Arendt-Nielsen, and Kidd]{graven2012}
@@ -290,7 +262,6 @@ T.~Graven-Nielsen, T.~Wodehouse, R.~M. Langford, L.~Arendt-Nielsen, and B.~L.
   2907--2916, 2012.
 \newblock ISSN 00043591.
 \newblock \doi{10.1002/art.34466}.
-\newblock Evidensniveau: 3.
 
 \bibitem[{Gonzalez S{\'{a}}enz de Tejada} et~al.(2010){Gonzalez S{\'{a}}enz de
   Tejada}, Escobar, Herrera, Garc{\'{i}}a, Aizpuru, and Saraqueta]{tejada2010}
@@ -301,7 +272,6 @@ Marta {Gonzalez S{\'{a}}enz de Tejada}, Antonio Escobar, Carmen Herrera, Lidia
 \newblock ISSN 1369-7625.
 \newblock \doi{10.1111/j.1524-4733.2009.00685.x}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20088892}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Skou et~al.(2016)Skou, Roos, Laursen, Rathleff, Arendt-Nielsen,
   Simonsen, and Rasmussen]{skou2016}
@@ -313,7 +283,6 @@ S{\o}ren~T. Skou, Ewa~M. Roos, Mogens~B. Laursen, Michael~S. Rathleff, Lars
 \newblock ISSN 18735800.
 \newblock \doi{10.1016/j.knee.2015.08.012}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.knee.2015.08.012}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Borkhoff et~al.(2008)Borkhoff, Hawker, Kreder, Glazier, Mahomed, and
   Wright]{borkhoff2008}
@@ -324,7 +293,6 @@ Cornelia~M. Borkhoff, Gillian~A. Hawker, Hans~J. Kreder, Richard~H. Glazier,
 \newblock \emph{Cmaj}, 178\penalty0 (6):\penalty0 681--687, 2008.
 \newblock ISSN 08203946.
 \newblock \doi{10.1503/cmaj.071168}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Wright et~al.(1995)Wright, Coyte, Hawker, Bombardier, Cooke, Heck,
   Dittus, and Freund]{wright1995}
@@ -334,7 +302,6 @@ J.~G. Wright, P.~Coyte, G.~Hawker, C.~Bombardier, D.~Cooke, D.~Heck, R.~Dittus,
   and outcomes of knee replacement}.
 \newblock \emph{Cmaj}, 152\penalty0 (5):\penalty0 687--697, 1995.
 \newblock ISSN 08203946.
-\newblock Evidensniveau: 2.
 
 \bibitem[Dy et~al.(2014)Dy, Lyman, Boutin-Foster, Felix, Kang, and
   Parks]{dy2014}
@@ -345,20 +312,17 @@ Christopher~J. Dy, Stephen Lyman, Carla Boutin-Foster, Karla Felix, Yoon Kang,
   (2):\penalty0 410--417, 2014.
 \newblock ISSN 15281132.
 \newblock \doi{10.1007/s11999-014-4003-1}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Walz(2009)]{Wals2009}
 Wolfgang Walz.
 \newblock \emph{{fMRI techniques and protocols, Chapter 1}}.
 \newblock 2009.
 \newblock ISBN 9781603279185.
-\newblock Evidensniveau: 7.
 
 \bibitem[Glover(2014)]{Glover2014}
 Laice Glover.
 \newblock {Why Does an MRI Cost So Darn Much?}, 2014.
 \newblock URL \url{http://time.com/money/2995166/why-does-mri-cost-so-much/}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Parks et~al.(2012)Parks, Geha, Baliki, Katz, Schnitzer, and
   Apkarian]{Parks2012}
@@ -367,7 +331,6 @@ Elle~L Parks, Paul~Y Geha, Marwan~N Baliki, Jeffrey Katz, Thomas~J Schnitzer,
 \newblock {NIH Public Access}.
 \newblock 15\penalty0 (8):\penalty0 1--18, 2012.
 \newblock \doi{10.1016/j.ejpain.2010.12.007.Brain}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Hiramatsu et~al.(2014)Hiramatsu, Nakanishi, Yoshimura, Yoshino,
   Adachi, Okamoto, Yamawaki, and Ochi]{Hiramatsu2014}
@@ -379,7 +342,6 @@ Takeshi Hiramatsu, Kazuyoshi Nakanishi, Shinpei Yoshimura, Atsuo Yoshino, Nobuo
 \newblock ISSN 18727972.
 \newblock \doi{10.1016/j.neulet.2014.08.027}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.neulet.2014.08.027}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Bennett et~al.(2011)Bennett, Baird, Miller, and Wolford]{Bennet2011}
 Craig~M Bennett, Abigail~A Baird, Michael~B Miller, and George~L Wolford.
@@ -391,7 +353,6 @@ Craig~M Bennett, Abigail~A Baird, Michael~B Miller, and George~L Wolford.
 \newblock ISSN 1757-790X.
 \newblock \doi{10.1136/bcr.07.2008.0593}.
 \newblock URL \url{http://www.jsur.org/v1n1p1}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Yarnitsky and Granot(2006)]{Yarnitsky2006}
 David Yarnitsky and Michal Granot.
@@ -401,7 +362,6 @@ David Yarnitsky and Michal Granot.
 \newblock ISBN 978-0-444-51901-6.
 \newblock \doi{10.1016/S0072-9752(06)80031-X}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18808849}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Rolke et~al.(2006{\natexlab{a}})Rolke, Baron, Maier, T{\"{o}}lle,
   Treede, Beyer, Binder, Birbaumer, Birklein, B{\"{o}}tef{\"{u}}r, Braune,
@@ -417,7 +377,6 @@ R.~Rolke, R.~Baron, C.~Maier, T.~R. T{\"{o}}lle, R.~D. Treede, A.~Beyer,
 \newblock \emph{Pain}, 123\penalty0 (3):\penalty0 231--243, 2006{\natexlab{a}}.
 \newblock ISSN 03043959.
 \newblock \doi{10.1016/j.pain.2006.01.041}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Suokas et~al.(2012)Suokas, Walsh, McWilliams, Condon, Moreton, Wylde,
   Arendt-Nielsen, and Zhang]{Suokas2012}
@@ -430,7 +389,6 @@ A.~K. Suokas, D.~A. Walsh, D.~F. McWilliams, L.~Condon, B.~Moreton, V.~Wylde,
 \newblock ISSN 10634584.
 \newblock \doi{10.1016/j.joca.2012.06.009}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.joca.2012.06.009}.
-\newblock Evidensniveau: 1.
 
 \bibitem[Martinez et~al.(2007)Martinez, Fletcher, Bouhassira, Sessler, and
   Chauvin]{Martinez2007}
@@ -443,7 +401,6 @@ Val{\'{e}}ria Martinez, Dominique Fletcher, Didier Bouhassira, Daniel~I.
   2007.
 \newblock ISSN 00032999.
 \newblock \doi{10.1213/01.ane.0000278091.29062.63}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Arendt-Nielsen et~al.(2015{\natexlab{a}})Arendt-Nielsen, Egsgaard,
   Petersen, Eskehave, {Graven- Nielsen}, Hoeck, and
@@ -456,20 +413,17 @@ L.~Arendt-Nielsen, L.~L. Egsgaard, K.~K. Petersen, T.~N. Eskehave, T.~{Graven-
   (10):\penalty0 1406--1417, 2015{\natexlab{a}}.
 \newblock ISSN 15322149.
 \newblock \doi{10.1002/ejp.651}.
-\newblock Evidensniveau: 4.
 
 \bibitem[Biosemi(2016)]{Biosemi2016}
 Biosemi.
 \newblock {How much does a BioSemi biopotential measurement system cost?},
   2016.
 \newblock URL \url{http://www.biosemi.com/faq/prices.htm}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Robinson and Snyder-Mackler(2008)]{Robinson2008}
 Andrew~J. Robinson and Lynn Snyder-Mackler.
 \newblock \emph{{Clinical Electrophysiology}}.
 \newblock 2008.
-\newblock Evidensniveau: 7.
 
 \bibitem[Brown et~al.(2013)Brown, El-Deredy, and Jones]{Brown2013}
 Christopher~A. Brown, Wael El-Deredy, and Anthony K.~P. Jones.
@@ -477,21 +431,18 @@ Christopher~A. Brown, Wael El-Deredy, and Anthony K.~P. Jones.
   anticipation are related to clinical pain and distress in fibromyalgia and
   osteoarthritis}.
 \newblock \emph{European Journal of Neuroscience}, 2013.
-\newblock Evidensniveau: 3.
 
 \bibitem[Gigtforeningen(2016)]{Gigtforeningen2016}
 Gigtforeningen.
 \newblock {Fibromyalgi – {\aa}rsager, symptomer og behandling}, 2016.
 \newblock URL
   \url{https://www.gigtforeningen.dk/viden-om-gigt/diagnoser/fibromyalgi/}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Ja et~al.(2016)Ja, Union, and Programme]{HTAcore}
 The~Eunethta Ja, European Union, and Health Programme.
 \newblock {EUnetHTA Joint Action 2, Work Package 8. HTA Core Model
   {\textregistered} version 3.0 (Pdf)}.
 \newblock 3.0:\penalty0 410, 2016.
-\newblock Evidensniveau: 7.
 
 \bibitem[enhed for~medicinsk teknologivurdering(2007)]{metodehaandbogen}
 Sundhedsstyrelsens enhed for~medicinsk teknologivurdering.
@@ -499,39 +450,41 @@ Sundhedsstyrelsens enhed for~medicinsk teknologivurdering.
 \newblock Sundhedsstyrelsen, K{\o}benhavn, 2007.
 \newblock ISBN 9788776766207.
 \newblock URL \url{http://www.sst.dk/mtv}.
-\newblock Evidensniveau: 7.
+
+\bibitem[Retsinformation()]{EtiskLov}
+Retsinformation.
+\newblock {Bekendtg{\o}relse om information og samtykke til deltagelse i
+  sundhedsvidenskabelige forskningsprojekter samt om anmeldelse af og tilsyn
+  med sundhedsvidenskabelige forskningsprojekter}.
+\newblock URL \url{https://www.retsinformation.dk/Forms/R0710.aspx?id=181908}.
 
 \bibitem[Redaktionen(2009)]{denstoredanske2009}
 Redaktionen.
 \newblock {Metaanalyse}, 2009.
 \newblock URL
   \url{http://denstoredanske.dk/Krop,_psyke_og_sundhed/Sundhedsvidenskab/Sundhedsvidenskabelig_forskning/metaanalyse}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Engelbrecht(2009)]{denstoredanske2009a}
 Nils Engelbrecht.
 \newblock kontrolleret klinisk unders{\o}gelse, 2009.
 \newblock URL
   \url{http://denstoredanske.dk/Krop,_psyke_og_sundhed/Sundhedsvidenskab/Sundhedsvidenskabelig_forskning/kontrolleret_klinisk_unders%C3%B8gelse}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Redaktionen(2012)]{denstoredanske2012}
 Redaktionen.
 \newblock {Case-kontrol-unders{\o}gelse}, 2012.
 \newblock URL
   \url{http://denstoredanske.dk/Krop,_psyke_og_sundhed/Sundhedsvidenskab/Samfundsmedicin/case-kontrol-unders%C3%B8gelse}.
-\newblock Evidensniveau: 7.
 
-\bibitem[()]{}
-{Stationaere DRGtakster 2016}.
-\newblock Evidensniveau: 7.
+\bibitem[StoreNorskeLeksikon(2014)]{Deskriptiv2014}
+StoreNorskeLeksikon.
+\newblock {Deskriptiv}, 2014.
 
 \bibitem[Yarnitsky(1997)]{Yarnitsky1997}
 David Yarnitsky.
 \newblock {Quantitative Sensory Testing}.
 \newblock \emph{Muscle \& Nerve}, 20\penalty0 (2):\penalty0 198--204, 1997.
 \newblock \doi{10.1002/(SICI)1097-4598(199702)20:2<198::AID-MUS10>3.0.CO;2-#}.
-\newblock Evidensniveau: 7.
 
 \bibitem[M{\"{u}}cke et~al.(2016)M{\"{u}}cke, Cuhls, Radbruch, Baron, Maier,
   T{\"{o}}lle, Treede, and Rolke]{Mucke2016}
@@ -541,7 +494,6 @@ M.~M{\"{u}}cke, H.~Cuhls, L.~Radbruch, R.~Baron, C.~Maier, T.~T{\"{o}}lle,
 \newblock \emph{Schmerz}, pages 1--8, 2016.
 \newblock ISSN 14322129.
 \newblock \doi{10.1007/s00482-015-0093-2}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Arendt-Nielsen and Yarnitsky(2009)]{Arendt-Nielsen2009}
 Lars Arendt-Nielsen and David Yarnitsky.
@@ -551,7 +503,6 @@ Lars Arendt-Nielsen and David Yarnitsky.
 \newblock ISSN 15265900.
 \newblock \doi{10.1016/j.jpain.2009.02.002}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.jpain.2009.02.002}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Wylde et~al.(2013)Wylde, Palmer, Learmonth, and Dieppe]{Wylde2013}
 V.~Wylde, S.~Palmer, I.~D. Learmonth, and P.~Dieppe.
@@ -562,7 +513,6 @@ V.~Wylde, S.~Palmer, I.~D. Learmonth, and P.~Dieppe.
 \newblock ISSN 10634584.
 \newblock \doi{10.1016/j.joca.2013.05.008}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.joca.2013.05.008}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Cornelius et~al.(2015)Cornelius, Walker, Pejsa, Hand, Campbell,
   Haythornthwaite, Khanuja, Sterling, Smith, and Edwards]{Cornelius2015}
@@ -575,7 +525,6 @@ M~Cornelius, J~Walker, M~Pejsa, M~Hand, C~Campbell, J~Haythornthwaite,
 \newblock \doi{10.1016/j.jpain.2015.01.116}.
 \newblock URL \url{Available from Elsevier in
   http://linker.worldcat.org/?rft.institution_id=129788&spage=S26&pkgName=ckjournalathens&issn=1526-5900&linkclass=to_article&jKey=15265900&issue=4+SUPPL.+1&provider=elsevier&date=2015-04&aulast=Cornelius+M.&atitle=Pre-surgical+Qu}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Mj{\"{o}}bo et~al.(2009)Mj{\"{o}}bo, Rudin, Nielsen, and
   Werner]{Nielsen2009}
@@ -586,7 +535,6 @@ H~N Mj{\"{o}}bo, A.~Rudin, P~R Nielsen, and M~U Werner.
 \newblock ISSN 1530-7085.
 \newblock URL
   \url{http://www.embase.com/search/results?subaction=viewrecord&from=export&id=L70207406}.
-\newblock Evidensniveau: 1.
 
 \bibitem[Arendt-Nielsen et~al.(2015{\natexlab{b}})Arendt-Nielsen, Skou,
   Nielsen, and Petersen]{Arendt-Nielsen2015b}
@@ -598,7 +546,6 @@ Lars Arendt-Nielsen, S{\o}ren~T. Skou, Thomas~A. Nielsen, and Kristian~K.
   225--234, 2015{\natexlab{b}}.
 \newblock ISSN 15442241.
 \newblock \doi{10.1007/s11914-015-0276-x}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Wylde et~al.(2015)Wylde, Sayers, Lenguerrand, Gooberman-Hill, Pyke,
   Beswick, Dieppe, and Blom]{Wylde2015b}
@@ -611,7 +558,6 @@ Vikki Wylde, Adrian Sayers, Erik Lenguerrand, Rachael Gooberman-Hill, Mark
 \newblock \doi{10.1016/j.pain.0000000000000002}.
 \newblock URL
   \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=4280282&tool=pmcentrez&rendertype=abstract}.
-\newblock Evidensniveau: 4.
 
 \bibitem[Wylde et~al.(2016)Wylde, Sayers, Odutola, Gooberman-Hill, Dieppe, and
   Blom]{Wylde2016c}
@@ -622,7 +568,6 @@ V.~Wylde, A.~Sayers, A.~Odutola, R.~Gooberman-Hill, P.~Dieppe, and A.W. Blom.
 \newblock ISSN 10903801.
 \newblock \doi{10.1002/ejp.929}.
 \newblock URL \url{http://doi.wiley.com/10.1002/ejp.929}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Imai et~al.(2016)Imai, Petersen, M{\o}rch, and {Arendt
   Nielsen}]{Imai2016}
@@ -636,7 +581,6 @@ Y.~Imai, K.~K. Petersen, C.~D. M{\o}rch, and L.~{Arendt Nielsen}.
 \newblock \doi{10.1080/08990220.2016.1229178}.
 \newblock URL
   \url{https://www.tandfonline.com/doi/full/10.1080/08990220.2016.1229178}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Reynolds et~al.(2016)Reynolds, Dmochowski, Wein, and
   Bruehl]{Reynolds2016}
@@ -648,7 +592,6 @@ W.~Stuart Reynolds, Roger Dmochowski, Alan Wein, and Stephen Bruehl.
 \newblock ISSN 1759-4812.
 \newblock \doi{10.1038/nrurol.2016.95}.
 \newblock URL \url{http://www.nature.com/doifinder/10.1038/nrurol.2016.95}.
-\newblock Evidensniveau: 1.
 
 \bibitem[Porta(2008)]{Porta2008}
 Miquel Porta.
@@ -656,7 +599,6 @@ Miquel Porta.
 \newblock Oxford University Press, 5 edition, 2008.
 \newblock URL
   \url{http://www.oxfordreference.com/view/10.1093/acref/9780195314496.001.0001/acref-9780195314496-e-212}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Troelsen et~al.(2012)Troelsen, Schr{\o}der, and Husted]{Troelsen2012}
 Anders Troelsen, Henrik Schr{\o}der, and Henrik Husted.
@@ -665,20 +607,17 @@ Anders Troelsen, Henrik Schr{\o}der, and Henrik Husted.
 \newblock \emph{Danish Medical Journal}, 59\penalty0 (8), 2012.
 \newblock ISSN 22451919.
 \newblock \doi{A4490 [pii]}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Gr{\o}nmo(2012)]{Gronmo2012}
 S.~Gr{\o}nmo.
 \newblock {Kvalitative og kvantitative metoder I}.
 \newblock \penalty0 (1):\penalty0 85--91, 2012.
-\newblock Evidensniveau: 7.
 
 \bibitem[Zar(2010)]{Zar2010}
 Jerrold~H. Zar.
 \newblock \emph{{Biostatistical Analysis}}.
 \newblock Pearson Prentice Hall, fifth edit edition, 2010.
 \newblock ISBN 978-0-13-100846-5.
-\newblock Evidensniveau: 7.
 
 \bibitem[Wright et~al.(2015)Wright, Moss, Sloan, Beaver, Pedersen, Vehof,
   Borge, Maestroni, and Cheong]{Wright2015}
@@ -690,7 +629,6 @@ Anthony Wright, Penny Moss, Karen Sloan, Richard~J. Beaver, Jarle~B. Pedersen,
   (1):\penalty0 246--254, 2015.
 \newblock ISSN 15281132.
 \newblock \doi{10.1007/s11999-014-3990-2}.
-\newblock Evidensniveau: 2.
 
 \bibitem[O'Leary et~al.(2016)O'Leary, Smart, Moloney, and Doody]{Leary2016}
 Helen O'Leary, Keith~M Smart, Niamh~A Moloney, and Catherine~M Doody.
@@ -699,7 +637,6 @@ Helen O'Leary, Keith~M Smart, Niamh~A Moloney, and Catherine~M Doody.
 \newblock \emph{Pain Practice}, \penalty0 (August), 2016.
 \newblock ISSN 1533-2500.
 \newblock \doi{10.1111/papr.12484}.
-\newblock Evidensniveau: 1.
 
 \bibitem[Mukaka(2012)]{Mukaka2012}
 M.~M. Mukaka.
@@ -709,7 +646,6 @@ M.~M. Mukaka.
   2012.
 \newblock ISSN 19957262.
 \newblock \doi{10.1016/j.cmpb.2016.01.020}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Lalkhen and McCluskey(2008)]{Lalkhen2008}
 Abdul~Ghaaliq Lalkhen and Anthony McCluskey.
@@ -718,7 +654,6 @@ Abdul~Ghaaliq Lalkhen and Anthony McCluskey.
   8\penalty0 (6):\penalty0 221--223, 2008.
 \newblock ISSN 17431816.
 \newblock \doi{10.1093/bjaceaccp/mkn041}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Vaegter and Graven-Nielsen(2016)]{Vaegter2016}
 H~B Vaegter and T~Graven-Nielsen.
@@ -728,7 +663,6 @@ H~B Vaegter and T~Graven-Nielsen.
 \newblock ISSN 0304-3959.
 \newblock \doi{10.1097/j.pain.0000000000000543}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/26963852}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Graven-Nielsen et~al.(2015)Graven-Nielsen, Vaegter, Finocchietti,
   Handberg, and Arendt-Nielsen]{Nielsen2015}
@@ -739,7 +673,6 @@ Thomas Graven-Nielsen, Henrik~Bjarke Vaegter, Sara Finocchietti, Gitte
 \newblock \emph{Pain}, 156\penalty0 (11):\penalty0 2193--2202, 2015.
 \newblock ISSN 1872-6623 (Electronic).
 \newblock \doi{10.1097/j.pain.0000000000000294}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Kennedy et~al.(2016)Kennedy, Kemp, Ridout, Yarnitsky, and
   Rice]{Kennedy2016}
@@ -751,7 +684,6 @@ Donna~L. Kennedy, Harriet~I. Kemp, Deborah Ridout, David Yarnitsky, and
 \newblock \doi{10.1097/j.pain.0000000000000689}.
 \newblock URL
   \url{http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=00006396-900000000-99437}.
-\newblock Evidensniveau: 1.
 
 \bibitem[DST()]{DST1}
 {DST.dk}.
@@ -776,20 +708,17 @@ Medoc.
 Sundhedstyrrelsen Afdeling~for sundhedsdokumentation.
 \newblock {Takstsystem Vejledning}.
 \newblock 18.12.2016.
-\newblock Evidensniveau: 7.
 
 \bibitem[{Region Nordjylland}(2016)]{RnBudget17}
 {Region Nordjylland}.
 \newblock {Budgetaftale 2017 -}.
 \newblock 2016.
-\newblock Evidensniveau: 7.
 
 \bibitem[{Hedevang Christensen}(2015)]{pritka2015}
 Poul {Hedevang Christensen}.
 \newblock {Total kn{\ae}alloplastik (TKA) - Patientforl{\o}bsbeskrivelse
   Definition af begreber Beskrivelse Indholdsfortegnelse :}.
 \newblock 2015.
-\newblock Evidensniveau: 7.
 
 \bibitem[Association;(2013)]{helsinki2013}
 World~Medical Association;.
@@ -799,7 +728,6 @@ World~Medical Association;.
   \penalty0 (June 1964):\penalty0 1--8, 2013.
 \newblock ISSN 0019-5847.
 \newblock URL \url{http://www.wma.net/es/30publications/10policies/b3/}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Sundhedsstyrelsen(2016)]{nkr2016}
 Sundhedsstyrelsen.
@@ -807,7 +735,6 @@ Sundhedsstyrelsen.
 \newblock pages 1--2, 2016.
 \newblock URL
   \url{https://sundhedsstyrelsen.dk/da/sundhed/kvalitet-og-retningslinjer/$\sim$/media/382DCD3C38B54200823EB20DFF6DBD0D.ashx}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Sundhedsstyrelsen(2012)]{kommissorium2012}
 Sundhedsstyrelsen.
@@ -815,7 +742,6 @@ Sundhedsstyrelsen.
 \newblock \penalty0 (4):\penalty0 1--4, 2012.
 \newblock URL
   \url{https://sundhedsstyrelsen.dk/da/sundhed/kvalitet-og-retningslinjer/$\sim$/media/EA5CFD60216C4DAA9102C21DF6C121D1.ashx}.
-\newblock Evidensniveau: 7.
 
 \bibitem[{N{\'{i}} Annaidh} et~al.(2012){N{\'{i}} Annaidh}, Bruy{\`{e}}re,
   Destrade, Gilchrist, and Ott{\'{e}}nio]{aisling2012}
@@ -828,7 +754,6 @@ Aisling {N{\'{i}} Annaidh}, Karine Bruy{\`{e}}re, Michel Destrade, Michael~D.
 \newblock ISSN 17516161.
 \newblock \doi{10.1016/j.jmbbm.2011.08.016}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.jmbbm.2011.08.016}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Jussila et~al.(2005)Jussila, Lepp{\"{a}}niemi, Paronen, and
   Kulom{\"{a}}ki]{jussila2005}
@@ -838,7 +763,6 @@ Jorma Jussila, Ari Lepp{\"{a}}niemi, Mikael Paronen, and Erkki Kulom{\"{a}}ki.
   63--71, 2005.
 \newblock ISSN 03790738.
 \newblock \doi{10.1016/j.forsciint.2004.06.039}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Sanders et~al.(1995)Sanders, Goldstein, and Leotta]{sanders1995}
 J~E Sanders, B~S Goldstein, and D~F Leotta.
@@ -848,7 +772,6 @@ J~E Sanders, B~S Goldstein, and D~F Leotta.
   32\penalty0 (3):\penalty0 214--26, oct 1995.
 \newblock ISSN 0748-7711.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/8592293}.
-\newblock Evidensniveau: 1.
 
 \bibitem[Rolke et~al.(2006{\natexlab{b}})Rolke, Magerl, Campbell, Schalber,
   Caspari, Birklein, and Treede]{Rolke2006b}
@@ -860,7 +783,6 @@ R.~Rolke, W.~Magerl, K.~Andrews Campbell, C.~Schalber, S.~Caspari, F.~Birklein,
   2006{\natexlab{b}}.
 \newblock ISSN 10903801.
 \newblock \doi{10.1016/j.ejpain.2005.02.003}.
-\newblock Evidensniveau: 3.
 
 \bibitem[Graven-Nielsen et~al.(2016)Graven-Nielsen, Izumi, Petersen, and
   Arendt-Nielsen]{denheltnye2016}
@@ -870,7 +792,6 @@ T.~Graven-Nielsen, M.~Izumi, K.~K. Petersen, and L.~Arendt-Nielsen.
 \newblock \emph{EJP}, pages 1--10, 2016.
 \newblock ISSN 10903801.
 \newblock \doi{10.1002/ejp.958}.
-\newblock Evidensniveau: 3.
 
 \bibitem[PJ et~al.(1998)PJ, WR, H, M, J, M, JC, GA, and PC]{Dyck1998}
 Dyck PJ, Kennedy WR, Kesserwani H, Melanson M, Ochoa J, Shy M, Stevens JC,
@@ -879,7 +800,6 @@ Dyck PJ, Kennedy WR, Kesserwani H, Melanson M, Ochoa J, Shy M, Stevens JC,
   toward a bad outcome}.
 \newblock \emph{Neurology}, 50\penalty0 (5), 1998.
 \newblock \doi{10.1212/WNL.50.5.1213}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Kraemer et~al.(2011)Kraemer, van Overveld, and Peterson]{Kraemer2011}
 Felicitas Kraemer, Kees van Overveld, and Martin Peterson.
@@ -888,14 +808,12 @@ Felicitas Kraemer, Kees van Overveld, and Martin Peterson.
   251--260, 2011.
 \newblock ISSN 13881957.
 \newblock \doi{10.1007/s10676-010-9233-7}.
-\newblock Evidensniveau: 7.
 
 \bibitem[Peterson(2016)]{Peterson2007}
 M~Peterson.
 \newblock {Should the Precautionary Principle Guide Our Actions or Our
   Beliefs?}
 \newblock 26\penalty0 (6):\penalty0 427--431, 2016.
-\newblock Evidensniveau: 7.
 
 \bibitem[SmerteDanmark({\natexlab{a}})]{SmerteDanmark}
 SmerteDanmark.
@@ -918,7 +836,6 @@ Asokumar Buvanendran, Jeffrey~S. Kroin, Craig~J. {Della Valle}, Maruti Kari,
   2010.
 \newblock ISSN 00032999.
 \newblock \doi{10.1213/ANE.0b013e3181c4273a}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Blikman et~al.(2016)Blikman, Rienstra, van Raaij, {Ten Hagen},
   Dijkstra, Zijlstra, Bulstra, van~den Akker-Scheek, and Stevens]{Blikman2016}
@@ -931,7 +848,6 @@ T~Blikman, W~Rienstra, T~M van Raaij, A~J {Ten Hagen}, B~Dijkstra, W~P
 \newblock \emph{BMJ open}, 6\penalty0 (3):\penalty0 e010343, 2016.
 \newblock ISSN 2044-6055 (Electronic).
 \newblock \doi{10.1136/bmjopen-2015-010343}.
-\newblock Evidensniveau: 2.
 
 \bibitem[Wilder-Smith et~al.(2010)Wilder-Smith, Schreyer, Scheffer, and
   Arendt-Nielsen]{Wilder-Smith2010}
