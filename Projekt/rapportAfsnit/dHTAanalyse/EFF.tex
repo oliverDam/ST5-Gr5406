@@ -32,7 +32,7 @@ R-værdien er et enhedsløst tal i intervallet -1 til 1. Sammenhængen mellem to
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=.4\textwidth]{figures/dHTAanalyse/r_vaerdi}
+\includegraphics[width=.35\textwidth]{figures/dHTAanalyse/r_vaerdi}
 \caption{Figuren illustrerer forskellige muligheder for korrelation mellem to datasæt. For disse grafer er Y det afhængige datasæt, mens X er uafhængig. Graf (a) illustrerer en positiv korrelation mellem X og Y, hvormed R-værdien er lig 1. På graf (b) vises negativ korrelation mellem X og Y, med en R-værdi på -1. For graf (c) og (d) er R-værdien 0, og der er dermed ingen korrelation mellem X og Y. \citep{Zar2010}} \label{fig:r_vaerdi}
 \end{figure}\vspace{-.25cm}
 
@@ -49,7 +49,7 @@ R-værdi {[}numerisk{]} & Betydning  \\ \hline
 0,3 til 0,49            & Lav korrelation                    \\
 0 til 0,29              & Ingen korrelation                  \\ \hline
 \end{tabular}
-\caption{Tabellen viser styrken af forskellige R-værdier. R-værdierne er angivet som numeriske værdier, hvormed styrken af værdierne gælder for både positive og negative korrelationer. \textit{Tabellen er modificereret fra \citer{Mukaka2012}}}
+\caption{Tabellen viser styrken af forskellige R-værdier. R-værdierne er angivet som numeriske værdier, hvormed styrken af værdierne gælder for både positive og negative korrelationer. Modificereret fra \citer{Mukaka2012}.}
 \label{tab:styrke_r}
 \end{table} \vspace{-.25cm}
 
@@ -73,8 +73,7 @@ Resultater fra en undersøgelse kan opdeles i fire kategorier; sand positiv (SP)
 %\label{tab:pos_neg}
 %\end{table}
 
-Undersøgelser kan vise både falsk positive og falsk negative resultater. Disse falske resultater er problematiske, idet resultaterne betyder, at patienten kan få den forkerte behandling \citep{Lalkhen2008}. For knæartrosepatienter kan falsk positive resultater betyde, at patienten ikke vil blive tilbudt en TKA-operation, selvom denne ikke har central sensibilisering. Ligeledes kan falsk negative resultater betyde, at en patient med central sensibilisering vil få en TKA-operation, hvorefter denne patient har betydeligt større risiko for at udvikle kroniske smerter end andre patienter. En undersøgelses sensitivitet og specificitet kan anvendes til at undersøge risikoen for falske resultater. \\
-Den matematiske definition af sensitivitet er:
+Undersøgelser kan vise både falsk positive og falsk negative resultater. Disse falske resultater er problematiske, idet resultaterne betyder, at patienten kan få den forkerte behandling \citep{Lalkhen2008}. For knæartrosepatienter kan falsk positive resultater betyde, at patienten ikke vil blive tilbudt en TKA-operation, selvom denne ikke har central sensibilisering. Ligeledes kan falsk negative resultater betyde, at en patient med central sensibilisering vil få en TKA-operation, hvorefter denne patient har betydeligt større risiko for at udvikle kroniske smerter end andre patienter. En undersøgelses sensitivitet og specificitet kan anvendes til at undersøge risikoen for falske resultater. Den matematiske definition af sensitivitet er:
 \vspace{-0.50cm}
 \begin{center}
 	\begin{equation}
@@ -85,6 +84,7 @@ Den matematiske definition af sensitivitet er:
 
 Herudfra kan det ses, at sensitiviteten af en undersøgelse vil stige, når antallet af falsk negative resultater falder. En undersøgelse med en sensitivitet på 100~\% vil korrekt identificere alle patienter med sygdommen. Hvis undersøgelsen har en sensitivitet på mindre end 100~\%, vil en del af de patienter, som har sygdommen, have falsk negative resultater og hermed blive fejldiagnosticeret. Sensitivitet er dermed et udtryk for hvor stor en andel af patienterne med en sygdom, undersøgelsen kan detektere. \citep{Lalkhen2008} \\
 Specificitet er det modsatte af sensitivitet, hvilket vil sige, at en undersøgelses specificitet er et udtryk for, hvor mange patienter som ikke har sygdommen undersøgelsen korrekt vil være i stand til at identificere \citep{Lalkhen2008}. Den matematiske definition på specificitet er:
+\vspace{-0.50cm}
 \begin{center}
 	\begin{equation}
 	Specificitet=\frac{SN}{SN+FP}
@@ -97,7 +97,7 @@ Der er på nuværende tidspunkt ikke publiceret data omkring sensitiviteten og s
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.7\textwidth]{figures/dHTAanalyse/AUC}
+\includegraphics[width=0.7\textwidth]{figures/dHTAanalyse/AUC2}
 \caption{Figuren illustrerer tre mulige sammenhænge mellem sensitivitet og specificitet, når cut-off værdien for undersøgelsen ændres. Op ad y-aksen er den sande positive brøkdel (sensitiviteten) angivet, mens den falsk positive brøkdel (100 minus specificiteten) er hen ad x-aksen. Linje C viser plottet for en ideel undersøgelse, mens linje B viser det typiske plot for en undersøgelse, som anvendes normalt i klinisk praksis. Den stiplede linje, A, viser linjen for nul diskrimination. \citep{Lalkhen2008}}\label{fig:AUC}
 \end{figure} \vspace{-.25cm}
 
@@ -128,7 +128,6 @@ Et review af \citer{Suokas2012} har undersøgt forskellige studiers PPT-resultat
 Resultaterne præsenteret i studierne af \citer{Suokas2012} og \citer{Wylde2013}, som ses i \tabref{tab:PPT_rask_syg} viser, at der imellem raske og knæartrosepatienter er en signifikant forskel på gennemsnitlige PPT-værdier. Der ses heraf en tendens til at knæartrosepatienterne kan modstå mindre tryk førend sensationen af stimuli opfattes som smerte, end hos raske personer.
 
 PPT bliver ligeledes benyttet af \citer{Petersen2015} og \citer{Wright2015}, men til at undersøge forskellen af resultater imellem knæartrosepatienter. \citer{Wright2015} inddelte patienterne, som havde undergået en TKA-operation, i grupper; en gruppe med moderat til kraftig smerte mindst 12 måneder efter operationen (Gruppe A) og en gruppe uden smerter mindst 12 måneder efter operationen (Gruppe B). Gruppe A havde gennemsnitligt PPT-værdier på 282 kPa ved knæet og på 314 kPa ved den distale albue. Gruppe B havde gennemsnitligt PPT-værdier på 416 kPa ved knæet og på 454 kPa ved den distale albue. Studiet af \citer{Petersen2015} viste ikke samme grad af spredning i resultaterne mellem grupperne med og uden kronisk postoperativ smerte, men viste samme forskel mellem gruppen med lav og høj smerte som påvist af \citer{Wright2015}. Gruppen i studiet af \citer{Petersen2015} med lave kroniske postoperative smerter havde en gennemsnitlig PPT-værdi på henholdsvis 600 $\pm$ 25 kPa ved det påvirkede knæ og 460 $\pm$ 10 kPa på armen. Gruppen med høje kroniske postoperative smerter havde en PPT-værdi på 550 $\pm$ 50 kPa ved det påvirkede knæ og 460 $\pm$ 20 kPa på armen. \citep{Petersen2015} Ovenstående PPT-resultater fra \citer{Petersen2015} er aflæst fra en graf. PPT-resultaterne fra \citer{Petersen2015} omhandlende målingerne fra armen viste ingen signifikant forskel, hvilket modsat var tilfældet for den kontralaterale arm. Dette er tilfældet da resultaterne fra \citer{Wright2015} kun havde PPT-målinger fra den kolaterale arm, hvoraf resultaterne ikke ville være sammenlignelige. 
-
 \begin{table}[H]
 	\centering
 	\resizebox{\textwidth}{!}{%
@@ -162,7 +161,7 @@ I studier af \citer{Petersen2016} og \citer{Petersen2015} er det undersøgt, hvo
 	}
 	\caption{I tabellen ses resultaterne vedrørende CPM og TSP målinger på gruppering med nedsat CPM og faciliteret TSP. Da grupperne med nedsat CPM har negative CMP-resultater, betyder dette at patienterne generelt skulle have tilført mindre tryk for perception af smerte.}
 	\label{tab:CPM_TSP}
-\end{table}
+\end{table}\vspace{-.25cm}
 
 Resultaterne præsenteret i studierne \citer{Vaegter2016} og \citer{Petersen2016}, som ses i \tabref{tab:CPM_TSP} viser, at kroniske smertepatienter har nedsat CPM og faciliteret TSP. Det påvises i studierne, at patienter med disse tilstande har signifikant højere forekomst af kroniske postoperative smerter. \citep{Petersen2016} \citep{Vaegter2016} Det skal bemærkes at \citer{Vaegter2016} generelt fokuserer på kroniske smertepatienter, mens \citer{Petersen2016} fokuserer specifikt på knæartrosepatienter med kronisk postoperativt smerte.
 
@@ -179,6 +178,7 @@ I et studie af \citer{Nielsen2015} er reproducerbarheden for manuelt udførte PP
 \begin{table}[H]
 	\centering
 	\begin{tabular}{cc}
+					\hline
 		\rowcolor[HTML]{C0C0C0} 
 		ICC & Styrke  \\ \hline
 		> 0,75                  & Fremragende            \\
